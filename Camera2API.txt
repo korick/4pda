@@ -1,0 +1,279 @@
+
+
+
+
+
+
+подготовлено участниками форума 4pda.ru
+
+
+
+
+
+
+
+
+6.1.021 | 5.1.235 | 
+Google Camera – портированное приложение Камеры со смартфонов Google Pixel, Nexus.
+Google Camera может работать не на всех устройствах даже с поддержкой Cam2Api. 
+Camera2 API support (find a working Modded Google Camera app
+https://www.celsoazevedo.com/files/android/google-camera/
+https://www.celsoazevedo.com/files/android/google-camera/dev-parrot043/
+
+Плохая новость заключается в том, что невозможно просто перезаписать ваше стандартное ПЗУ с помощью API-интерфейса Camera2 — вам придется пересобрать ПЗУ и добавить поддержку Camera2 API самостоятельно, либо перепрограммировать пользовательское ПЗУ со встроенным API. Есть несколько хитростей, чтобы включить Camera2 API, если он был оставлен в вашем ПЗУ, но отключен производителем. На MTK в Engineering Mode можно делать фотографии в формате RAW на устройствах Mediatek.
+
+Сравнение JPEG - RAW:
+JPEG может казаться более ярким или иметь другие визуальные улучшения — это связано с тем, что файлы JPEG постобработаны ПО камеры и встроены в данные изображения.
+RAW отсутствие постобработки со стороны ПО камеры — это именно то, что вам нужно. Постобработка полностью находится под вашим контролем. Это означает, что фотографии RAW могут быть улучшены в гораздо большей степени, чем JPEG, потому что вы не боретесь с "магией" постобработки ПО камеры. Но нужны хотя бы начальные навыки работы в Photoshop, каждую фотографию прийдётся редактировать.
+RAW - .dng формат изображения без потерь, без сжатия, loseless, но значительно больший размер файла в 10 раз
+.dng 23MB Формат:??? Сжатие:нет      формат изображения RAW
+.jpg  3MB Формат:RGB Сжатие:Huffman  миниатюра RAW дополнительный файл
+.psd  5MB Формат:RGB Сжатие:RLE      формат изображения Photoshop
+.tif  3MB Формат:RGB Сжатие:нет, LZ  формат изображения типографский
+.png  1MB Формат:Palette Сжатие:LZ77 формат изображения для Web
+.flac - формат аудио без потерь, 
+.     - формат видео без потерь, 
+
+Как работает HDR и HDR+
+Стандартный режим HDR (High-Dynamic Range широкий динамический диапазон). Он был разработан для расширения ДД, который у всех смартфонов узкий из-за конструктивных особенностей матрицы. Суть его работы следующая: когда делается фото, камера снимает три фотографии вместо одной.
+- Первая - со стандартной экспозицией.
+- Вторая - переэкспонированная, то есть с очень завышенной яркостью по всему кадру, что позволяет зафиксировать тёмные участки, которые плохо улавливаются с нормальным уровнем экспозиции.
+- Третья - недоэкспонированная. С её помощью алгоритмы захватывают секторы, которые слишком засвечены в нормальном режиме.
+Потом эти фото объединяются в одно, чтобы совместить лучшую информацию с пересеченных и тёмных участков для создания снимка, где они будут одинаково хорошо отображены.
+
+HDR+ (High-Dynamic Range + Low noise) работает примерно так же, но с применением намного более сложного алгоритма. Он использует короткую выдержку и делает намного больше фотографий, причем только недоэкспонированных (от 15 до 30), сортирует их и выбирает лучший для основы. Затем на него накладывает данные с остальных, наиболее удачных.
+Поэтому фотографии получаются не смазанные, а мощное шумоподавление прекрасно удаляет цифровой шум, из-за чего даже ночью можно получить красивое изображение. Алгоритмы часто меняются, улучшаются, и до сих пор ни один производитель "не переплюнул" эту разработку.
+Сейчас Google совместили HDR+ с ZSL (Zero Shutting Lag). Она заставляет камеру непрерывно фиксировать от 15 до 30 фотографий. В момент нажатия на спуск затвора алгоритм выбирает оптимальные кадры из буфера и склеивает их. Таким образом, удается получить не смазанный снимок, причем мгновенно.
+
+Night Sight. Основан на машинном обучении и ещё более проработанным HDR+. Он творит настоящие чудеса, делая яркие, крайне детализированные фотографии в очень тёмных местах. Иногда они даже неестественно яркие. Также порой алгоритм "сбоит" и допускает ошибки.
+Motion. Режим камеры похож на "Live Photo", который имеется в iOS. Когда вы активируете эту функцию и делаете снимок, он сопровождается коротким видеороликом.
+Smartburst. Актуален при съёмке динамичных сцен, например, во время просмотра спортивных мероприятий. Если нажать и удерживать кнопку спуска затвора в течение нескольких секунд, камера будет непрерывно фотографировать, а потом автоматически выберет самый резкий и удачный снимок.
+Slow Motion. Замедленная съёмка. Максимальная частота кадров зависит от модели смартфона. Например, в Redmi Note 5 это 120 FPS.
+Сфера. Функция позволяет получать 360-градусные панорамы всего, что находится вокруг вас.
+Портрет. Изображение с размытым фоном. На первый взгляд может показаться, что в нём ничего особенного, но он умеет делать снимки с HDR+, а для отделения фона ему не нужна вторая камера. Работает с основной и фронтальной камерами. Изображения получаются отменного качества.
+Google Lens. Надстройка. Анализирует всё, что находится перед объективом. Например, с её помощью можно перевести текст на вывесках или определить название какого-то дерева, просто сфотографировав его.
+
+Пробуйте разные модификации, экспериментируйте с конфигурациями (конфигурационными файлами) и сможете получать отличные фото на основную и фронтальную камеры.
+
+Как сделать красивое фото на телефон?
+Если хотите получить максимально качественную фотографию (потребуется штатив или упор, чтобы смартфон не двигался), сделайте следующее.
+- Режим авто-экспозиции переключитесь на Min.ISO
+- Параметры HDR+ - Супер высокие
+- Качество изображения - 97%
+- Во время съёмки устройство не трясти. Ждать обработку (долго), но вы получите идеальный кадр, даже ночью. Почти без шумов и с прекрасной детализацией. Не забудьте вернуть стандартные настройки.
+
+Как настроить Google Camera?
+Моды отличаются друг от друга. Некоторые дают регулировать почти все аспекты, другие максимально упрощены.
+Активировать менять только основные параметры. Также используйте рекомендуемые автором мода пресеты, которые иногда написаны на сайте и обозначены тегом "Suggested settings".
+
+Camera2 API Camera2API Cam2api - Второе API камеры для приложения Android Camera - это framework, API-интерфейс, драйвера, приложение, прямой доступ к аппаратному обеспечению камеры. Преемником оригинального 1API для Android Camera использует модель конвейера, позволяя разработчикам получить прямой доступ к аппаратному обеспечению камеры.
+https://m.habr.com/ru/post/468083/
+Если тест на Cam2api тело не проходит, надо принудительно включать 2API, а тут без рута никак, соответственно нужен разблокированный загрузчик.
+Cam2Api изначально доступна на большинстве устройств с процессором Snapdragon 845 и выше.
+Если в списке нет камеры, проверенной на вашем устройстве, просто попробуйте версию от смартфона с аналогичным железом.
+
+Активация Camera2API на некоторых платформах Qualcomm
+https://4pda.ru/forum/index.php?showtopic=740544&view=findpost&p=51262340
+тест Camera2API:
+Manual Camera Compatibility play.google.com/store/apps/details?id=pl.vipek.camera2_compatibility_test
+Camera2+Probe.apk, Camera2API_test.apk
+1 способ twrp-Camera_2API_addon-1.zip
+2 способ Magisk-Camera2api_enabler.zip
+3 способ Идём в /system/build.prop и в самый конец добавляем строчку persist.camera.HAL3.enabled=1 (Редактор BuildProp)
+
+Активация Camera2API:
+https://forum.xda-developers.com/mi-a1/how-to/guide-enable-camera2-api-eis-stock-t3883017
+https://forum.xda-developers.com/mi-a1/how-to/tool-google-camera-root-magisk-enable-t3747585
+adb devices
+adb reboot bootloader
+fastboot oem unlock # reboot & wipe & setup
+fastboot boot twrp.img
+twrp
+adb push Magisk-v18.0.zip /sdcard
+twrp Install Magisk-v18.0.zip
+adb shell
+su
+setprop persist.camera.HAL3.enabled 1
+setprop persist.vendor.camera.HAL3.enabled 1 # For PIE, for using ports Gcam v6 3-more commands. For OREO not needed
+setprop persist.camera.stats.test 5
+setprop persist.vendor.camera.stats.test 5
+setprop persist.camera.eis.enable 1 # EIS цифровая стабилизация
+setprop persist.camera.is_mode 4 # ещё какой-то режим
+setprop ro.vendor.sensors.pseudo_gyro true # Включение панорамы и сферы (круговой панорамы) в Gcam на кастомных прошивках
+exit
+Uninstall Magisk
+adb reboot bootloader
+Hold buttom Volume- avoid wipe
+fastboot oem lock # reboot to bootloader w/o wipe
+fastboot reboot
+
+Gcam/Configs7/.cfg # для Gcam7+
+Gcam/Configs/.cfg # для Gcam6.1-
+Gcam тапаем два раза рядом с кнопкой съёмки. Откроется меню для выбора файла конфигурации.
+
+
+
+
+trCamera 
+Snap Camera HDR https://4pda.ru/forum/index.php?showtopic=410643 без cam2api работает. Только не все функции будут доступны.
+https://4pda.ru/forum/index.php?showtopic=921167&view=findpost&p=84783266
+Manual Camera https://4pda.ru/forum/index.php?showtopic=636264
+Camera FV-5 raw https://4pda.ru/forum/index.php?showtopic=321250
+Open Camera 
+GCam
+https://www.miui.net.in/best-google-camera-for-redmi-note-6-pro/ откуда ни качай, изначально тут celsoazevedo.com
+https://4pda.ru/forum/dl/post/16206986/MGC_6.1.021_BSG_Arnova-TlnNeun_Urnyx05-v4.3.apk
+поставьте 6ю версию и включите слежение за объектом. Всё прекрасно фокусируется. Он находит обьект даже после полной потери его из кадра!
+
+ANXCamera @Zackptg5
+Magisk порт MIUI Camera для устройств Xiaomi, использующих прошивки на основе AOSP. Как правило, ANXCamera портирована с последних версий MIUI для новых устройств.
+Позволяет использовать панорамные снимки, 960FPS, 4K EIS, Beauty Mode и др. (зависит от устройства).
+ANXCamera - порт MIUI Camera для устройств Xiaomi, использующих прошивки на основе AOSP. Как правило, ANXCamera портирована с последних версий MIUI новых многофункциональных устройств.
+Только 64битные устройства, неофициальная сборка для 32битных устройств с 32битными библиотеками. Сборка работает на Xiaomi Redmi 7A, crDroid. Разработчик пообещал добавить официальную поддержку 32битных устройств в следующем билде. ANXCameraUnity_179.WigglyExtraneousAnnelid_arm32bit wo arm64.zip
+https://camera.aeonax.com/#instructions
+https://camera.aeonax.com/#postdownloads
+https://sourceforge.net/projects/anxcamera/
+https://4pda.ru/forum/index.php?showtopic=843632&view=findpost&p=95772018
+Для установки скачать .zip и установить через Magisk, после проверить необходимость установки аддонов, перезагрузиться и пользоваться.
+Для удаления удалить через magisk manager или установить тот же .zip через magisk, перезагрузиться.
+Changelog:
+https://github.com/nckmml/ANXCamera/wiki/ANXCamera-Changelogs
+https://github.com/XEonAX/ANXCamera
+https://www.pling.com/u/aeonax/
+https://www.pling.com/p/1321115/
+https://www.pling.com/p/1374766/
+ANXCameraUnity_179.WigglyExtraneousAnnelid.zip abdb28b69a78162ad75681e87f27e4b1
+v179 - AOSP P and 10:
+    Add 55 More Devices
+    Add device codename logging to firebase
+    Use ANXMODEL instead of Build.Model
+ANXCameraUnity_180.ImpoliteMediumIberiannase.zip a615aacadec3dfcf262816fa0c6f5f00
+ANXCameraUnity_180.ImpoliteMediumIberiannase.zip\system\priv-app\ANXCamera\lib\arm64\
+v180 - AOSP P and 10: Final P Build
+    Decoupled Android One cheatcodes
+    Add ANX Global and ANX International cheatcodes
+    Trying to fix last mode launch from Lock Screen
+    Add 32Bit libs
+    Add Pine Support
+    Updated Whyred Support
+    Use along with ANXCamera Pro v88+
+    Final P Build
+ANXCameraUnity_181.SophisticatedTruthfulCob.zip
+v181 - AOSP 10:
+    Based on Mi 10 Pro
+    First Miui 12 Camera Build 
+48MPFixQ_180.VirtuousNoisyEmperorshrimp.zip 021c6e32a6563ec88d13904cf14f63eb dllb2.pling.com
+
+
+
+
+Мобильной фотографии тред
+https://ch.hk/mobi/
+От чего зависит качество снимка:
+- Камера – светосила, она же апертура, она же диафрагма (ниже - лучше), размер матрицы и размер пикселя. Пример: f/1.7, 1/2.5", 1.4 µm - Galaxy S7. Стабилизация, качество линз и софтовые алгоритмы обработки – показатели не числовые, но так же важны. Количество мегапикселей – чистый маркетинг. Сравнивать характеристики удобно на http://phonearena.com (+ есть примеры снимков).
+- Софт – в разных приложениях разная программная обработка (поверх софтовых алгоритмов самого устройства). Поддержка Camera2API даёт формат без обработки - raw.
+Рекомендуемые приложения: Snap Camera, FreeDCam (частичный функционал Camera2API для девайсов без его поддержки, иногда глючит), Manual Camera, Open Camera
+- Постобработка – проявление raw, шумоподавление, баланс цветов. Мобильные приложения: Snapseed, Lightroom. На ПК: Rawtherapee, Lightroom.
+
+Узнать на что сделан снимок можно глянув в его EXIF, если тот не стёрт. Смотреть EXIF можно в свойствах фото на ПК, расширениях браузеров или Дашчане.
+Максимальное разрешение фото на доске – 4096x4096. Можно ужать без потерь, например, Дашчаном.
+Сравнение фотофрагментов смартфонов – http://phonearena.com/phones/camera http://gsmarena.com/piccmp.php3?idType=4
+Поддерживает ли смарт Camera2API (начиная с Android 5.0) – https://play.google.com/store/apps/details?id=pl.vipek.camera2_compatibility_test
+
+Традиционно наименее замороченными считаются: последние Гэлакси, Айфоны, Гуглофоны, Лыжи и флагманские Люмии. Но нужно понимать, что намного больше зависит от умений фотографа в ручной режим и при желании хорошие фото можно делать на тапок. Да прибудут с тобой коты, дворы, макро в клумбах, леса, незаваленный горизонт и много путешествий.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Redmi 9A         2020 A10 MediaTek Helio G25 2/32 PowerVR GE8320
+Redmi 8A         2019 A9.0 Qualcomm Snapdragon 439 2(3)/32 Adreno 505 IPS 720x1520 Динамик моно Камера сзади 12 спереди 8 2API+
+Redmi 8          Qualcomm 2019 A9.0 A10
+Redmi 7          Qualcomm 2019 A9.0 2(3)/16(32) Adreno 506
+Redmi 6 Pro      Qualcomm
+Redmi 6          2018 A8.1, A9.0 MediaTek Helio P22 3(4)/32(64) PowerVR GE8320 IPS 60Гц 720x1440 Динамик моно Камера сзади 12+5 спереди 5
+Redmi 6A         2018 A8.1, A9.0 MediaTek Helio A22 2/16(32)    PowerVR GE8320 IPS 60Гц 720x1440 Динамик моно Камера сзади 13 спереди 5
+Redmi 5 Plus     Qualcomm Обсуждение камеры Xiaomi Redmi 5 Plus Qualcomm https://4pda.ru/forum/index.php?showtopic=880325
+Redmi 5A         Qualcomm
+Redmi 5          Qualcomm Обсуждение камеры Xiaomi Redmi 5 Qualcomm https://4pda.ru/forum/index.php?showtopic=890521
+Redmi 4A         Qualcomm
+Redmi 4X         Qualcomm
+Redmi 4          Qualcomm
+Redmi 3          Qualcomm
+Redmi Note 8 Pro 2019 A9.0 A10 Mediatek Helio G90T 6(8)64/128(128) Mali-G76 MP4 begonia Камера сзади:64 Вторая камера:8 Третья камера:2 Камера спереди:20
+Redmi Note 8     Qualcomm
+Redmi Note 7 Pro Qualcomm
+Redmi Note 7     Qualcomm 2API+
+Redmi Note 6 Pro Qualcomm
+Redmi Note 5A    Qualcomm
+Redmi Note 5 Pro Qualcomm
+Redmi Note 5     Qualcomm
+Redmi Note 4X    Qualcomm
+Redmi Note 4     A6 A7 MediaTek MT6797 2(3,4)/16(32,64) Mali-T880 MP4
+Redmi Note 3 Pro Qualcomm
+Redmi Note 3     A5.0 MediaTek MT6795 2(3)/16(32) PowerVR G6200
+Redmi Note 2     A5.0 MediaTek MT6795 2/16 PowerVR G6200MP4
+
+
+
+
+Обсуждение камеры Xiaomi Redmi 5 Qualcomm
+Порт Google Camera 5.* [ 104 ] [20,19%]
+Порт Google Camera 6.* [ 85 ] [16,5%]
+От кого порт для Google Camera Вы предпочитаете?
+От Артура    [ 92 ] [17,86%]
+От Arnova8G2 [ 32 ] [6,21%]
+От BSG       [ 20 ] [3,88%]
+Сенсор OmniVision 12A10_i http://www.ovt.com/sensors/OV12A10 или Sony IMX486_ii
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

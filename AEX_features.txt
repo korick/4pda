@@ -1,0 +1,78 @@
+
+AEX Key Features:
+- AppOps
+- DU Font Engine
+- DT2S On Navbar
+- One-Handed UI
+- Live Display
+- Expanded Desktop
+- DUI(Fling/Pulse/Smartbar)
+- Statusbar Clock/Date Customizations
+- Dashboard Suggestions/Summaries (Enable/Disable)
+- Notification Intervals
+- Increasing Volume in Ringtone
+- Long Press Back button  to Kill App
+- Dashboard Column Configurations
+- Detailed Location QS Tile!
+- Statusbar Traffic Indicators
+- Notification Count
+- DT2S On Statusbar and Lockscreen
+- QS Quick Pulldown
+- QS Brightness Slider (Enable/Disable)
+- QS Tiles Animations
+- Force Expand Notifications (Enable/Disable)
+- Immersive Mode messages (Enable/Disable)
+- Flashlight Notifications
+- Oreo/Pie Recents Styles
+- Toast Icon
+- Power Menu Customizations
+- Additional Battery Saver steps
+- Volume Rocker Tweaks (Wake/Music seek/Keyboard cursor control/Swap in landscape mode)
+- Fingerprint Gestures Support
+- QS Haptic Feedback
+- One Tap Data & Wifi Tile
+- Auto Brightness Icon Toggle
+- Breathing Notifications
+- Long Press Gear Icon in Statusbar Header Launches Extensions
+- Show 4G instead of LTE switch
+- Reading Mode QS Tile
+- Long press Caffeine Tile Action
+- Customize QS Rows/Columns
+- Customize small QS Tiles
+- StatusBar Brightness Control
+- Lockscreen Shortcut
+- Quick Unlock for PIN/Password
+- Battery Styles and Percentage
+- Flip Button Animation
+- Unlink Notification Volume
+- Status bar Clock Seconds
+- AEXPapers - our wallpaper app
+- Via/Jelly Browser
+- Retro Music Player
+- Pixel's UI, Ringtones, and Wallpapers
+- Camera Sound Toggle
+- Advanced Ambient Display Customizations
+- Smart Pixels
+- Long-press Power Button on Lockscreen for Torch
+- Wakelock Blocker
+- Toggle Lockscreen Media Art
+- Toggle Lockscreen Music Visualizer
+- Ticker
+- Disable QS on Secured Lockscreen
+- Toggle Dynamic Notification Card's Color
+- Low Battery Notification Toggle
+- Hide Clock/Date/Alarm Text from Lockscreen
+- Lock screen Clock's Font Customizations
+- Weather on Lockscreen and Status Bar
+- Heads up Customizations
+- DU's HW Button Rebinding
+- Button Backlight Customizations
+- Oreo Recents Clear All FAB button and Re-positioning
+- Oreo Recents Free Ram bar
+- Custom Carrier label
+- Toggle power menu on Secured Lockscreen
+- CPU Info Switch
+- Disable Orange Color in Battery Saver Mode
+- New Pretty Adaptive Icons for included AOSP apps
+- Run SysUI tuner from Extensions
+- Built-in Light/Dark/Black/Chocolate/Wallpaper-Based and EXTENDED UI Themes

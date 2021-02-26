@@ -1,0 +1,939 @@
+https://github.com/korick/4pda/raw/master/manual_Redmi_8a.txt
+скачать, читать удобнее на ПК
+Notepad++ https://github.com/notepad-plus-plus/notepad-plus-plus | https://notepad-plus-plus.org/downloads
+.\plugins\DSpellCheck\ https://github.com/Predelnik/DSpellCheck/releases/
+.\plugins\Config\Hunspell\ru_RU.aff, ru_RU.dic https://github.com/LibreOffice/dictionaries/ru_RU/
+кодировка UTF-8, синтаксис YAML или MD (markdown) для удобочитаемости
+подготовлено участниками форума 4pda.ru
+
+! ВСЁ НИЖЕ ОПИСАННОЕ ОТНОСИТСЯ ТОЛЬКО ДЛЯ ТЕЛА REDMI 8A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Redmi 8A имеет рандомные по качеству: так что рекомендовать его к покупке вряд ли стоит.
+- дешёвый, но 2/32 маловато для игр (нужно 3/32)
+- экраны,
+- плохую связь, урезанный антенный блок мобильной связи связь держит плохо. На одной антенне висит Wi-Fi и BT, когда включается BT, падает скорость Wi-Fi
+- плохую камеру,
+В большинстве Redmi 8а стоит модуль камеры IMX486 или Omnivision омнивижен. IMX363 только в индийской версии тела (модуль Samsung s5k217, и по характеристикам и по фото, ни чем не уступает IMX363, но чуть лучше чем IMX486).
+Индийская версия тела, работает на ~20% шустрее, за счёт своей индийской прошивки (~70% приложений для Xiaomi пишут индусы).
+- тачи, без бинарника .bin в firmware не разблокируется экран при первом входе в twrp, нужен twrp_mod или использовать мышку через OTG.
+
+IMX486 в Redmi 6 намного лучше фотает чем тот шлак который запихнули сюда (в Redmi 9A), тут скорее всего какой-то Омнивижен дешманский.
+
+Redmi 9A (в сравнение с Redmi 8A):
+MTK. microUSB. тёмный дисплей, плохо читаемый на солнце. связь держит хорошо. 
+
+
+
+
+
+
+
+
+Установка кастомной прошивки
+| сток Redmi 8a 2/32 | Android 9 PKQ1.190319.001 | MIUI Global Стабильная 10.3.1.0 PCPMIXM | Версия ядра 4.9.112-perf-g8bcd0c1 |
+
+A9 11.0.3.0 сток глобальная стабильная
+MIUI 11.0.3.0.PCPMIXM A9 recovery 1.7GB MD5: 1AA20D5B67797BA5600DDFA8471DE35D
+https://bigota.d.miui.com/V11.0.3.0.PCPMIXM/miui_OLIVELITEGlobal_V11.0.3.0.PCPMIXM_1aa20d5b67_9.0.zip
+MIUI 11.0.3.0.PCPMIXM A9 fastboot 2.9GB MD5: FEA07858F94CF62C4221E1B6537A74C1
+https://bigota.d.miui.com/V11.0.3.0.PCPMIXM/olivelite_global_images_V11.0.3.0.PCPMIXM_20191219.0000.00_9.0_global_fea07858f9.tgz
+MIUI_11.0.3.0_del.zip recovery 1.7GB MD5: 10559e608a8891731e0c4613c9176854
+
+A9 сток глобальная стабильная
+boot_orig_11.0.3.0 global_images_V11.0.3.0.PCPMIXM.7z 10.2MB MD5: AAD0580B391767241EFE2E6E2EAD9FBE
+boot_patch_11.0.3.0.img 15.8Mb MD5: 95158FBD87164EEACEFF2D6F4D213569
+https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=92099075
+https://4pda.ru/forum/dl/post/18425077/global_images_V11.0.3.0.PCPMIXM.7z
+Magisk-v20.4.zip Stable 5.6MB MD5: 9503FC692E03D60CB8897FF2753C193F
+Magisk-uninstaller-20200323.zip 2MB
+MagiskManager-v7.5.1.apk 2MB уже встроен в Magisk-v20.4.zip для twrp
+https://github.com/topjohnwu/Magisk/releases/
+TWRP 3.4.0-0 Official twrp-3.4.0-0-olivelite.img 64MB MD5: a7a9eb930537c49b0de368dc40fbafea
+приобрёл статус Official
+https://dl.twrp.me/olivelite
+https://twrp.me/xiaomi/xiaomiredmi8a
+twrp 3.4.0.0-20200914 r8a_3_4_0_0.img 64MB MD5: A2DB8CAB5C69D32E61668946163EC6C7
+добавлен драйвер экрана focaltech
+работает поддерживает шифрование на A9 A10
+отключена проверка compatibility.zip на офф. прошивках
+отключено ограничение яркости
+https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=99830988
+OrangeFox Recovery Project Official для Redmi 8a
+официальное
+есть разделы для бекапа, сделать бекап через OrangeFox
+Прошивать строго через официальное TWRP и Официальный OrangeFox, если не через официальное - бутлуп
+https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=93815380
+OrangeFox-R10.1_1-Stable-olivelite.zip 42.7MB MD5: 
+https://4pda.ru/forum/dl/post/19133076/OrangeFox-R10.1_1-Stable-olivelite.zip
+TWRP 3.3.1-altsec_4PDA_9.0_v1.1.img 27.9MB MD5: EA3A47CB7777259AB250527384B7C802
+подходит для A9 A10
+нет разделов для бекапа, делать бекап через ADB
+https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=91923893
+https://4pda.ru/forum/dl/post/18227337/recovery.img
+
+
+
+
+Havoc-OS v3.0
+Havoc-OS @ OpenGL ES 3.2 V@331.0
+https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=92086953
+https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=92329648
+Обновлено от 26.12.2019
+Havoc-OS-v3.0-20191226-A64AB-Unofficial.img 1.03GB MD5: D08DD90877D24A5C020C2A573013BCDA
+https://sourceforge.net/projects/expressluke-gsis/files/HavocOS/Ten/A64/AB/Havoc-OS-v3.0-20191226-A64AB-Unofficial.img.xz
+(фикс) Permissiver_v4.zip 1MB MD5: DD37905E9404328723F892C06852A677
+https://4pda.ru/forum/dl/post/18348565/Permissiver_v4.zip
+(фикс) Disable_Dm-Verity_ForceEncrypt_10.20.2019.zip 2.7MB MD5: 361D8877940E7DCD8C717F352959695C
+https://4pda.ru/forum/dl/post/18348567/Disable_Dm-Verity_ForceEncrypt_10.20.2019.zip
+(фикс) Havoc_RU_26.12.zip 54.4MB MD5: 78028968bfb80756470164c95cc75663
+https://4pda.ru/forum/dl/post/18365603/Havoc_RU_26.12.zip
+(фикс) Dialer.zip 6.6MB MD5: 200d382ade9ebe8c389849eee4eaeabd
+https://4pda.ru/forum/dl/post/18462230/Dialer.zip
+
+GApps ARM32-10-PICO сервисы Google GMS
+(фикс) Certification+Patch.zip 1MB MD5: 376852C0B773ECDF7BF6139560D9BE20
+https://4pda.ru/forum/dl/post/18348566/Certification%2BPatch.zip
+open_gapps-10.0-pico-20191114-BETA
+
+GSI official смотреть в mR6.txt там подробнее
+https://4pda.ru/forum/index.php?showtopic=892755&st=0#entry71222655
+GSI LOS 17.1 A10 UNOFFICIAL Andy Yans
+https://sourceforge.net/projects/andyyan-gsi/files/lineage-17.x/lineage-17.1-20200511-UNOFFICIAL-treble_a64_bvN.img.xz
+GSI HavocOS Official
+https://sourceforge.net/projects/havoc-os/files/a64-ab/
+GSI Resurrection Remix
+https://sourceforge.net/projects/amber-gsi/files/RROS-Q
+
+
+
+вендор V11.0.7.0.PCPMIXM A9 глобал норм + последняя security patch May 2020
+вендор V11.0.6.0.PCPMIXM A9 глобал норм
+вендор V11.0.5.0.PCPMIXM A9 глобал отозвана
+вендор V11.0.4.0.PCPMIXM A9 глобал отозвана
+вендор V11.0.3.0.PCPMIXM A9 глобал норм +
+вендор V11.0.2.0.PCPMIXM A9 глобал отозвана
+вендор V11.0.1.0.PCPMIXM A9 глобал норм
+вендор V10.3.3.0.PCPMIXM A9 глобал норм
+
+; ИНСТРУКЦИЯ ПО УСТАНОВКЕ КАСТОМНОЙ ПРОШИВКИ GSI Havoc-OS v3.0 A10 non-GApps для Redmi 8A
+https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=92086953
+; ? <- ВНИМАНИЕ! это проблемный момент сам не знаю конкретно!
+; ? проверить Havoc-OS v3.0 Android 10 (A10 Q) non-GApps A64_A/B non-GSI Unofficial-Treble Odex операционная система без GApps на базе AOSP. Дата сборки: 7.12.2019. Автор: ExpressLuke. Стабильная, ROOT есть
+; Прошивка классная, очень много настроек кастомизации (раз настроил и забыл, хотя смысла в таком количестве разных настроек как бы и нет)
+; БАГИ:
+; ? - (фикс) Автояркость: не работает
+; - Громкость динамика: звук лучше чем на стоке
+; ? - Видеокамера: установить Footej Camera
+; - (фикс) Недоперевод доп. настроек
+; - (фикс) Запись звонков: установить отдельное приложение Call Recorder или Звонилку Dialer с записью звонков
+; - ROOT: неполноценный РУТ, иногда слетает, перезагрузиться
+; Установка через кастомное twrp, нужна внешняя карта памяти microSD на >=2Gb (возможно не обязательна)
+; если уже стоит сток глобальная стабильная MIUI_10.3.1.0 A9 обновлять до MIUI_11.0.3.0 A9 для кастомов на A10 не обязательно, но желательно чтоб стояло обновлённое firmware, в том числе и vendor
+; если уже стоит сток глобальная стабильная MIUI_11.0.2.0 A10 обновлять до MIUI_11.0.2.0+ A10 для кастомов на A10 не обязательно, но желательно чтоб стояло обновлённое firmware, в том числе и vendor
+; на тело есть MIUI_11.0.3.0 A9, MIUI_11.0.3.0 A10, какой будет стоять вендор - без разницы, подходят оба
+; MIUI_10.3.1.0 A9 -> fastboot прошить vbmeta-zero.img + twrp 3.3.1-altsec A9(A10) -> Перезагрузить из fastboot в twrp -> Перезагрузить из twrp в twrp -> twrp прошить MIUI_11.0.3.0 A9 -> Перезагрузить из twrp в twrp -> проверить или просто прошить vbmeta-zero.img -> twrp прошить Havoc-OS v3.0 A10 + GApps (если надо) + boot (если надо) + Magisk 20.4 A10 (если надо) -> Перезагрузить из twrp в twrp -> Перезагрузить из twrp в system
+; зарядить тело 100%, при <30% встроено что тело не будет прошиваться. Использовать оригинальный USB-кабель, подключать в порт от материнки
+; MIUI_10 A9 разблокировать загрузчик MiFlashUnlock, если не разблокировать - кирпич, если разблокировать - сброс к заводским настройкам (hard reset), удалятся все пользовательские данные
+; MIUI_10 A9 обычный запуск, при загрузке тела на бутанимации отображается "открытый замочек" и надпись unlock (загрузчик разблокирован)
+;
+; logcat на ПК:
+; после прошивки прошивки перед загрузкой в новую систему получить logcat.txt на ПК: данные по загрузке, например во время бутлупа итп.
+; cmd adb logcat > logcat.txt
+;
+; Перед манипуляциями с прошивками с уже разблокированным загрузчиком:
+; Делать бекап перед ЛЮБЫМ изменением прошивки: обязательно!
+; - Сделать бекап OEM (заводских) разделов или через twrp, или через скрипт ADB
+; - Сделать бекап контактов номеров телефонов, журнал вызовов, SMS, MMS, напоминаний календаря (рут, сохранить в текстовой форме, экспорт), etc
+; - Сделать бекап internal storage пользовательское хранилище sdcard видео, аудио, документы, текстовые файлы, etc
+; - Сделать бекап пользовательских приложений (настроек приложений) ещё в рабочей системе (рут, скрины настроек, экспорт)
+;
+; Сделать рекомендации на MIUI прошивке перед прошивкой:
+; - Получать рекомендации-выкл (просто откл. рекламу)
+; - Настройки-поиск-поиск wi-fi-выкл (просто откл. поиск wi-fi)
+; - Удалить данные лица, отпечатки пальцев, а также пароль/код/графический ключ на блокировку телефона
+; - Выйти из аккаунтов синхронизации Google, итп:
+; Настройки-Синхронизация-выбираем аккаунт-Ещё-Удалить аккаунт
+; Настройки-Синхронизация-выбираем аккаунт-выбираем аккаунт-Ещё-Удалить аккаунт
+; - Отвязать устройство от Mi аккаунта, нужен пароль от аккаунта (если привязан): отключить поиск устройства, Удалить аккаунт синхронизации Xiaomi Мi Cloud, Удалить Mi аккаунт с девайса
+; - Режим разработчика-Статус Mi Unlock-Разблокирован
+; - Режим разработчика-Отладка по USB-ВКЛ (советуют для самоуспокоения включить, подтвердить отладку для ПК. Проверить тем самым соединение и способность USB-кабеля передавать данные). Плюс сам ещё включил 2 пункта ниже связанных по смыслу с отладкой
+; Установка через USB-ВКЛ (можно не включать)
+; Отладка по USB (Настройки безопасности)-ВКЛ (можно не включать)
+; - Режим разработчика-OEM разблокировка-ВКЛ отключить на стоке FRP (можно не включать)
+;
+; Подготовить файлы:
+; ! обновлено TWRP 3.3.1 на TWRP 3.4.0 - теперь ставить twrp можно, отключена проверка compatibility.zip, прошивать vbmeta-zero.img надо
+; - распаковать прошивку Havoc-OS-v3.0-20191226-A64AB-Unofficial.img.xz -> Havoc-OS.img
+; - удалить в прошивке для recovery архив MIUI_11.0.3.0.zip\compatibility.zip (зайти в архив как в папку в Total Commander (TC) и удалить архив compatibility.zip, произойдёт переархивация)
+; - удалить в прошивке для recovery образ MIUI_11.0.3.0.zip\firmware-update\vbmeta.img
+; - удалить в прошивке для recovery строку в файле MIUI_11.0.3.0.zip\META-INF\com\google\android\updater-script
+; package_extract_file("firmware-update/vbmeta.img", "/dev/block/bootdevice/by-name/vbmeta")
+; - модифицировать образ раздела vbmeta.img вручную или скачать уже готовый vbmeta-zero.img
+; /vbmeta - раздел для всевозможных проверок целостности процесса загрузки: recovery, system, vendor, dtbo, boot, ?, etc
+; Достать vbmeta.img:
+; 0 способ взять уже готовый пропатченый vbmeta-zero.img с форума
+; 1 способ достать стоковый vbmeta.img 4.00KB: MIUI_11.0.3.0.zip\firmware-update\vbmeta.img
+; 2 способ достать Бэкап vbmeta 64.0KB
+; vbmeta -> block mmcblk0p10
+; cmd adb shell dd if=/dev/block/mmcblk0p10 of=/sdcard/vbmeta.img # через ADB (Отладка по USB ВКЛ)
+; dd if=/dev/block/mmcblk0p10 of=/external_sd/vbmeta.img      # через twrp-Advanced-Terminal
+; Модифицировать vbmeta.img:
+; т.к. у меня старая ОС и старый platform-tools_28.0.0-, модифицирую образ vbmeta.img вручную
+; модифицируем вручную по 1 способу (часть раздела с данными 4.00KB (4096 байт), полный раздел: данные + пустое пространство заполненное нулями 64.0KB (65536 байт))
+; В HEX редакторе (например WinHex) почистить файл vbmeta.img - заменить всё, заполнить весь файл нулями 00, оставить на своих местах: "AVB0", "avbtool 1.0.0"
+; AVB0 0000000000000000000000000000000000000000000
+; 0000000000000000000000000000 avbtool 1.1.0 00000
+; 000000000000000000000000000000000000000000000000
+;
+; - проверить подготовленные архивы на ошибки (битые архивы), особенно MIUI_11.0.3.0_del.zip
+; проверить архив можно HaoZip, 7zip, UniExtract, RAR, 
+;
+; ! обновлено TWRP 3.3.1 на TWRP 3.4.0 - теперь ставить twrp можно
+; тело в fastboot, через ПК с установленным ADB и FASTBOOT под учёткой Админ в командной строке прошиваем A9(A10) twrp recovery.img или OrangeFox recovery.img скриптом twrp-installer.bat
+; команды скрипта twrp-installer.bat:
+adb reboot bootloader # перезагрузка в фастбут (если тело не в фастбут)
+fastboot # проверить работает фастбут
+fastboot --version # проверить работает фастбут
+fastboot devices # проверить подключено 1 устройство, драйвера adb установлены
+fastboot getvar unlocked # проверить разблокированный загрузчик MTK
+fastboot oem device-info # проверить разблокированный загрузчик Qualcomm
+fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img # отключить проверки Android Verified Boot (AVB). Команда работает если platform-tools_28.0.0+
+или
+fastboot flash vbmeta vbmeta-zero.img # отключить проверки AVB прошить патченое vbmeta-zero.img в фастбут (можно прошить через фастбут или через рекавери)
+fastboot flash recovery recovery.img # прошить кастомное рекавери twrp в раздел recovery
+fastboot oem reboot-recovery # перезагрузка в рекавери или
+fastboot boot recovery.img # загрузиться в рекавери которое только что прошили. Держать Громкость+ на перезагрузке
+; после прошивки recovery.img и ввода последней команды на загрузку в рекавери, начнётся перезагрузка в twrp, как только пошла перезагрузка постоянно зажать Громкость+, тело провибрирует несколько раз до splashscreenlogo twrp - отпустить Громкость+ (снять чехлы аксессуары итп с тела для удобства)
+; если загрузка не началась - самому выключить тело, перезагрузить в recovery: зажать кн. Питание и Громкость+ - после вибро отпустить Питание, а Громкость+ держать до splashscreenlogo twrp (может грузануться в систему, и начинать прийдёться сначала по новой прошивать recovery.img)
+; twrp 1 способ просто Перезагрузить из twrp в twrp (чтоб не слетало на стоковое), если слетело на стоковое после загрузки в систему и повторной загрузки в стоковое recovery, по-новой прошить recovery.img
+; twrp 2 способ попробовать twrp-Advanced-Sign Boot (чтоб не слетало на стоковое). Перезагрузить из twrp в twrp
+; twrp 3 способ twrp-Advanced-Terminal: удалить файл system_root/system/recovery_fromboot.p (чтоб не слетало на стоковое). Перезагрузить из twrp в twrp
+; twrp wipe пункт1 не для нас, делаем пункт2
+; 2. Для всего остального:
+; twrp wipe Dalvik Cache, Cache, System
+; twrp wipe Format Data (yes). Перезагрузить из twrp в twrp, должна смонтироваться новая Data
+;
+; twrp Install A9 MIUI_11_del.zip
+; twrp проверить раздел vbmeta затёрся (прописались заново данные проверок или так и остался пустым разделом): если что-то прописалось - прошить заново или просто прошить без никаких проверок ещё раз vbmeta-zero.img
+; twrp проверить vbmeta twrp-Advanced-Terminal:
+dd if=/dev/block/mmcblk0p10 of=/external_sd/vbmeta.img # на внешнюю карту, т.к. зашифрована data
+; twrp проверить vbmeta twrp-Advanced-Terminal:
+dd if=/dev/block/by-name/vbmeta of=/external_sd/vbmeta.img
+; twrp проверить vbmeta ПК:
+cmd adb shell "dd if=/dev/block/mmcblk0p10 of=/external_sd/vbmeta.img"
+adb pull /external_sd/vbmeta.img vbmeta.img
+; twrp проверить vbmeta ПК:
+cmd adb shell "dd if=/dev/block/mmcblk0p10 of=/external_sd/vbmeta.img"
+adb pull /external_sd/vbmeta.img "c:\rom\vbmeta.img"
+! cmd adb shell "dd if=/dev/block/mmcblk0p10 > vbmeta.img" # не использовать дописывает timestamp в конце
+;
+; twrp прошить без проверок twrp Install vbmeta-zero.img в /vbmeta
+; twrp прошить без проверок twrp-Advanced-Terminal: dd if=/external_sd/vbmeta-zero.img of=/dev/block/mmcblk0p10
+; twrp 1 способ просто Перезагрузить из twrp в twrp (чтоб не слетало на стоковое), если слетело на стоковое после загрузки в систему и повторной загрузки в стоковое recovery, по-новой прошить recovery.img
+; twrp 2 способ попробовать twrp-Advanced-Sign Boot (чтоб не слетало на стоковое). Перезагрузить из twrp в twrp
+; twrp 3 способ twrp-Advanced-Terminal удалить файл system_root/system/recovery_fromboot.p (чтоб не слетало на стоковое). Перезагрузить из twrp в twrp
+; twrp РУТ Install A9 boot_11.0.3.0.img. Install Magisk-v19.3.zip (какую версию ставить 19.3 или 20.4 без разницы, работают обе). Перезагрузить из twrp в twrp
+; twrp НЕТ РУТ ничего не надо делать. Перезагрузить из twrp в system
+; ? bootloop НЕТ РУТ В twrp 4 способ: Install A9 boot_11.0.3.0.img. (РУТа как бы нет, но бут патченый для Magisk). Перезагрузить из twrp в twrp
+; MIUI 11 A9 первичный запуск, первичная настройка, подождать некоторое время, допустим 5 мин до и после первичной настройки, система устаканится. Сразу отключить в шторке активные сервисы. Возможно в систему заходить и не нужно
+; MIUI 11 A9 первичную настройку системы прошёл
+;
+; twrp wipe Dalvik Cache, Cache, System
+; - если расшифровывать Data не будете: ничего не надо
+; (будет пароль блокировки, пользовательская Data зашифрована в twrp, проблемы с модификацией вендора?)
+; - если расшифровывать Data будете:
+; twrp Install Disable_Dm-Verity_ForceEncrypt_10.20.2019.zip
+; (будет пароль блокировки, пользовательская Data не зашифрована в twrp, можно блокировать тело сторонним приложением напр. macrodroid, можно ковырять/изменять/бекапить Data в twrp)
+; twrp wipe Format Data (yes). Перезагрузить из twrp в twrp, должна смонтироваться новая Data
+;
+; twrp Install A10 Havoc-OS.img (если OS.zip шить в /System, если OS.img шить в /System_Image или через fastboot командами). Install Certification+Patch.zip (надо не только для Gapps)
+;
+; GApps:
+; twrp Mount /System. twrp-wipe-Advanced wipe-system-change-resize partition (изменить размер system)
+; Если при попытке изменить размер пишет ошибки (красные строки) перезагрузить в рекавери и изменить размер ещё раз
+; twrp Install GApps. Перезагрузить из twrp в twrp. Перезагрузить из twrp в system
+;
+; РУТ:
+; twrp РУТ Install boot_patch.img (надо пропатченый boot_11.0.3.0.img от своей MIUI прошивки). Install Magisk-v20.4.zip. Перезагрузить из twrp в twrp. Перезагрузить из twrp в system
+; Надо пропатченый boot от своей версии глобальной прошивки MIUI (вендор). Т.к. структура разделов устройства SAR (system as root), A64_AB - структура разделов A-only, структура директорий A/B. Под устройство подходят кастомные прошивки A64_AB. Magisk не может пропатчить boot сам. Патчится boot вручную или скачивается готовый под определённую версию MIUI
+; twrp НЕТ РУТ ничего не надо делать. Перезагрузить из twrp в system
+; Havoc Отключить Google Play Protect (если РУТ ставится уже после загрузки в систему, если ставили GApps). Install MagiskManager-v7.5.1.apk (в системе, можно не устанавливать в zip есть). Перезагрузить из system в twrp. Install РУТ. Перезагрузить из twrp в system
+;
+; Havoc первичный запуск, тело перезагрузится перед первичным запуском, так называемое шифрование раздела Data?
+; Havoc первичный запуск, первичная настройка, подождать некоторое время, допустим 5 мин до и после первичной настройки, система устаканится. Сразу отключить в шторке активные сервисы
+; Havoc ставил РУТ должно установиться приложение Magisk Manager, как приложение, подождать немного, если не установится попробовать перезагрузить (на этой кастомной прошивке список приложений свайп из самого низу и вверх)
+; Havoc обычный запуск, проверка работоспособности всех компонентов: вставить sim в sim1 позвонить, вставить sim в sim2 позвонить, wi-fi, точка доступа wi-fi, bluetooth, bluetooth наушники, обычные наушники, Камера1, Камера2, USB-модем, фонарик, Отладка по USB ВКЛ, ИК-порт, датчики, GPS, вкл. мобильный интернет и wi-fi проверить скорость, etc
+; Havoc окончательная настройка
+;
+; через некоторое время в системе
+; (фикс) без этих команд кнопки не будут работать (если ставили GApps)
+adb shell settings put secure user_setup_complete 1
+adb shell settings put global device_provisioned 1
+; (фикс) twrp Install Permissiver_v4.zip
+; (фикс) twrp Mount /system. Install Havoc_RU_26.12.zip. Перезагрузить из twrp в system. Проверить изменения
+; (фикс) twrp /system_root/system/product/media/bootanimation.zip - удалил/заменил, раздражает бутанимация из Havoc-v2.9. Перезагрузить из twrp в system. Проверить изменения
+; (фикс) twrp распаковать и заменить Dialer.zip /system/product/priv-app/Dialer/Dialer.apk. (не удалять dialer.odex, dialer.vdex). Перезагрузить из twrp в system. Проверить изменения
+; кастомного ядра нормального пока нет
+https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=100070599
+; lolz ядро не совсем оптимизрованно под наше устройство, поэтому ставьте минимале minimale v2 (с v3 баги UI, падает Лаунчер, не работает шторка, тестить)
+https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=97345180
+; Dragonfire-Kernel-olivelite-20201220-2010.zip A9-A11 (MIUI/GSI) @AstonishingBoy357 Версия: 4.9.248
+; https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=102591180
+; https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=102706413
+; https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=102967576
+;
+; ИНСТРУКЦИЯ ПО УСТАНОВКЕ КАСТОМНОЙ ПРОШИВКИ GSI Havoc-OS v3.8 A10 non-GApps для REDMI 8A
+HavocOS-v3.11-Final A10
+https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=98988031
+; Баги: VoLTE
+; всё так же ставится по инструкции
+; (фикс) Certification+Patch.zip - ставить
+; (фикс) Permissiver_v5.zip - ставить
+; (фикс) Magisk-v20.4(20400).zip - ставить
+; (фикс) OOM patch - не ставить. При проблемах с ОЗУ (если не держит приложения в памяти).
+; (фикс) Lag Fixer v2 - не ставить. Убирает микрофризы и подлагивания.
+; (kernel) minimale v2 - тестить
+;
+
+Как восстановить кирпич?
+Поможет авторизованный сервисный аккаунт. Другого способа прошить в EDL нет. Платно.
+В следующий раз не забыть разблокировать загрузчик, т.к. если будут такие же проблемы, то их можно будет решать без проблем и бесплатно. А сейчас только через EDL. Платно.
+https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=104330037
+
+R8A Не ставится тврп
+https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=102351632
+Бут патчить не надо само все сделает, должно по крайней мере.
+
+R8A Просто если он рабочий, его в скрипт добавить, чтоб он забирал Бут в процессе, патчил и возвращал обратно.
+https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=91752312
+
+R8A Ищу тестеров для нового ядра на основе исходников, что выложили вчера.
+https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=104140955
+
+R8A патченый Бут MIUI 12.0.1
+https://4pda.ru/forum/index.php?showtopic=956662&view=findpost&p=104284370
+
+GCam
+https://www.celsoazevedo.com/files/android/google-camera/
+LGCam-v4.2_x32_mod.apk
+https://4pda.ru/forum/index.php?showtopic=965857&view=findpost&p=98344464
+GC3.1_NightShot_by_Expace.apk
+Как по мне мод 3.1 – лучшее решение для 32х прошивок R8А
+менять профиль и модель на Нексус 6p
+https://4pda.ru/forum/index.php?showtopic=1004090&view=findpost&p=101246632
+https://4pda.ru/forum/index.php?showtopic=1004090&view=findpost&p=101249269
+GCamera (R9A)
+Работает хорошо, Фото, Видео, Переводчик прикольный.
+GCamGo_Redmi_9a_GreatnessNS2.apk
+https://4pda.ru/forum/index.php?showtopic=997713&view=findpost&p=102024589
+GCamGo в разы быстрее работает, качество даже в Go версии несравнимо со стоком,
+на 64 бит работают прекрасно GCam_RN8, 4 минуты выдержка астрофото работает, запустил GCam8, лучше использовать быструю GCamGo
+Camera_iOS_mod_1_0_3.apk (R9A на сток прошивке)
+по качеству фото как сток по моему
+как фотографировать:
+- навести на объект.
+- Зажать кнопку затвора, до сигнала автофокуса или прицел станет зелёным.
+- После срабатывания автофокуса, отпустить кнопку затвора, произойдет захват кадра.
+- лёгкая и быстрая камера.
+https://4pda.ru/forum/index.php?showtopic=997713&view=findpost&p=102030346
+порт One s10 (R9A)
+One_S10_Camera_v3.8_P2.apk
+https://4pda.ru/forum/index.php?showtopic=997713&view=findpost&p=102067384
+
+
+Чтобы тело не лагало, для игр
+/vendor/build.prop:
+dalvik.vm.heapgrowthlimit=64m # минимум памяти, при котором ОС начинает убивать процессы в фоне. Т.е. чем ниже значение, тем больше можно одновременно программ запустить. Но у этого значения есть критическая точка при котором система уходит в бутлуп. На 6а не находил ещё, но к примеру на redmi go - 32. Поэтому у нас 2*32=64
+dalvik.vm.heapsize=640m # можно 512m. объём ОЗУ на 1 приложение. Чем выше тем больше памяти для игр, тем реже они вылетают и лагают. Но тут надо учитывать мощности системы.
+Слишком низко: не сможешь одновременно слушать музыку и смотреть ленту в соцсетях.
+Слишком много: система будет невероятно долго выгружать старую программу ради новой.
+В гугл решили, что для разного объёма ОЗУ свои значения:
+ОЗУ - Значение 1 - 128 2 - 256 3 - 512 4 - 768
+этот параметр увеличиваю в 1,5-2 раза (т.е. у меня 384-512)
+
+
+Сервисные коды:
+*#06# emei, s/n
+*#*#4636#*#* информация и настройки сети и вайфая
+*#*#6485#*#* информация о аккумуляторе
+*#*#86583#*#* вкл/выкл чекбокс VoLTE в настройках сим
+*#*#6484#*#* инженерное меню, тесты/калибровка. На кастомах не работает.
+*#*#717717#*#* вкл/выкл режим diagnostic usb, если не сработает то в терминале: setprop sys.usb.config diag,adb
+*#*#869434#*#* вкл/выкл вызовы по WI-FI VoLTE (второй раз для отключения)
+
+
+Спрятать пункт Phh settings в GSI:
+adb shell
+su
+pm disable me.phh.treble.app/.TopLevelSettingsActivity # выключить
+pm enable me.phh.treble.app/.TopLevelSettingsActivity # включить
+
+Отключить системный рут:
+Настройки-Phh Treble Settings-Misc features-Securize-Выдать рут-права
+Телефон перезагрузится и системный рут пропадёт.
+
+Вылеты GCam:
+https://4pda.ru/forum/index.php?showtopic=957513&view=findpost&p=92881814
+Настройки-Phh Treble Settings-Misc features-Force Enable Camera2API HAL3
+
+Включить 1080p на фронтальной камере:
+Настройки-Phh Treble Settings-Qualcomm features-Use alternate camera profile-перезагрузить
+
+не работает Видеозапись GSI прошивки:
+проблемы с воспроизведением записанного на камеру видео, когда трёхсекундное видео имело длину 20 часов и зацикливалось (или зависало) на первых двух секундах во всех плеерах.
+Настройки-Phh Treble Settings-Misc features-Force timestamp source-Clock boottime-Reboot. Видео сохраняется нормально. Длительность отображается правильно.
+
+не работает при звонке динамик и микрофон. Иногда. GSI прошивка:
+Настройки-Phh Treble Settings-Qualcomm features-Use alternative audio policy (ставим галочку). Всё равно иногда не работает.
+
+Фикс ползунка выше 60% не увеличивается (R8)
+Если яркость не изменяется при уровне 60%
+Настройки-Phh Treble Settings-Misc features-Use linear screen brightness slider-Reboot.
+
+отсутствует индикатор уведомлений: программно
+Missed Notifications Reminder (F-Droid) запись тишины. вибро. https://4pda.ru/forum/index.php?showtopic=704129
+Recurrent Notification Manager https://4pda.ru/forum/index.php?showtopic=786043
+
+откатился с 11.0.8 на 11.0.3 т.к. жрёт оперативу
+
+Гайд по настройкам Phh Treble Settings AOSP
+1. Секция "Misc features" пункт "Use linear screen brightness" - на ранних версиях AOSP, для того, чтобы яркость можно было опустить до минимума.
+Она еще удобно убавляется, первый раз свайпается влево не сразу к минимальной яркости, и только со второго свайпа можно уменьшить до минимума, удобно, не нужно елозить пальцем возле минимального значения дабы подобрать комфортный уровень.
+В последних версиях уже поправили баг с невозможностью убавить яркость на минимум без включения этой настройки, и настройку можно не трогать, но - она теперь работает как написано - из логарифмической в линейную делает ползунок, может кому то так удобнее будет, без "расстянутой" по полосе минимальной яркости, я оставил опцию включенной.
+Подойдет, если хотите точно быть уверенным, что ползунок на 50% это физически 50% яркости, или если на старом аппарате характер регулировки был именно такой.
+1.1. Пункт "Securize" - удаление встроенного рута, после установки нажимаю, чтобы встроенный рут не мешался и не глючил. Если еще и вайпнуть дату (через yes) после Securize, то пропадет раздражающая неотключающаяся отладка по USB. Многие приложения будут ругаться на встроенный рут, если его не удалить, а тот же Total Commander сильно тормозить при открытии, так как пытается получить рут.
+1.2. Пункт Disable audio effects - отключение встроенных в андроид звуковых эффектов по умолчанию. Это те, которые например в проигрывателе Total Commander отображаются - именно это встроенные эффекты.
+1.3. Пункт "Force Timestamp Source" - выбор Clock bootime исправляет рассинхронизацию видео со звуком при записи видео с камеры. Доступно только в новых версиях AOSP. Без этой настройки стабильная запись видео доступна только БЕЗ звука.
+2. Секция "Xiaomi features" можно включить дабл тап по тачу, на новых версиях AOSP это работает.
+3. Секция "Doze features" - настройки пробуждения при открытии чехла или вхмаха руки (на подобие всяких режимов в кармане и т.п. в miui) - однако жесты не работают, хотя датчик приближения всё время светится.
+
+Разблокировка по лицу?
+Гугл её убрал из сервисов на A10 из соображений безопасности.
+
+ФИКС ЯРКОСТИ ДЛЯ GSI
+Мерцание экрана при изменении яркости (A9, на A10 тоже работает). РУТ.
+mR6.txt
+
+ФИКС ОТКЛЮЧЕНИЯ ШИФРОВАНИЯ
+После установки данного фикса перестаёт работать любой тип блокировки телефона. Почему-то телефон считает, если мол пользователь отказывается от шифрования, то и блокировка экрана ему тоже не нужна. Фикс отключает принудительное шифрование, а вместе с ним и блокировку экрана.
+После установки фикса нужно сделать Format data (yes). При этом данные в памяти телефона будут утеряны!
+No+Verity+Treble+4.0.zip
+Disable_Dm-Verity_ForceEncrypt.zip
+
+Кто ставит с гаппсами или гаппсы поверху и не работают потом кнопки, др:
+mR6.txt
+
+Не работают проводные наушники (R7A)
+mR6.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HavocOS-v3.8-Official
+Перезагружаемся в TWRP или OrangeFox
+Кто хочет 64 битную систему ставим Vendor и Boot отсюда x64, кому не надо пропускаем этот пункт
+Через рекавери очищаем разделы System, Dalvik, Data, Cache, Internal Storage
+Извлекаем скачанный архив, копируем извлечённый файл на свой смартфон и прошиваем её в раздел System
+Перезагружаемся и меняем размер System (На OrangeFox делаем следующее Меню-Управление разделами-System-Исправить)
+Устанавливаем фикс-файлы в следующем порядке:
+- Magisk (можно пропускать)
+- Permissiver (можно пропускать)
+- OOM patch (можно пропускать) - Из-за этого патча вылеты, не ставил
+- Certification Patch
+- Lag Fixer v2
+Загружаемся в систему, кому не понравится стоковый лаунчер, устанвливаем Systemless_Lawnchair-v2.1.zip как модуль Magisk
+При установки прошивок GSI без Гугель Сервисов
+Наш раздел System имеет изменёный обьём раздела,
+поэтому при попытки установить Сервисы, в TWRP появляется ошибка
+Как исправить эту ошибку и установить Сервисы?
+Доп. Файлы:
+OOM_patch.zip ( 428,8 КБ ) для A9, на A10 он ничего не меняет
+- Исправление ОЗУ (не выгружает больше приложений в фоне, иногда вылеты игр и приложений, лечится этим патчем)
+Lag_Fixer_v2.zip ( 1,07 КБ ) лаг фиксер, можно убрать прошив ещё раз через тврп
+- Убирает микрофризы и подлагивания
+Systemless_Lawnchair-v2.1.zip ( 6,49 МБ )
+- модуль magisk для замены стандартного лаунчера на Lawnchair launcher
+Certification+Patch.zip ( 1,54 КБ )
+- меняет build.prop, исправляет информацию об устройстве
+Magisk-v20.4(20400).zip ( 5,67 МБ )
+- рут
+Permissiver_v5.zip ( 1,19 МБ )
+- меняет статус Selinux с Enforcing на Permissive
+
+
+
+
+
+
+
+
+
+
+GSI Havoc-OS
+system.img.xz -> распаковать архив system.img
+twrp Install system.img (System). Перезагрузиться из twrp в twrp.
+Mount System.
+wipe - System - восстановить или изменить размер - изменить размер.
+Disable_Dm-Verity_ForceEncrypt_10.20.2019.zip не будет шифрования Data, но и не будет пароля в системе
+Disable_Dm-Verity_ForceEncrypt_12.27.2019.zip
+Selinux.Permissiver_v4_olivelite.zip фикс бутлупа прошить
+Certification+Patch.zip
+wipe Data. Перезагрузиться из twrp в twrp.
+Перезагрузиться из twrp в system.
+если не грузится - Format Data (yes). Перезагрузиться из twrp в twrp.
+Перезагрузиться из twrp в system.
+
+
+
+
+1. Установите MIUI 10 (Fastboot версию) РОМЫ можно брать отсюда
+(я устанавливал olivelite_global_images_V10.3.3.0.PCPMIXM_20191019.0000.00_9.0_global)
+2. Качаем из форума Redmi 7A Havok 3.0 Christmass Edition (тольо сам ром! Havoc-OS-v3.0-20191226-A64AB-Unofficial.img)
+3. Качаем все что внизу этого поста.
+4. Перекидываем все на microSD карту (вн. память будет полностью отформатирован)
+5. Через fastboot устанавливаем boot и recovery (TWRP взято из форума Redmi 8, на наш девайс идет на ура)
+6. Переходим к TWRP нажатием пит. + гр. вверх
+7. Делаем Format Data "yes", 
+8. Устанавливаем Disable_Dm-Verity_ForceEncrypt_12.27.2019 (после этого сможете бэкапить раздел Data, но не сможете поставить пароль на телефон. Выбор за вами. Можно этот пункт пропустить, если бекапить будете как то иначе)
+9. Вайпаем System, Dalvik и Cache
+10. Устанавливаем vbmeta.img, затем Havoc-OS-v3.0-20191226-A64AB-Unofficial.img (vbmeta некоторые устанавливают из Fastboot через команду fastboot flash --disable-verity vbmeta vbmeta.img . Я сам и так и так делал, никакой разницы)
+11. Устанавливаем Permissiver_v5.zip
+12. Для установки Gapps-ов расширяем раздел System через TWRP (Resize system называется, примерный путь в меню - wipe - advanced wipe - выберите system - change - resize partition)
+13. Устанавливаем open_gapps-10.0-pico-20191114-BETA (или свою другую)
+14. Не торопитесь с рутом, перезагрузитесь в систему.
+-
+В системе выполняем эти команды чтобы система правильно работала:
+adb shell settings put secure user_setup_complete 1
+adb shell settings put global device_provisioned 1
+(эти команды заставляют систему думать что Startup Setup Wizard пройден, без этих команд кнопки не будут работать)
+Советую сразу вырубить Google Play Protect если будете делать рут.
+-
+Возвращаемся к TWRP и устанавливаем Magisk-v20.2.zip или более новую. (Если выскакивает error 1, перезапустите рекавери (Reboot - Recovery) )
+Возвращаемся к системе
+ВСЁ
+
+
+
+Havoc-OS
+Havoc-OS v3.0 20191226 A64_AB Unofficial.img
+fastboot Flash MIUI Global 10.3.3.0 PCPMIXM
+---------проверить selinux
+fastboot Flash boot. Flash recovery (TWRP Redmi 8)
+twrp Format Data "yes"
+--------twrp wipe System, Dalvik, Cache
+twrp Install Disable_Dm-Verity_ForceEncrypt_12.27.2019 (/System /Vendor)
+(после этого сможете бэкапить раздел Data, но не сможете поставить пароль на телефон)
+twrp wipe System, Dalvik, Cache
+или1 twrp Install vbmeta.img. (без разницы)
+или2 fastboot flash --disable-verity vbmeta vbmeta.img (без разницы)
+или2 ! ошибка fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img (без разницы)
+twrp Install HOS.img.(/System)
+twrp Install Permissiver_v5 (/System /Vendor)
+resize system gapps twrp wipe - advanced wipe - system - change - resize partition
+twrp Install open_gapps-10.0-pico-20191114-BETA
+перезагрузитесь в систему
+adb shell settings put secure user_setup_complete 1
+adb shell settings put global device_provisioned 1
+(эти команды заставляют систему думать что Startup Setup Wizard пройден. без этих команд кнопки не будут работать)
+вырубить Google Play Protect
+twrp РУТ Install Magisk-v20.2.zip
+(Если выскакивает error 1, перезагрузите рекавери (Reboot - Recovery))
+перезагрузитесь в систему
+ВСЁ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Делаем дамп блоков памяти
+Пример скрипта1 block.sh
+; положить block.sh в /system/bin/block.sh
+; выставить права рут владелец:Группа root:shell 0777
+; в терминале вводим
+; su
+; block
+; разделы будут лежать в корне хранилища
+; переносим на ПК
+; удалить block.sh
+
+block.sh
+#!/system/bin/sh
+dd if=/dev/block/by-name/tee1 of=/sdcard/tee1 # или так
+dd if=/dev/block/by-name/tee1 of=/sdcard/mmcblk0p32 # или так кому как удобнее
+...
+
+
+
+aboot -> /dev/block/by-name/aboot
+aboot -> /dev/block/mmcblk0p31
+abootbak -> /dev/block/mmcblk0p32
+apdp -> /dev/block/mmcblk0p15
+bk1 -> /dev/block/mmcblk0p8
+bk2 -> /dev/block/mmcblk0p9
+bk3 -> /dev/block/mmcblk0p12
+bk4 -> /dev/block/mmcblk0p34
+boot -> /dev/block/mmcblk0p52
+cache -> /dev/block/mmcblk0p57
+cmnlib -> /dev/block/mmcblk0p24
+cmnlib64 -> /dev/block/mmcblk0p26
+cmnlib64bak -> /dev/block/mmcblk0p27
+cmnlibbak -> /dev/block/mmcblk0p25
+config -> /dev/block/mmcblk0p7
+cust -> /dev/block/mmcblk0p61
+DDR -> /dev/block/mmcblk0p5
+devcfg -> /dev/block/mmcblk0p13
+devcfgbak -> /dev/block/mmcblk0p14
+devinfo -> /dev/block/mmcblk0p38
+dip -> /dev/block/mmcblk0p33
+dpo -> /dev/block/mmcblk0p3
+dsp
+dspbak -> /dev/block/mmcblk0p47
+dtbo -> /dev/block/mmcblk0p39
+dtbobak -> /dev/block/mmcblk0p40
+exaid -> /dev/block/mmcblk0p55
+fsc -> /dev/block/mmcblk0p1
+fsg -> /dev/block/mmcblk0p43
+gsort -> /dev/block/mmcblk0p44
+keymaster -> /dev/block/mmcblk0p28
+keymasterbak -> /dev/block/mmcblk0p29
+keystore -> /dev/block/mmcblk0p22
+limits -> /dev/block/mmcblk0p6
+logdump -> /dev/block/mmcblk0p54
+mcfg -> /dev/block/mmcblk0p37
+mdtp -> /dev/block/mmcblk0p50
+mdtpbak -> /dev/block/mmcblk0p51
+minidump -> /dev/block/mmcblk0p56
+misc -> /dev/block/mmcblk0p30
+mmcblk0
+mmcblk0rpmb
+modem
+modemst1 -> /dev/block/mmcblk0p41
+modemst2 -> /dev/block/mmcblk0p42
+mota -> /dev/block/mmcblk0p21
+msadp -> /dev/block/mmcblk0p16
+persist -> /dev/block/mmcblk0p48
+persistbak -> /dev/block/mmcblk0p49
+recovery -> /dev/block/mmcblk0p53
+rpm -> /dev/block/mmcblk0p19
+rpmbak -> /dev/block/mmcblk0p20
+sbl1 -> /dev/block/mmcblk0p17
+sbl1bak -> /dev/block/mmcblk0p18
+sec -> /dev/block/mmcblk0p4
+splash -> /dev/block/mmcblk0p45
+ssd -> /dev/block/mmcblk0p2
+syscfg -> /dev/block/mmcblk0p23
+system -> /dev/block/mmcblk0p59 (/system_root/system)
+tz -> /dev/block/mmcblk0p35
+tzbak -> /dev/block/mmcblk0p36
+userdata /dev/block/mmcblk0p62 (userdata = вся Data = data + sdcard)
+vbmeta -> /dev/block/mmcblk0p10
+vbmetabak -> /dev/block/mmcblk0p11
+vendor -> /dev/block/mmcblk0p60
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+! ВСЁ ЧТО ИДЁТ НИЖЕ - МУСОР
+
+
+adb reboot bootloader
+fastboot flash vbmeta vbmeta.img # отключить проверки Android Verified Boot (AVB)
+или
+fastboot --disable-verification flash vbmeta vbmeta.img
+fastboot erase system # wipe систем
+fastboot flash system system.img # установка прошивки GSI A10
+fastboot -w # как только установка завершится, удаляем пользовательские данные и кеш
+fastboot reboot # Перезагружаем устройство
+
+
+
+
+ПРОШИВКА
+обновить platform-tools: fastboot и adb
+посмотрите текущий активный слот командой
+fastboot getvar all
+current-slot:b # далее повествование, из рассчёта, что активный слот А (у меня Б, как я понял)
+fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img (стоковый образ vbmeta (хз что это))
+fastboot flash boot_a boot.img
+fastboot flash system_a system.img
+fastboot format userdata # и скорее всего он не заведётся без этой команды (УНИЧТОЖИТ ВСЕ ДАННЫЕ будет как из коробки)
+необязательно, для gapps:
+fastboot boot twrp.img
+, и установить gapps.
+не шить magisk или что-то подобное на этом этапе
+возможно, устанавливать все, кроме образа vbmeta, непосредственно из twrp, но это не проверено
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Требования
+Перед началом установки бета-версии Android Q необходимо проверить устройство на совместимость с Project Treble
+Что нужно сделать в первую очередь?
+
+1. Разблокировать загрузчик, если он заблокирован. Некоторые смартфоны Samsung на Snapdragon, Huawei, Honor, Nokia (кроме Nokia 8) не подойдут.
+2. На вашем ПК должны быть установлены последние утилиты ADB и Fastboot. Использование устаревших версий утилиты Fastboot может привести к различным ошибкам.
+3. Ваше устройство должно подходить под один из этих пунктов, чтобы поддерживать работу с Project Treble:
+3.1. Устройство работает на Android 9 Pie прямо из коробки. В случае, если вы купили устройство с предустановленным Android 9 Pie, то можете пропускать следующий шаг.
+3.2. При выходе на рынок, устройство работало под управлением Android 8.0 или 8.1 Oreo, но было обновлено до Android 9 Pie. Чуть ниже мы расскажем, как выяснить это.
+3.3. Droid Hardware Info_v1.2.2_apkpure.com
+
+Проверяем совместимость с Project Treble
+Откройте консоль на компьютере и введите следующую команду:
+adb shell getprop ro.treble.enabled
+false, значит ваше устройство не совместимо с Project Treble, дальше можете не продолжать
+true, переходим к следующему шагу
+adb shell
+cat /system/etc/ld.config.28.txt | grep -A 20 “\[vendor\]”
+В полученном ответе нужно найти раздел [vendor], а внутри этого раздела найти строку namespace.default.isolated
+true, значит на ваше устройство можно установить GSI-сбоку поверх образа Android 9 Pie
+false, тогда вы можете установить GSI-сборку только той версии, которая сейчас стоит на вашем устройстве.
+
+Теперь вам нужно подтвердить, есть ли на вашем устройстве рут. Если ваше устройство было обновлено до Android 9 Pie, наличие рута необязательно, но он необходим для поддержки OTA-обновлений. Введите следующие команды, чтобы проверить, есть ли на вашем устройстве рут:
+adb shell
+cat /proc/mounts | grep -q /dev/root && echo “system-as-root” || echo “non-system-as-root”
+
+Теперь, когда вы убедились, что ваше устройство поддерживает Project Treble, вам нужно выяснить какую версию GSI-сборки скачивать, так как есть различные образы для различных архитектур, какая архитектура на вашем устройстве:
+adb shell getprop ro.product.cpu.abi
+Выпишите на листок бумаги полученную информацию: она вам понадобится при скачивании GSI-сборки.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

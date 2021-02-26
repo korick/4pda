@@ -1,0 +1,225 @@
+
+Notepad++ https://notepad-plus-plus.org/downloads
+.\plugins\DSpellCheck\ https://github.com/Predelnik/DSpellCheck/releases/
+.\plugins\Config\Hunspell\ru_RU.aff, ru_RU.dic https://github.com/LibreOffice/dictionaries/ru_RU/
+UTF-8
+подготовлено участниками форума 4pda.ru
+
+
+
+
+
+
+
+
+
+
+GAPPS ARM-9-PICO
+https://opengapps.org/
+https://sourceforge.net/projects/opengapps/files/arm/20191017/open_gapps-arm-9.0-pico-20191017.zip/download
+Pico  Google Package Installer, Google Play Services
+Nano  Google Package Installer, Google Play Services, Device Health Services, Google Markup, Google App (Search)
+Micro Google Package Installer, Google Play Services, Device Health Services, Gmail, Google App (Search), Google Calendar, Google Pixel Launcher, Google Text-to-Speech, Google Wallpapers, Pixel Icons, Pixel Launcher
+Mini  Google Package Installer, Google Play Services, Device Health Services, Gmail, Google App (Search), Google Calendar, Google Pixel Launcher, Google Text-to-Speech, Google Calculator, Google Clock, Google Maps, Google Messages, Google Photos, Google Tags, YouTube
+Full  Cloud Print, Device Health Services, Gmail, Google Accessibility Suite, Google App (Search), Google Calculator, Google Calendar, Google Chrome, Google Clock, Google Drive, Google Keep Notes, Google Maps, Google Messages, Google News, Google Pixel Launcher, Google Package Installer, Google Photos, Google Play Books, Google Play Games, Google Play Movies & TV, Google Play Music, Google Play services, Google Tags, Google Text-to-Speech, YouTube
+
+Pico минимальный GApps
+ядро Google System Base, Google Play Store, Google Calendar Sync, Dialer Framework, Play Store:
+Google Package Installer (заменяет stock/AOSP Package Installer)
+Google Play Services
+Для Android 6.0+ также: Google Text-to-Speech
+Для андроид 9.0+: Google Sounds
+
+Nano наименьшее использование Google, но пользуются "O'kay Google" и поддержкой поиска Google
+ядро Google System Base, общие службы Google Android, автономные речевые файлы, Google Play Store, Google Calendar Sync, функцию распознавания лиц для медиа, разблокировку лицом, Dialer Framework, Play Store:
+Device Health Services
+Google App (Search)
+Google Package Installer (заменяет stock/AOSP Package Installer)
+Google Play services
+Для 6.0+ также: Google Text-to-Speech
+Примечание: Большие приложения разбиваются на небольшие пакеты.
+
+Micro для пользователей устаревших устройств с небольшими системными разделами или тех, кто предпочитает минималистичный подход
+ядро Google System Base, общие службы Google Android, автономные речевые файлы, Google Play Store, службы Google Exchange, распознавание лиц для мультимедиа, разблокировку лицом, Dialer Framework, Play Store:
+Device Health Services
+Gmail
+Google App (Search)
+Google Calendar (заменяет stock/AOSP Calendar)
+Google Pixel Launcher
+Google Package Installer (заменяет stock/AOSP Package Installer)
+Google Play services
+Google Text-to-Speech
+Google Wallpapers
+Pixel Icons
+Pixel Launcher
+Примечание: Большие приложения разбиваются на небольшие пакеты.
+
+Mini ограниченные приложения Google или предпочитает устанавливать приложения самостоятельно
+ядро Google System Base, общие службы Google Android, автономные речевые файлы, Google Play Store, службы Google Exchange, распознавание лиц для мультимедиа, разблокировку лицом, Dialer Framework, Play Store:
+Device Health Services
+Gmail
+Google App (Search)
+Google Calculator (заменяет stock/AOSP Calculator)
+Google Calendar (заменяет stock/AOSP Calendar)
+Google Clock (заменяет stock/AOSP Clock)
+Google Maps
+Google Messages (не установлен на планшетных устройствах) (заменяет stock/AOSP SMS app)
+Google Pixel Launcher
+Google Package Installer (заменяет stock/AOSP Package Installer)
+Google Photos (заменяет stock/AOSP Gallery)
+Google Play services
+Google Tags (заменяет stock/AOSP NFC Tags)
+Google Text-to-Speech
+YouTube
+Примечание: Большие приложения разбиваются на небольшие пакеты.
+
+Full аналогичен Google Stock, но НЕ включает в себя Google Camera и Google Keyboard и НЕ удалит ваш браузер, камеру, электронную почту, галерею, лаунчер, приложения SMS, Pico TTS или WebView. Если вы предпочитаете использовать некоторые стоковые/AOSP приложения, то этот пакет предназначен для вас
+ядро Google System Base, общие службы Google Android, автономные речевые файлы, функцию распознавания лиц для медиа, разблокировку лицом, Google Play Store, службы Google Exchange, инфраструктуру телефонии, Play Store:
+Cloud Print
+Device Health Services
+Gmail (заменяет stock/AOSP Email)
+Google Accessibility Suite (TalkBack)
+Google App (Search)
+Google Calculator (заменяет stock/AOSP Calculator)
+Google Calendar (заменяет stock/AOSP Calendar)
+Google Chrome (заменяет stock/AOSP Browser)
+Google Clock (заменяет stock/AOSP Clock)
+Google Drive
+Google Keep Notes
+Google Maps
+Google Messages (не установлен на планшетных устройствах) (заменяет stock/AOSP SMS app)
+Google News
+Google Pixel Launcher
+Google Package Installer (заменяет stock/AOSP Package Installer)
+Google Photos (заменяет stock/AOSP Gallery)
+Google Play Books
+Google Play Games
+Google Play Movies & TV
+Google Play Music
+Google Play services
+Google Tags (заменяет stock/AOSP NFC Tags)
+Google Text-to-Speech
+YouTube
+Примечание: Большие приложения разбиваются на небольшие пакеты.
+
+Stock рекомендуется для большинства пользователей устройств текущего поколения (владельцы устаревших устройств могут предпочесть использовать Mini или Micro GApps из-за размера этого пакета). Влючает в себя все Google Apps, которые входят в стандартную комплектацию новейшего телефона Nexus.
+ядро Google System Base, общие службы Google Android, автономные речевые файлы, функцию распознавания лиц для медиа, разблокировку лицом, Google Play Store, службы Google Exchange, инфраструктуру телефонии, Play Store:
+Android Auto
+Android System WebView (заменяет Stock/AOSP WebView)
+Cloud Print
+Device Health Services
+Gmail (заменяет stock/AOSP Email)
+Google Accessibility Suite (TalkBack)
+Google App (Search)
+Google Calculator (заменяет stock/AOSP Calculator)
+Google Calendar (заменяет stock/AOSP Calendar)
+Google Camera (заменяет stock/AOSP Camera)
+Google Chrome (заменяет stock/AOSP Browser)
+Google Clock (заменяет stock/AOSP Clock)
+Google Contacts (заменяет stock/AOSP Contacts)
+Google Drive
+Google Duo
+Google Keep Notes
+Google Keyboard (заменяет stock/AOSP Keyboard)
+Google Maps
+Google Messages (не установлен на планшетных устройствах) (заменяет stock/AOSP SMS app)
+Google News
+Google Pixel Launcher (заменяет stock/AOSP Launcher)
+Google Package Installer (заменяет stock/AOSP Package Installer)
+Google Pay
+Google Phone
+Google Photos (заменяет stock/AOSP Gallery)
+Google Play Books
+Google Play Games
+Google Play Movies & TV
+Google Play Music
+Google Play services
+Google Print Service Recommendation Service (заменяет stock/AOSP Print Service Recommendation Service)
+Google Storage Manager (заменяет stock/AOSP Storage Manager)
+Google Tags (заменяет stock/AOSP NFC Tags)
+Google Text-to-Speech (заменяет stock/AOSP Text-to-Speech)
+Google VR Services
+Google Wallpapers
+Pixel Icons
+Pixel Launcher (заменяет stock/AOSP Launcher)
+YouTube
+Примечание: Большие приложения разбиваются на небольшие пакеты.
+
+
+Super для тех, кто хочет иметь все приложения Google. Он включает в себя все Google Apps, которые, когда-либо, были интегрированы в систему на всех устройствах Google.
+ядро Google System Base, общие службы Google Android, автономные речевые файлы, функцию распознавания лиц для медиа, разблокировку лицом, магазин Google Play, службы Google Exchange, телефонию, Play Store:
+Android Auto
+Android System WebView (заменяет stock/AOSP WebView)
+Cloud Print
+Device Health Services
+Gmail (заменяет stock/AOSP Email)
+Google Accessibility Suite (TalkBack)
+Google App (Search)
+Google Apps Device Policy
+Google Calculator (заменяет stock/AOSP Calculator)
+Google Calendar (заменяет stock/AOSP Calendar)
+Google Camera (заменяет stock/AOSP Camera)
+Google Chrome (заменяет stock/AOSP Browser)
+Google Clock (заменяет stock/AOSP Clock)
+Google Contacts (заменяет stock/AOSP Contacts)
+Google Drive
+Google Duo
+Google Earth
+Google Fit
+Google Hangouts
+Google Indic Keyboard
+Google Japanese Input
+Google Keep Notes
+Google Keyboard (заменяет stock/AOSP Keyboard)
+Google Korean Input
+Google Maps
+Google Messages (не установлен на планшетных устройствах) (заменяет stock/AOSP SMS app)
+Google News
+Google Pixel Launcher (заменяет stock/AOSP Launcher)
+Google Package Installer (заменяет stock/AOSP Package Installer)
+Google Pay
+Google Phone (заменяет stock/AOSP Phone)
+Google Photos (заменяет stock/AOSP Gallery)
+Google Pinyin Input
+Google Play Books
+Google Play Games
+Google Play Movies & TV
+Google Play Music
+Google Play services
+Google Plus
+Google Print Service Recommendation Service (заменяет stock/AOSP Print Service Recommendation Service)
+Google Storage Manager (заменяет stock/AOSP Storage Manager)
+Google Street View
+Google Tags (заменяет stock/AOSP NFC Tags)
+Google Text-to-Speech (заменяет stock/AOSP Text-to-Speech)
+Google Translate
+Google VR Services
+Google Wallpapers
+Google Zhuyin Input
+Pixel Icons
+Pixel Launcher (заменяет stock/AOSP Launcher)
+Project Fi
+YouTube
+Примечание: Большие приложения разбиваются на небольшие пакеты.
+
+Aroma
+Пакет Aroma - это специальная версия обычного пакета Super, но с графическим интерфейсом, который позволит вам выбрать, какие конкретные приложения устанавливать (или нет) без необходимости вручную писать файл gapps-config.
+Примечание:
+Для версий 5.0 и ниже пакет Aroma основан на Stock и не все показанные опции фактически доступны в пакете.
+Этот пакет имеет специальную тему на XDA.
+Скрины каждого этапа процесса установки расположены здесь.
+Проблемы:
+AROMA имеет некоторые известные проблемы, которые варьируются в зависимости от устройства и версии рекавери - TWRP.
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,341 @@
+https://github.com/korick/4pda/raw/master/manual_Redmi_6a.txt
+скачать, читать удобнее на ПК
+Notepad++ https://github.com/notepad-plus-plus/notepad-plus-plus | https://notepad-plus-plus.org/downloads
+.\plugins\DSpellCheck\ https://github.com/Predelnik/DSpellCheck/releases/
+.\plugins\Config\Hunspell\ru_RU.aff, ru_RU.dic https://github.com/LibreOffice/dictionaries/ru_RU/
+кодировка UTF-8, синтаксис YAML или MD (markdown) для удобочитаемости
+подготовлено участниками форума 4pda.ru
+
+! ВСЁ НИЖЕ ОПИСАННОЕ ОТНОСИТСЯ ТОЛЬКО ДЛЯ ТЕЛА REDMI 6A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Установка кастомной прошивки
+на теле стоит
+| сток Redmi 6A 3/32 | Android 9 PPR1.180610.011 | MIUI Global Стабильная 10.4.4.0 PCBMIXM |
+
+A8.1 сток глобальная стабильная
+TWRP-3.3.0-0423-OMFG-mod_b6.img 22.8MB MD5: 18949E5995CEBA73558632BD55578048
+https://4pda.ru/forum/index.php?showtopic=912972&view=findpost&p=84751156
+Magisk-v18.0(18000).zip Stable
+
+A9 MIUI_10.4.4.0 сток глобальная стабильная. Последние релизы версий, TWRP, брать с шапки темы
+boot_10.4.4.0_R6a_mgsk_193.img 8.9MB MD5: 78BCE4BC92FBD8729A8FF84B33B570BC
+https://4pda.ru/forum/index.php?showtopic=912972&view=findpost&p=87840619
+Magisk-v20.4.zip Stable
+Magisk-v19.3.zip Stable
+https://github.com/topjohnwu/Magisk/releases/
+TWRP 3.4.0-2 Official
+использовать Альтернативный патч дешифровки /data A9. Обычный патч по какой-то причине не работает на OF и TWRP Official - DDE_by_MegaFon929.zip
+только для вендоров A9. Прошивать его тоже нужно только на A9
+поддержка F2FS
+установка через fastboot:
+fastboot erase recovery
+fastboot flash recovery recovery.img
+fastboot oem reboot-recovery
+https://dl.twrp.me/cactus/
+https://4pda.ru/forum/index.php?showtopic=912972&view=findpost&p=98095821
+TWRP-3.3.1-0602-OMFG-mod_b1.img 25.2MB MD5: B23855391E5557198C80C6B4B311FC36
+лучшая версия twrp
+https://4pda.ru/forum/index.php?showtopic=912972&view=findpost&p=87843152
+
+Cherry Kernel vendor A9 10.4.4.0+ A64-AB-only
+CherryKernel-Ionized-cactus.zip 11MB MD5: 5e2a566015835a5b23bcf8872f7d6c07
+https://cherrykernel.github.io/
+
+GAPPS ARM32-9-PICO
+GApps смотреть в mR6.txt там подробнее
+то же что и для Redmi 6
+OpenGApps
+BiTGApps
+https://4pda.ru/forum/index.php?showtopic=950105&view=findpost&p=94888275
+
+Описание GSI, non-GSI прошивок:
+GSI, non-GSI смотреть в mR6.txt там подробнее
+
+
+
+
+вендор V11.0.9.0.PCBMIXM A9 глобал      1.5 GB 2020-09-22 - зеленит видео, баги, поломана
+вендор V11.0.8.0.PCBMIXM A9 глобал норм 1.5 GB 2020-05-15 + последняя security patch May 2020
+вендор V11.0.7.0.PCBMIXM A9 глобал норм 1.4 GB 2020-03-19 +
+вендор V11.0.5.0.PCBMIXM A9 глобал норм
+вендор V11.0.4.0.PCBMIXM A9 глобал норм
+вендор V10.4.4.0.PCBMIXM A9 глобал норм +
+вендор V10.4.3.0.PCBMIXM A9 глобал отозвана
+вендор V10.4.1.0.PCBMIXM A9 глобал отозвана
+вендор V10.3.6.0.OCBMIXM A8.1 глобал норм
+
+V10.4.4.0.PCBCNXM 1.7 GB 2019-08-29
+
+; ИНСТРУКЦИЯ ПО УСТАНОВКЕ КАСТОМНОЙ ПРОШИВКИ LineageOS 16.0 A9 non-GApps для Redmi 6A полностью аналогична Redmi 6
+; на теле уже стоит MIUI Global Stable 10.4.4.0, последняя глобальная стабильная MIUI_10 на A9. Обновлять прошивку не надо, вендор MIUI_10 на A9 и MIUI_11 на A9 подходит для кастомных прошивок на A9, A10
+
+
+
+R6A если соберётесь ставить миуи 9 могли бы сообщить мне, работает ли у вас на ми9 автоповорот и компас, буду вам при очень благодарен))
+https://4pda.ru/forum/index.php?showtopic=912972&view=findpost&p=102118886
+
+
+
+
+
+
+ПАТЧИ
+Улучшение качества звука на кастомных прошивках non-gsi (R6A)
+https://4pda.ru/forum/index.php?showtopic=927600&view=findpost&p=99317161
+
+Установка ViperFX на Non-GSI ?
+https://4pda.ru/forum/index.php?showtopic=944463&view=findpost&p=104011043
+
+Советую прописать следующие строки:
+https://4pda.ru/forum/index.php?act=findpost&pid=99643902&anchor=Spoil-99643902-4
+(spoiler)
+/system/build.prop
+# Memory optimization
+ro.sys.fw.bservice_enable=true
+ro.sys.fw.bservice_limit=5
+ro.sys.fw.bservice_age=5000
+ro.am.reschedule_service=true
+ro.sys.fw.bg_apps_limit=12
+ro.opengles.version=196610
+#Tweaks
+ro.telephony.call_ring.delay=0
+ring.delay=0
+logcat.live=disable
+ro.config.hw_quickpoweron=true
+wifi.supplicant_scan_interval=1000
+ro.media.enc.jpeg.quality=100
+dalvik.vm.dex2oat-filter=speed
+ro.sys.fw.dex2oat_thread_count=4
+dalvik.vm.boot-dex2oat-threads=8
+dalvik.vm.dex2oat-threads=4
+dalvik.vm.image-dex2oat-threads=4
+dalvik.vm.image-dex2oat-filter=speed
+dalvik.vm.usejitprofiles=speed
+profiler.force_disable_err_rpt=1
+profiler.force_disable_ulog=1
+ro.config.nocheckin=1
+hwui.use_gpu_pixel_buffers=true
+#Error EGL
+ro.egl.destroy_after_detach=true
+#Error kernel
+ro.kernel.android.checkjni=0
+ro.kernel.checkjni=0
+media.stagefright.enable-player=true
+media.stagefright.enable-meta=true
+media.stagefright.enable-scan=true
+media.stagefright.enable-http=true
+media.stagefright.enable-rtsp=true
+media.stagefright.enable-record=false
+service.media.powersnd=1
+sys.config.amp_perf_enable=true
+/vendor/build.prop
+persist.sys.force_highendgfx=true
+ro.config.zram=false
+# Также можно заменить следующие значения
+dalvik.vm.heapgrowthlimit=96m
+dalvik.vm.heapsize=512m
+(/spoiler)
+
+
+
+
+
+
+
+
+
+
+.                              |format data|reboot|wipe  |install |
+System 2314.7Mb                |           |      | 3.8Mb| 907.6Mb|
+System Image 2560.0Mb          |           |      |      |        |
+Data (искл. Storage) 4444.0Mb  | 0Mb       | 4Mb  |      |        |
+Cache 4.1Mb                    |           |      | 0.2Mb|        |
+Dalvik Cache                   |           |      | ?    |        |
+Boot 64.0Mb
+Recovery 64.0Mb
+bootloader 1.0Mb
+bootloader2 1.0Mb
+Vendor 268.9Mb
+Vendor Image 768.0Mb
+Cust 409.6Mb
+cust_image 512.0Mb
+persist 0.1Mb
+nvram 64.0Mb
+proinfo 3.0Mb
+logo 64.0Mb
+trustzone1 5.0Mb
+trustzone2 5.0Mb
+devinfo 8.0Mb
+protect_f 0.1Mb
+protect_s 0.1Mb
+nvdata 3.0Mb
+nvcfg 0.1Mb
+
+
+
+
+
+
+
+
+
+
+Xiaomi Redmi 6A - Прошивки MIUI
+(Т.ж. = так же)
+из Оригинал [LR.Team] TWRP-3.3.0-0423 сделан мод TWRP-3.3.0-0423_OMFG_mod
+- У меня уже прошит Magisk и я хочу прошить более новую версию. Как мне это сделать?
+Достать boot.img из архива с прошивкой которая установлена в данный момент и скинуть в память телефона -> загрузиться в TWRP -> прошить деинсталлятор магиска -> прошить boot.img в раздел Boot -> перезагрузиться из TWRP в TWRP -> прошить новую версию магиска -> очистить Cache -> перезагрузиться в систему. Если потребуется, установить Magisk Manager вручную.
+- "Система Android. Произошла внутренняя ошибка. Обратитесь к производителю устройства за подробными сведениями." после загрузки в систему.
+Появляется после прошивки магиска. ЭТО ВСЕГО ЛИШЬ ПРЕДУПРЕЖДЕНИЕ и в нём нет ничего страшного, нажимайте ОК и пользуйтесь телефоном.
+Если это вас пугает, устанавливайте MIUIPro, там предупреждение вырезано.
+- Рут неполноценный. Удаляю/добавляю файлы в системных разделах, но после перезагрузки изменения исчезают. Что делать?
+Ждать новые версии магиска, возможно когда-нибудь для 6А сделают человеческий рут.
+Пока единственный выход - в TWRP примонтировать /system и через "Дополнительно - Проводник" удалять/добавлять/редактировать все что вам угодно.
+- Нужно ли постоянно вручную монтировать разделы перед прошивкой ROM'ов, патчей и т.д.?
+В этой версии TWRP ничего монтировать вручную не нужно, разработчик устранил этот баг.
+- После применения патча "Удалить приложения" из меню Дополнительно, не работают некоторые программы, в том числе и системные.
+Обязательно обновите Android System WebView через Play Market.
+Возможно вы забыли сразу после применения патча, перед перезагрузкой в систему очистить Cache и Dalvik/ART Cache, если это так, то вернитесь и выполните вайпы этих разделов.
+Патч был проверен на практически всех глобалках, нескольких русских и бета прошивках, все отлично.
+Т.ж. в данном посте вы можете найти список удаляемых приложений и убедиться, что не удаляется ничего без чего бы система не могла нормально работать.
+- Появляется ОШИБКА О НЕВОЗМОЖНОСТИ РАЗМОНТИРОВАТЬ какой-либо из разделов.
+Часто такая ошибка возникает при переходе с MIUIPro обратно на официальную прошивку.
+Отформатируйте раздел /data (не вайп, а именно форматирование через yes) -> сделайте вайпы разделов Cache, System, Vendor -> перезагрузитесь из TWRP в TWRP. Если ошибка не исчезла повторите процедуру, обычно на второй раз вайпов, форматирования и перезагрузки ошибка исчезает.
+Т.ж. ВСЕГДА НУЖНО ПОМНИТЬ, ЧТО СРАЗУ ПОСЛЕ ВАЙПОВ и/или ФОРМАТИРОВАНИЯ DATA, ОБЯЗАТЕЛЬНО НУЖНО ПЕРЕЗАГРУЖАТЬСЯ ИЗ TWRP в TWRP, ЧТОБЫ ЗАНОВО ПРИМОНТИРОВАЛИСЬ РАЗДЕЛЫ.
+- Что такое "Пропатчить boot" в меню Дополнительно?
+Патчить boot нужно только когда через TWRP прошивается ОФИЦИАЛЬНАЯ прошивка, чтобы при перезагрузке в систему TWRP не слетело.
+Учтите, при патче boot нельзя удалять/редактировать файлы в разделах /system и /vendor, иначе будет бутлуп!
+- Что такое "Отключить safe volume" в меню Дополнительно?
+Отключает предупреждение о безопасной громкости. Оно появляется когда вы слушаете музыку в наушниках и пытаетесь сделать громкость звука выше среднего.
+- Что такое "Чищеный Cust" в меню Дополнительно?
+В разделе Cust содержится информация о регионах и партнерские приложения типа яндекса, word, mi-форум и прочего (их при большом желании можно самостоятельно скачать с маркета), которые будут установлены при первой загрузке системы или смене региона. Я подчистил его, оставив только информацию о регионах.
+Лучше всего применять патч при прошивке начисто официальной глобалки через TWRP.
+Учтите, что перед установкой чищеного cust'a нужно сделать вайп раздела /cust, отформатировать раздел /data (не вайп, а форматирование) и перезагрузиться из TWRP в TWRP.
+- В Google Play Market пишет "ваше устройство не поддерживается" в некоторых популярных приложениях.
+Настройки -> Все приложения -> Google Play Market -> Очистить -> Очистить все -> Перезагрузить телефон.
+- В настройках Google Play Market пишет "Устройство не сертифицировано".
+На официальных или локализованных прошивках MIUI это всего лишь говорит нам о том, что разблокирован загрузчик, при этом никаких проблем не возникает, приложения из маркета устанавливаются и обновляются, можно пользоваться и не беспокоиться об этом. Если хочется чтобы писало "Сертифицировано" - Google Play (Play Маркет) (Пост Dimon184 #63843179)
+На всяких треблах и кастомах скорее всего придется зарегистрировать устройство - https://www.google.com/android/uncertified
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
