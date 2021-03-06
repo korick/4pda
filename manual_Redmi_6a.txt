@@ -84,7 +84,7 @@ GSI, non-GSI смотреть в mR6.txt там подробнее
 вендор V10.4.1.0.PCBMIXM A9 глобал отозвана
 вендор V10.3.6.0.OCBMIXM A8.1 глобал норм
 
-V10.4.4.0.PCBCNXM 1.7 GB 2019-08-29
+V10.4.4.0.PCBCNXM 1.7 GB 2019-08-29 вендор китай, всё также как вендор глобал стабильной без разницы.
 
 ; ИНСТРУКЦИЯ ПО УСТАНОВКЕ КАСТОМНОЙ ПРОШИВКИ LineageOS 16.0 A9 non-GApps для Redmi 6A полностью аналогична Redmi 6
 ; на теле уже стоит MIUI Global Stable 10.4.4.0, последняя глобальная стабильная MIUI_10 на A9. Обновлять прошивку не надо, вендор MIUI_10 на A9 и MIUI_11 на A9 подходит для кастомных прошивок на A9, A10
@@ -103,8 +103,7 @@ https://4pda.ru/forum/index.php?showtopic=912972&view=findpost&p=102118886
 Улучшение качества звука на кастомных прошивках non-gsi (R6A)
 https://4pda.ru/forum/index.php?showtopic=927600&view=findpost&p=99317161
 
-Установка ViperFX на Non-GSI ?
-https://4pda.ru/forum/index.php?showtopic=944463&view=findpost&p=104011043
+
 
 Советую прописать следующие строки:
 https://4pda.ru/forum/index.php?act=findpost&pid=99643902&anchor=Spoil-99643902-4
