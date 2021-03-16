@@ -258,14 +258,14 @@ https://ch.hk/mobi
 
 
 
-
+Redmi 9          2020 A10 Mediatek Helio G80 3(4)/32(64) Mali-G52-MC2 5020мАч 13+8+5+2 8
 Redmi 9A         2020 A10 MediaTek Helio G25 2/32 PowerVR GE8320
-Redmi 8A         2019 A9.0 Qualcomm Snapdragon 439 2(3)/32 Adreno 505 IPS 720x1520 Динамик моно Камера сзади 12 спереди 8 2API+ нет ЦАП отдельн.
+Redmi 8A         2019 A9.0 Qualcomm Snapdragon 439 2(3)/32 Adreno 505 IPS 720x1520 Динамик моно 12  8. 2API+. нет ЦАП отдельн.
 Redmi 8          Qualcomm 2019 A9.0 A10
 Redmi 7          Qualcomm 2019 A9.0 2(3)/16(32) Adreno 506
 Redmi 6 Pro      Qualcomm
-Redmi 6          2018 A8.1, A9.0 MediaTek Helio P22 3(4)/32(64) PowerVR GE8320 IPS 60Гц 720x1440 Динамик моно Камера сзади 12+5 спереди 5 нет ЦАП
-Redmi 6A         2018 A8.1, A9.0 MediaTek Helio A22 2/16(32)    PowerVR GE8320 IPS 60Гц 720x1440 Динамик моно Камера сзади 13 спереди 5 нет ЦАП
+Redmi 6          2018 A8.1, A9.0 MediaTek Helio P22 3(4)/32(64) PowerVR GE8320 IPS 60Гц 720x1440 Динамик моно  12+5  5 нет ЦАП
+Redmi 6A         2018 A8.1, A9.0 MediaTek Helio A22 2/16(32)    PowerVR GE8320 IPS 60Гц 720x1440 Динамик моно  13  5 нет ЦАП
 Redmi 5 Plus     Qualcomm Обсуждение камеры Xiaomi Redmi 5 Plus Qualcomm https://4pda.ru/forum/index.php?showtopic=880325
 Redmi 5A         Qualcomm
 Redmi 5          Qualcomm Обсуждение камеры Xiaomi Redmi 5 Qualcomm https://4pda.ru/forum/index.php?showtopic=890521

@@ -447,7 +447,13 @@ key 208 MEDIA_FAST_FORWARD WAKE
 Приписка WAKE означает, что после нажатия в спящем режиме смарт проснётся и выполнит действие предписанное клавишей.
 Если возникли проблемы с с работой клавиш блютуз гарнитуры ставим программу KeynumberTracker и, нажимая на клавиши беспроводной гарнитуры, проверяем кей коды. Если нет соответствия, правим AVRCP.kl.
 
-
+ro.config.alarm_vol_default # громкость уведомлений по умолчанию
+ro.config.alarm_vol_steps # количество шагов громкости
+ro.config.media_vol_default # громкость мультимедиа по умолчанию
+ro.config.media_vol_steps # количество шагов громкости мультимедиа
+ro.config.system_vol_default # громкость системных звуков по умолчанию
+ro.config.system_vol_steps # количество шагов громкости системных звуков
+ro.config.vc_call_vol_steps # количество шагов громкости при разговоре 
 
 
 
@@ -491,7 +497,7 @@ Windows Vista             6.0
 Windows Server 2003 R2    5.2
 Windows Server 2003       5.2
 Windows XP 64-Bit Edition 5.2
-Windows XP                5.1
+Windows XP                5.1 Windows NT 5.1
 Windows 2000              5.0
 *Приложения для которых подтверждено использование Windows 8.1, Windows 10.
 Приложения проверять опытным путём.
