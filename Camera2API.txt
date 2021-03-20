@@ -260,9 +260,9 @@ https://ch.hk/mobi
 
 
 
-Redmi 9          2020 A10 Mediatek Helio G80 3(4)/32(64) Mali-G52-MC2 5020мАч 13+8+5+2 8
+Redmi 9          2020 A10 Mediatek Helio G80 3(4)/32(64) Mali-G52-MC2 5020мАч 13+8+5+2  8
 Redmi 9A         2020 A10 MediaTek Helio G25 2/32 PowerVR GE8320
-Redmi 8A         2019 A9.0 Qualcomm Snapdragon 439 2(3)/32 Adreno 505 IPS 720x1520 Динамик моно 12  8. 2API+. нет ЦАП отдельн.
+Redmi 8A         2019 A9.0 Qualcomm Snapdragon 439 2(3)/32 Adreno 505 IPS 720x1520 Динамик моно 12  8. 2API+. нет ЦАП отдельного.
 Redmi 8          Qualcomm 2019 A9.0 A10
 Redmi 7          Qualcomm 2019 A9.0 2(3)/16(32) Adreno 506
 Redmi 6 Pro      Qualcomm
@@ -275,7 +275,7 @@ Redmi 4A         Qualcomm
 Redmi 4X         Qualcomm
 Redmi 4          Qualcomm
 Redmi 3          Qualcomm
-Redmi Note 8 Pro 2019 A9.0 A10 Mediatek Helio G90T 6(8)64/128(128) Mali-G76 MP4 begonia Камера сзади:64 Вторая камера:8 Третья камера:2 Камера спереди:20
+Redmi Note 8 Pro 2019 A9.0 A10 Mediatek Helio G90T 6(8)64/128(128) Mali-G76 MP4 begonia 64+8+2  20
 Redmi Note 8     Qualcomm
 Redmi Note 7 Pro Qualcomm
 Redmi Note 7     Qualcomm 2API+
