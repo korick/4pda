@@ -59,14 +59,14 @@ https://4pda.ru/pages/go/?u=https%3A%2F%2Fforum.xda-developers.com%2Fshowpost.ph
 
 
 
-включить отладку:
+Отладка
 adb shell
 su
-setprop sys.usb.config diag,adb # Debag
+setprop sys.usb.config diag,adb # включить отладку Debug
 На ПК начнется поиск драйверов для новых устройств.
-setprop sys.usb.config mtp,adb # MTP
+setprop sys.usb.config mtp,adb # включить MTP
 
-ro.adb.secure=0 # отключить adb подтверждение
+setprop ro.adb.secure 0 # отключить adb подтверждение
 
 заставить любое приложение работать с внешней памятью: A7, A8.1
 прописать в файл /system/etc/permissions/platform.xml, в раздел WRITE_EXTERNAL_STORAGE (не MEDIA), строки
