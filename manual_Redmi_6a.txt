@@ -37,7 +37,8 @@ TWRP-3.3.0-0423-OMFG-mod_b6.img 22.8MB MD5: 18949E5995CEBA73558632BD55578048
 https://4pda.ru/forum/index.php?showtopic=912972&view=findpost&p=84751156
 Magisk-v18.0(18000).zip Stable
 
-A9 MIUI_10.4.4.0 сток глобальная стабильная. Последние релизы версий, TWRP, брать с шапки темы
+A9 MIUI_10.4.4.0 сток глобальная стабильная.
+Последние версии прошивок, последнее TWRP, последнее ядро и всё остальное - брать с шапки темы
 boot_10.4.4.0_R6a_mgsk_193.img 8.9MB MD5: 78BCE4BC92FBD8729A8FF84B33B570BC
 https://4pda.ru/forum/index.php?showtopic=912972&view=findpost&p=87840619
 Magisk-v20.4.zip Stable

@@ -48,13 +48,12 @@ MTK. microUSB. тёмный дисплей, плохо читаемый на с�
 | сток Redmi 8a 2/32 | Android 9 PKQ1.190319.001 | MIUI Global Стабильная 10.3.1.0 PCPMIXM | Версия ядра 4.9.112-perf-g8bcd0c1 |
 
 A9 11.0.3.0 сток глобальная стабильная
+Последние версии прошивок, последнее TWRP, последнее ядро и всё остальное - брать с шапки темы
 MIUI 11.0.3.0.PCPMIXM A9 recovery 1.7GB MD5: 1AA20D5B67797BA5600DDFA8471DE35D
 https://bigota.d.miui.com/V11.0.3.0.PCPMIXM/miui_OLIVELITEGlobal_V11.0.3.0.PCPMIXM_1aa20d5b67_9.0.zip
 MIUI 11.0.3.0.PCPMIXM A9 fastboot 2.9GB MD5: FEA07858F94CF62C4221E1B6537A74C1
 https://bigota.d.miui.com/V11.0.3.0.PCPMIXM/olivelite_global_images_V11.0.3.0.PCPMIXM_20191219.0000.00_9.0_global_fea07858f9.tgz
 MIUI_11.0.3.0_del.zip recovery 1.7GB MD5: 10559e608a8891731e0c4613c9176854
-
-A9 сток глобальная стабильная
 boot_orig_11.0.3.0 global_images_V11.0.3.0.PCPMIXM.7z 10.2MB MD5: AAD0580B391767241EFE2E6E2EAD9FBE
 boot_patch_11.0.3.0.img 15.8Mb MD5: 95158FBD87164EEACEFF2D6F4D213569
 https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=92099075
@@ -112,12 +111,10 @@ open_gapps-10.0-pico-20191114-BETA
 
 GSI official смотреть в mR6.txt там подробнее
 https://4pda.ru/forum/index.php?showtopic=892755&st=0#entry71222655
-GSI LOS 17.1 A10 UNOFFICIAL Andy Yans
-https://sourceforge.net/projects/andyyan-gsi/files/lineage-17.x/lineage-17.1-20200511-UNOFFICIAL-treble_a64_bvN.img.xz
-GSI HavocOS Official
-https://sourceforge.net/projects/havoc-os/files/a64-ab/
-GSI Resurrection Remix
-https://sourceforge.net/projects/amber-gsi/files/RROS-Q
+
+HavocOS 3.12 Remastered
+https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=105241797
+
 
 
 

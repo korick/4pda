@@ -520,6 +520,11 @@ https://4pda.ru/forum/index.php?s=&showtopic=907729&view=findpost&p=77223546
 /data/data/apk/files/.Fabric - это аналитика
 chmod 0000 /data/system/dropbox/ - установить разрешение 0000
 
+работает ли процесс
+su pidof com.viber.voip # если есть ответ цифрами значит работает
+закрыть процесс командой
+su am force-stop com.viber.voip # без фоновой работы не будет пробуждаться, не будут приходить сообщения
+
 установить разрешение владелец:группа
 adb shell
 chmod 660 /data/data/com.android.providers.contacts/databases/calllog.db
