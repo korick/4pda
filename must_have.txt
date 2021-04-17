@@ -1,0 +1,81 @@
+
+
+
+
+
+
+подготовлено участниками форума 4pda.ru
+
+рут  Magisk-v22.1.zip
+Галерея  QP_8.1.stable_en-ru_mod_WSTxda_A10_last.apk (QuickPic 4.5.2)
+Деловой календарь  Business+Calendar-Pro-v2.31.2-Final_Alex0047.apk
+Калькулятор++  Calculator+++2.2.7.apk
+Камера MIUI
+фаервол  AFWall++(Donate)-v3.3.1_build_19411.apk
+фаервол  NetGuard_v2.295_Pro_Balatan_Numberone.apk
+об устройстве  DeviceInfoHW5.1.2_ANDR7E.apk
+об устройстве  DevInfoOverlay1.0_ANDR7E.apk
+об устройстве  WiFiMonitor1.5.0_ANDR7E.apk
+бенчмарк  AnTuTu_Benchmark_v5.7.1_Final.apk
+бенчмарк  Geekbench+2_2.4.3.apk
+знергоэфективность  BBS_v2.5-344(98)_27.10.19.apk
+читалка  AlReader_1.931910300.apk
+читалка  com.foobnix.pro.pdf.reader_4000_fdroid.apk PDF
+телефон  True Phone+Magisk
+блокнот  Acode_v1.2.143(143)_Paid.apk
+магазин  org.fdroid.fdroid_1009000_fdroid.apk
+словарь  GoldenDict2.3_fixmod_dr.coks282.apk
+браузер  IceCatMobile.org.gnu.icecat_680402_fdroid.apk v7a
+качалка  IDM-12.6_b170-v7a_Balatan.apk
+качалка  PowerTube
+торрент  org.proninyaroslav.libretorrent_17_fdroid.apk (v2.1), org.proninyaroslav.libretorrent_19_fdroid.apk (v3.0.1)
+логкат  MatLog_Libre_1.2.3-fdroid.apk
+бекап  Migrate_4.0_NG_NoAds_FixRus2_A11.apk
+бекап  MyPhoneExplorerClient_1.0.47_noGP.apk
+бекап  Titanium Backup
+плеер  MX-Pro-1.20.8-arm7-Lite-OsitKP.apk
+SRAP  MyAndroidTools+Pro+1.6.0+Mod+ALEX6301.apk
+мониторинг сети test  Network_Connections_v1.5.0(23)_mod_Kirlif_A10.apk
+мониторинг сети test  com.eolwral.osmonitor_90_fdroid.apk
+сплит  com.aefyr.sai.fdroid_60_fdroid.apk
+очистка  SD_Maid-Pro-v4.15.14-Dark-Venom-Lite-armeabi-v7a.apk
+терминал  com.termux_101_fdroid.apk
+менеджер файлов  tcandroid320-armeabi-v7a.apk (Total Commander)
+TotalCmd-FTP (Передача файлов) tcandroidftp242.apk
+TotalCmd-LAN (Общий доступ Windows) tcandroidlan320.apk
+TotalCmd-SFTP tcandroidsftp24.apk
+TotalCmd-WebDAV (web-папки) tcandroidwebdav300.apk
+TotalCmd-WiFi-обмен tcandroidwifi34.apk
+копирование некопируемого текста (не работает OCR)
+Universal_Copy_3.1.2_UmodDark_derrin_notworkocr.apk
+Universal+Copy+v3.2+Unlocked_notworkocr.apk
+camelcorp.universalcopy-5.3.2_Alex.Strannik.apk
+оффлайн OCR  EverTranslator+Screen+translate_v2.4.4_apkpure.com.apk
+мессенджер Viber_v11.8.1.1_1_mod_Blue_cat.apk
+? Snapseed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

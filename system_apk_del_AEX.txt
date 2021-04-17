@@ -1,0 +1,413 @@
+
+
+
+
+
+
+подготовлено участниками форума 4pda.ru
+https://4pda.ru/forum/index.php?showtopic=921645&view=findpost&p=77962469
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+вирус проверить
+https://4pda.ru/forum/index.php?showtopic=819998&view=findpost&p=65472414
+Launcher3 - com.android.launcher3 - 2,19 мб - наш стоковый лаунчер. Распространяет вирус.
+
+перевод настроек: настройки недопереведены
+https://4pda.ru/forum/index.php?showtopic=892755&view=findpost&p=94859642
+закинуть /system_root/system/product/priv-app/settings/Settings.apk 
+закинуть /system_root/system/framework/framework-res.apk
+
+Отключение предустановленных приложений, с помощью активити лаунчера Activity Launcher
+https://4pda.ru/forum/index.php?showtopic=1010463&view=findpost&p=103493501
+https://play.google.com/store/apps/details?id=de.szalkowski.activitylauncher
+
+Redmi 6 AEX A9
+Список системных приложений получить TC-ADB-[app]-Копировать имена файлов в буфер
+Список всех      приложений получить TC-ADB-/data/data/-Копировать имена файлов в буфер
+Список приложений которые можно удалить:
+на кастомах нету что удалять, чистый андроид, можно там ну:
+стоковое лаунчер (если есть чем заменить, а вообще нормальный)
+стоковое браузер, плеер, галерею, календарь, калькулятор, погоду, почту, обои, заставки, темы, акценты, печать, 
+/system_root/system/app-bak/
+/system_root/system/priv-app-bak/
+/system_root/system/product/app-bak/
+/system_root/system/product/priv-app-bak/
+
+
+
+stk
+Manager
+Gallery
+Galaxy
+Wallpaper Picker
+HTMLViewer
+Tts
+Sound Recorder
+print
+Super user
+term
+Helper
+Development  DevTools
+Live
+tip
+Voice
+Vpn
+Ota
+egg
+Widget
+setting
+WAP sms
+xiao
+music
+sound
+video
+partner
+feedback
+drm
+htmlviewer
+keychain
+google
+emer
+teleco
+maps
+update
+uploade
+one
+account
+sync update bookmarks
+
+
+Отключает обнаружение captive portal - подмены всех запрашиваемых пользователем страниц на страницы провайдера. Эта техника используется в местах публичного Wi-Fi и некоторыми операторами для аутентификации или показа пользователю какой-либо информации (например, о необходимости пополнить счет). Обнаружение происходит через периодическое скачивание файла с сервера Мозиллы.
+
+Когда системные приложения обновляются занимают два места в системе.
+Старое приложение лежит в той папке в которой было изначально а обнова ставится в папку с пользовательскими приложениями.
+
+
+? непонятно, скорее не удалять.
+- удалять.
+x. не удалять.
++ оставить одно из нескольких. Стандартное apk по умолчанию оставлять тоже, при сбросе/сбое (сбрасывается к значению по умолчанию).
+
+x.android - Android - Ядро операционной системы.
+x.android.ext.services - Android Services Library - Библиотека служб андроид. На данный момент содержит «Сервис ранжирования уведомлений» для сортировки уведомлений по важности.
+x.android.ext.shared - Android Shared Library - Общая библиотека андроид. Улучшение для совместного использования общего кода (например, библиотеки поддержки) между приложениями.
+-code.name.monkey.retromusic - плеер
+
+com.accents.amber
+com.accents.blue
+com.accents.bluegrey
+com.accents.brown
+com.accents.candyred
+com.accents.cyan
++com.accents.deeporange - работает
+com.accents.deeppurple
+com.accents.elegantgreen
+com.accents.extendedgreen
+com.accents.green
+com.accents.grey
+com.accents.indigo
+com.accents.jadegreen
+com.accents.lightblue
+com.accents.lightgreen
+com.accents.lime
++com.accents.orange - глючит
+com.accents.paleblue
+com.accents.palered
+com.accents.pink
+com.accents.purple
+com.accents.red
+com.accents.teal
+com.accents.yellow
+
+?com.android.backupconfirm - Служба подтверждения, связанная с созданием/восстановлением бекапа, в любом приложение. На свое усмотрение. Я оставил.
+-com.android.bips - BuiltInPrintService.apk Служба печати по умолчанию - Не печатаем. Удаляем.
+-com.android.printservice.recommendation - PrintRecommendationService - Якобы, обеспечивает реализацию службы печати android... но так и не понял зачем это приложение существует в действительности. Заморозка проблем не выдала, все равно смог выбрать принтер и отправить документ на печать.
+-com.android.printspooler - PrintSpooler Спулер печати - Компонент для оправки документов на печать. Набор компонентов, управляющих процессом печати. Не печатаем. Удаляем.
+x.com.android.bluetooth - Передача по Bluetooth - Если нет потребностей в этой технологии, удаляйте. Но не советую.
+x.com.android.bluetoothmidiservice - Bluetooth MIDI Service - Дополнение к приложению Bluetooth.
+-com.android.bookmarkprovider - Bookmark Provider - Менеджер закладок сток браузера.
+Менеджер закладок, который синхронизирует закладки между Chrome на ПК и телефоне. Народ удаляет.
+-com.android.calculator2 - ExactCalculator - Калькулятор. Замена.
+-com.android.calendar - Календарь. Замена.
+x.com.android.providers.calendar - Память календаря - Сам календарь ещё можно, а это не надо. Другие календари могут поиметь проблемы.
+?com.android.calllogbackup - Call Log Backup/Restore - Бекап и восстановление лога звонков. По идее, можно и удалить. Это конечно, если не собираетесь делать бекапы. Но я не стал удалять.
+?com.android.camera2 - Камера. Нужна замена. А ещё лучше, вообще не трогать, пусть будет.
+?.-.x.com.android.captiveportallogin - CaptivePortalLogin - Сервис проверки наличия интернета. Отсылается echo-ping запрос на сервера google по-умочанию, но можно изменить на другой. На A9 можно удалить, на A10 проверять, и можно и нельзя. Интернета по Wi-Fi не будет.
+Функция, позволяющая аутентифицировать пользователей с помощью web-браузера. Когда неаунтифицированный пользователь подключается к Wi-Fi сети, доступ ко всем ресурсам заблокирован. При попытке зайти на какой-либо ресурс, пользователь будет перенаправлен на специальную web-страницу, где ему будет предложено ввести данные для аутентификации. Только после этого пользователь сможет свободно использовать ресурсы сети.
+?com.android.carrierconfig - 
+?com.android.carrierdefaultapp - CarrierDefaultApp - Не точно, насколько я смог понять, это приложение как-то связанно с контролем полученного/отправленного, мобильного интернет трафика. Точнее, это кажется и есть служба контроля/подсчета трафика. Там где вы выставляете квоту на месяц. По постам в интернете, некоторым помогло удаление этой фигни, при проблемах с доступом в интернет, при выставленном ограничение на месяц. Я решил оставить.
+-com.android.cellbroadcastreceiver - Оповещение населения - Как и приложение экстренных служб, не видел чтобы это работало. Вероятно тоже не для России.
+-com.android.emergency - EmergencyInfo - Данные для экстренных случаев. Предупреждения от экстренных служб. Никогда не видел, чтобы работало. Видимо не для России.
+x.com.android.certinstaller - Установщик сертификатов - Часть безопасности системы.
+x.com.android.packageinstaller - Установщик пакетов - Отвечает за установку приложений. Компонент чистого андроида. Вот он как раз главный по установке приложений.
+?com.android.companiondevicemanager - Companion Device Manager - Что-то, что использует Bluetooth и Wi-Fi. Только вот, ни Mi drop, ни поиск Bluetooth устройств. Не запустили это приложение. Так что не знаю, что оно делает.
+com.android.contacts - Контакты - Интерфейс, это то где список контактов, контакты, м.б. клавиатура набора номера. Удалять, только при наличии заменителя. Отвечает за управление контактами (контакты, группы, история вызовов итд). В случае удаления, Вам придется каждый раз набирать номер вручную. Возможно всё будет нормально, если перед удалением поставить альтернативу (искать в разделе - Контакты, звонки, SMS/MMS), нужно тестить.
+-com.android.contacts.theme.black
+-com.android.contacts.theme.chocolate
++com.android.contacts.theme.dark
+-com.android.contacts.theme.elegant
+-com.android.contacts.theme.extended
+x.com.android.cts.ctsshim - Инфы не нашел, но пометил красным, так как настораживает перевод названия "предварительная сборка андроид...".
+x.com.android.cts.priv.ctsshim - Инфы не нашел
+x.com.android.defcontainer - DefaultContainerService.apk Мастер доступа к пакетам - Отвечает за установку приложений.
+x.com.android.deskclock - Часы - Если вы совсем экстримал, можно и часы казнить. Только с ними уйдёт будильник, таймер, секундомер. Хотя можно и заменить.
+?com.android.dialer - Dialer - телефон, звонилка, номеронабиратель. Замена.
+-com.android.dialer.theme.black
+-com.android.dialer.theme.chocolate
++com.android.dialer.theme.dark
+-com.android.dialer.theme.elegant
+-com.android.dialer.theme.extended
+x.com.android.documentsui - Файлы / Документы - На первый взгляд, аналог файлового менеджера. Но нет. Эта фигня, как раз и даёт разрешение другим приложениям, для доступа к файлам на носителях, в т.ч. и внутреннем. Не трогать.
+-com.android.documentsui.theme.black
+-com.android.documentsui.theme.chocolate
++com.android.documentsui.theme.dark
+-com.android.documentsui.theme.elegant
+-com.android.documentsui.theme.extended
+?.----com.android.dreams.basic - Стандартные заставки - Одна из заставок. Стандартная заставка/обоина (цветовая схема). Не затрагивает остальные заставки, если удалить.
+- [ com.android.dreams.phototable ] <- если это оно. Красивость на экран блокировки, в режиме ожидания. На IPS экранах, бесполезная и прожорливая вещь.
+-com.android.egg - Easter Egg - Пасхалка андроид.
+x.com.android.externalstorage - ExternalStorageProvider.apk Внешний накопитель - Менеджер внешних хранилищ, в том числе и microSD.
+-com.android.gallery3d - Стоковая Галерея - При удалении, возможно не будет кнопки просмотра фото/видео в стоковой камере. Замена.
+x.com.android.inputdevices - Устройства ввода - Нельзя, иначе не сможете выбирать способ ввода.
+x.com.android.inputmethod.latin - Клавиатура AOSP
+?.- [ com.android.internal.cutout.emulation.corner ] - Сделать вырез в углу экрана - Странная лабуда из меню "Для разработчиков", пункт "Эмуляция экрана с вырезом".
+?.-com.android.internal.display.cutout.emulation.tall - Сделать вырез на экране выше - Странная лабуда выше.
+x.com.android.keychain - KeyChain Брелок. Отвечает за безопасность: ключи, пароли, сертификаты. С одной стороны, можно встретить описание приложения как очень нужной, мол она "связана с работой сертификатов и ключей безопасности" или "менеджер паролей". Соответственно пишут или вообще не трогайте или крепко подумайте.
+Но в одном месте увидел описание, что это приложение не сильно нужно, распространяется с завода в рекламных целях и жрёт процессор.
+http://dadaviz.ru/key-chain-na-chto-eto-takoe/
+В целом, как мне кажется, удалять можно, особенно если телефоном пользуется человек без всяких учёток. Если кто-то знает более подробно про это приложение, буду рад информации.
+?com.android.launcher3 - Launcher3 (com.android.launcher3) - стоковый лаунчер. Распространяет вирус. Немного не ясно, что нужно делать для лечения - или полностью удалять или достаточно избавиться от папки \system\priv-app\Launcher3\oat. Я бы удалил и поставил более настраиваемый. И да - ни в коем случае не удалять без предварительно установленного другого лаунчера.
+https://4pda.ru/forum/index.php?showforum=509
+?.x.com.android.location.fused - Геоданные из нескольких источников - необходим для работы GPS. Один из компонентов геолокации. Бутлуп и невозможность сделать сброс, вам гарантированно светят.
+Сервис, который собирает данные о местоположении со всех возможных источников (сотовая сеть, IP-адрес, барометр, GPS, компас) и на их основании вычисляет точное положение смартфона на карте. Приложения типа навигаторов будут работать и без него, но с меньшей точностью.
+x.com.android.managedprovisioning - Настройка рабочего профиля - Администратор устройства. Очень важная вещь.
+com.android.messaging
+? [ com.android.mms ] - Сообщения - Удалить. Замена.
+?com.android.mms.service - Mmsservice - сервис sms и mms. Вроде можно заменить на альтернативный. Однако некоторые альтернативные приложения, например Pansi, не умеет без mms.apk получать ммс сообщения, но смс принимает. А вот HandcetSMS делает это без проблем при удалённом mms.apk.
+x.com.android.mtp - драйвер для связи с ПК в режиме MTP.
+-com.android.musicfx - пакет есть, иконки нет, не работает. Вайп дата+кеш должно помочь.
+x.com.android.onetimeinitializer - One Time Init - Инициализация приложений при первом запуске телефона. Удалять Не рекомендую, так как могут возникнуть проблемы при сбросе телефона.
+x.com.android.pacprocessor - PacProcessor - pac (Proxy auto-config) обработка прокси-сервера, настройки внутренней прокси.
+x.com.android.phone - TeleService.apk Телефон - Удалять Нельзя. Это сам телефон. Без него, другие звонилки не будут работать.
+x.com.android.providers.blockednumber - Хранилище заблокир. номеров - Если не пользуетесь антиспамом (фильтром номеров и смс), удаляйте. Нужное.
+x.com.android.providers.contacts - Хранилище контактов - Нельзя, иначе ни одна звонилка, не увидит ваши контакты.
+x.com.android.providers.downloads - Загрузки - Приложение для закачки файлов. Хотя в теории можно заменить, но не советую лезть без богатого опыта. Используется не только приложением ниже, но и другими, в том числе Маркетом гугл, для скачки приложений.
+?.com.android.providers.downloads.ui - Загрузки - Диспетчер загрузок. Дополнение к приложению выше.
+com.android.providers.media - Media Хранилище мультимедиа - Если удалите, поимеете проблемы с доступом к карте памяти. Если удалить, ни одно приложение не получит доступ к данным на флеш-карте через стандартный API.
+x.com.android.providers.settings - Хранилище настроек - Грубо говоря, без этой фигни, телефон перестанет запоминать ваши настройки в телефоне.
+x.com.android.providers.telephony - Память - звонки и SMS/MMS - Память... ну считайте, что-то вроде записной книжки или бортового журнала. Что, Где, Когда. И если звонилку можно заменить, то это нет. Все звонилки обращаются к этому компоненту. Плюс, он же, участвует в синхронизации.
+?com.android.providers.userdictionary - UserDictionary Словарь пользователя - Компонент используемый клавиатурой. Можно снести, если глаза мозолит. Я предпочитаю оставить, чтобы научить клавиатуру (например от гугл) самым страшным матюкам.
+Пользовательский словарь для предугадывания слов при наборе. Сюда добавляются все неизвестные ранее слова, имена, ники итд. Теоретически удалить можно в случае, если стандартная клавиатура не нужна. Без данного приложения стандартная клавиатура Android не работает, а так же возможны общие сбои (я не проверял эту инфу, в другом месте пишут что если пользуетесь сторонней клавиатурой, User Dictionary можно спокойно удалять). Я стороннюю клаву юзаю (мод TouchPal), поэтому заморозил и User Dictionary и Клавиатуру Андроид (AOSP).
+x.-.com.android.provision - Provision - первоначальная настройка телефона - сохраняет настройку о том, что устройство было подготовлено (отработал SetupWizard) если морозить/удалять, то только после первой загрузки. Удалить не проходя первоначальную настройку: перезагрузка в twrp, удалить Provision, прошить Permissiver.
+x.com.google.android.setupwizard - Настройка устройства Android - Настройка телефона при первом запуске. Нежелательно удалять, вероятен бутлуп при сбросе настроек.
+x.com.android.proxyhandler - ProxyHandler - "Обработчик прокси", ещё один системный сервис, для работы с прокси. Помогает приложениям подключаться через прокси-сервер.
+com.android.se - SecureElement - 
+x.com.android.server.telecom - Telecom.apk Управление вызовами - Телефон, управление звонками. А вот это непонятно. Вроде как часть "Телефона".
+x.com.android.settings - Настройки - Меню настроек телефона.
+com.android.settings.intelligence - Settings Sugestions - 
+-com.android.settings.theme.black
+-com.android.settings.theme.chocolate
++com.android.settings.theme.dark
+-com.android.settings.theme.elegant
+-com.android.settings.theme.extended
+?com.android.sharedstoragebackup -  - Резевное копирование Бекап на сервера google. Т.е. синхронизация. Если пользуетесь иными способами сохранения, можно удалить.
+x.com.android.shell - Оболочка - Оболочка / интерфейс андроида. Сообщения об ошибках. Удаление лишает возможности записи на девайс через Android ADB.
+com.android.simappdialog - 
+?com.android.smspush - WAPPushManager - Удалять, по мнению большого интернета - можно. И заморозка, проблем не показала. По идее, эта дрянь в ответе, за загрузку веб содержимого в ммс сообщениях. Ну знаете, как при просмотре письма в электронной почте, может быть чисто текст, а может быть кусок страницы с сайта показывать. Не проверял заморозкой, но по некоторым вещам, похоже на правду. Оставил в покое это приложение.
+x.com.android.statementservice - StatementService.apk Intent Filter Verification Service - Это приложение, отвечает за ассоциации ссылок с каким либо приложением. Прислали вам ссылку в ватсапе или на форуме в теме ссылку дали, к примеру Алиэкспресс. И вы её тапнули. Откроется автоматом Алиэкспресс. Или ссылка из Google Play Маркета, на приложение. Откроется маркет. Ну либо откроется список приложений, подходящих под это действие. В этом случае, список будет не от фонаря составлен (пара браузеров), а будет присутствовать набор приложений, внутри которых есть ассоциации с подобным форматом ссылок (точнее даже, с конкретным адресом сайта). В общем довольно важная приблуда.
+-com.android.stk - Набор функций SIM-карты. Меню SIM-карты - набор сервисов для SIM-карты. Ориентировочно нужны, но некоторые удаляют.
+Гори в аду. Лично у меня на Мегафоне, пока не грохнешь эту тварь, будет появляться иногда реклама. Окно внизу экрана, с кнопками "Ок" и "Отмена". Пару раз влетал на платные подписки.
+?com.android.storagemanager - Менеджер хранилища - А чёрт его знает, что это такое. Заморозил, телефон вроде жив.
+-com.android.system.theme.black
+-com.android.system.theme.chocolate
++com.android.system.theme.dark
+-com.android.system.theme.elegant
+-com.android.system.theme.extended
+x. com.android.systemui - Интерфейс системы - Графический интерфейс системы, формирование рабочего стола, шторка, верхняя панель строка статуса, иконки сети, батареи и часы.
++com.android.systemui.custom.theme.dark
+-com.android.systemui.theme.black
+-com.android.systemui.theme.chocolate
+-com.android.systemui.theme.elegant
+-com.android.systemui.theme.extended
+com.android.systemui.qstile.circlegradient
+com.android.systemui.qstile.circleoutline
+com.android.systemui.qstile.justicons
+com.android.systemui.qstile.roundedsquare
+com.android.systemui.qstile.square
+com.android.systemui.qstile.squircle
+com.android.systemui.qstile.teardrop
+
+com.android.traceur - 
+ - Приложение для прямой печати от PLATAFORMACIM
+ - Recording device activity over a short period of time is known as system tracing. System tracing produces a trace file that can be used to generate a system report. This report helps you identify how best to improve your app or game's performance.
+The Android platform provides several different options for capturing traces:
+    Android Studio CPU profiler https://developer.android.com/studio/profile/cpu-profiler
+The Android Studio CPU profiler inspects your app’s CPU usage and thread activity in real time while you interact with your app. You can also inspect the details in recorded method traces, function traces, and system traces.
+    System Tracing app https://developer.android.com/topic/performance/tracing/on-device
+The System Tracing app is an Android tool that saves device activity to a trace file. On a device running Android 10 (API level 29) or later, trace files are saved in Perfetto format (see below). On a device running an earlier version of Android, trace files are saved in the Systrace format.
+    Systrace command-line tool https://developer.android.com/topic/performance/tracing/command-line
+Systrace is a legacy platform-provided command-line tool that records device activity over a short period of time in a compressed text file. The tool produces a report that combines data from the Android kernel, such as the CPU scheduler, disk activity, and app threads.
+    Perfetto command-line tool https://developer.android.com/studio/command-line/perfetto
+Perfetto is the new platform-wide tracing tool introduced in Android 10. It is a more general and sophisticated open-source tracing project for Android, Linux, and Chrome. It offers a superset of data sources compared to Systrace and allows you to record arbitrarily long traces in a protobuf-encoded binary stream. You can open these traces in the Perfetto UI. https://ui.perfetto.dev/#!/
+
+?com.android.vpndialogs - VpnDialogs - Интерфейс подтверждения создания VPN соединения.
+?x.com.android.wallpaper.livepicker - Каталог живых обоев - Живые обои Android. Кто не пользуется, сносим. А кто любит эти штучки, то оставить, иначе могут возникнуть проблемы с установкой тех или иных обоин.
+-com.android.wallpaperbackup - Загадочная штука, связанная с бекапом изображений (то ли в галерее, то ли обоев). Но бед от удаления/заморозки, не замечено.
+?x.com.android.wallpapercropper - WallpaperCropper.apk обрезка (подгонка) обоев под экран. Вроде ничего страшного после удаления не будет, судя по спискам многие выкидывают, но мне кажется всё же нужно оставлять.
+?com.android.webview - WebView - Компонент для просмотра веб контента. Предоставляет механизм веб-рендеринга для использования в нативных приложениях. Используется множеством приложений. Например в почтовых клиентах или ВК, когда страница открывается внутри приложения. Не трогаем. Можно заменить на Bromite. После удаления некоторые приложения не запускаются.
+Авторизация Гугл аккаунта в таких приложениях как Vanced, Mi Mail, Google, Пользовательские приложения основанные на вебвью.
+?com.aospextended.aexpapers - AEX Papers - Приложение предоставляет рекомендуемые кастомные AEX-обои. Удалить.
+-com.aospextended.ota.theme.black
+-com.aospextended.ota.theme.chocolate
++com.aospextended.ota.theme.dark
+-com.aospextended.ota.theme.elegant
+-com.aospextended.ota.theme.extended
+com.custom.fonts - CustomFonts.apk - 
+!!!!!!!-com.google.android.apps.gms.theme.elegant - GooglePlayElegantTheme.apk - 
+?x.com.google.android.apps.wallpaper - WallpaperPickerGoogle.apk Google Wallpapers Google Обои - основное приложение для обев
+Выбирайте свои фото, снимки из коллекции Google Планета Земля, живописные пейзажи из Google+ или другие изображения. Хочется чего-то нового? Просто поменяйте обои.
+-com.google.android.apps.wellbeing.theme.black
+-com.google.android.apps.wellbeing.theme.chocolate
++com.google.android.apps.wellbeing.theme.dark - Digital Wellbeing .dark для A9 | Показывает статистику использования приложений.
+Ограничение использования приложений, перевод экрана в чёрно-белый режим, статистика использования приложений.
+-com.google.android.apps.wellbeing.theme.elegant
+-com.google.android.apps.wellbeing.theme.extended
+x.com.google.android.markup - Google Markup Разметка - Редактор скриншотов из A9 - На скрине можно рисовать.
+com.potato.overlay.hidecutout - HideCutout.apk - 
+com.potato.overlay.statusbarstock - StatusBarStock.apk - 
+!!!!!!com.xiaomi.bluetooth.overlay - не нашёл приложение
+-mark.via.gp - сток Via браузер
+org.aospextended.screenshot - Longshot.apk - 
+org.lineageos.recorder - Recorder.apk - 
+org.lineageos.settings - XiaomiParts.apk - 
+-org.pixelexperience.weather.client - Погода - 
+- [ com.miui.weather2 ] - Погода - Есть варианты получше. Но пропадет погода в шторке и на экране блокировки.
+- [ com.miui.providers.weather ] - Служба погоды - Нужна приложению стоковой погоды MIUI (и возможно погоды M8). Проверяем по ситуации.
+projekt.substratum.helper
+projekt.substratum.signature
+
+стиль интерфейса:
+Тёмная тема интерфейса, до A9 бесполезное приложение. А начиная с A9 систему наконец-то начали учить работать в тёмном режиме. В общем по нужде.
++dark тёмный
+-black чёрный
+-extended
++orange
++red
+
+
+
+
+
+
+
+
+
+MIUI:
+com.miui.videoplayer - Mi Видео - Стоковый miui видеоплеер. Избавляться не советую, в первую очередь тем, кто транслирует фильмы на телек. Это чуть ли не единственный плеер, позволяющий отправить видео на телек, позволяя при этом, продолжить использовать телефон. Даже тем, кто смотрит фильмы через приложения по типу HD Videobox или HD Кино. Этот же плеер, может выручить, когда какой-то фильм упорно тупит в MX video player (кто им пользуется, поняли о чём я, а кто только думает, просто поверьте, пригодится).
+com.duokan.phone.remotecontroller - Mi Пульт - Пульт управления техникой, через инфракрасный передатчик. Но как по мне, то лучше удалить и использовать Universal Remote for HTC one. Тут больше шансов найти пульт и поможет в этом, автопоиск.
+https://4pda.ru/forum/index.php?showtopic=657493
+com.mi.webkit.core - MiWebView
+com.xiaomi.xmsf - Xiaomi Service Framework
+com.svox.pico - Pico TTS 
+Duo - Видеосвязь от гугл (аналог скайпа)
+FIDO Fast IDentity Online - Короче это модуль шифрования паролей в системе универсальной двухфакторной аутентификации (ASM Authenticator Specific Module).
+com.android.vending - Google Play Маркет
+com.google.android.gsf - Google Service Framework
+оверлей - многослойный вывод изображения
+
+
+
+
+то что не определилось:
+messaging.apk
+SecureElement.apk
+SettingsIntelligence.apk
+SimAppDialog.apk
+Traceur.apk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
