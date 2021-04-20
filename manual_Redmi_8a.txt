@@ -109,12 +109,14 @@ GApps ARM32-10-PICO сервисы Google GMS
 https://4pda.ru/forum/dl/post/18348566/Certification%2BPatch.zip
 open_gapps-10.0-pico-20191114-BETA
 
+
+
+@xda-developers
+https://forum.xda-developers.com/f/xiaomi-redmi-8a-roms-kernels-recoveries-other.9631/
 GSI official смотреть в mR6.txt там подробнее
 https://4pda.ru/forum/index.php?showtopic=892755&st=0#entry71222655
-
 HavocOS 3.12 Remastered
 https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=105241797
-
 
 
 
