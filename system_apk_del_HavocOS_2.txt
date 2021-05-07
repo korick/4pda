@@ -25,10 +25,7 @@ Redmi 6 HavocOS A10
 на кастомах нету что удалять, чистый андроид, можно там ну:
 стоковое лаунчер (если есть чем заменить, а вообще нормальный)
 стоковое браузер, плеер, галерею, календарь, калькулятор, погоду, почту, обои, заставки, темы, акценты, печать, 
-/system_root/system/app-bak/
-/system_root/system/priv-app-bak/
-/system_root/system/product/app-bak/
-/system_root/system/product/priv-app-bak/
+
 
 
 android.apk
