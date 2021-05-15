@@ -51,7 +51,15 @@ Notepad++ https://github.com/notepad-plus-plus/notepad-plus-plus | https://notep
 [ссылка с title](https://URL "title ссылки") подсказка
 
 ==== Блокировка 4pda.ru https://4pda.to/forum/index.php?showtopic=1024777
-ru.fourpda.client https://4pda.to/forum/index.php?showtopic=673755
+ru.fourpda.client https://4pda.to/forum/index.php?showtopic=673755&view=getnewpost
+
+Каталог тем раздела Android - Прошивки > Xiaomi https://4pda.ru/forum/index.php?showtopic=612335
+Клуб владельцев Xiaomi Redmi 6/6A https://4pda.ru/forum/index.php?showtopic=934470&st=68780&view=getnewpost
+Xiaomi Redmi 6  - Неофициальные прошивки https://4pda.ru/forum/index.php?s=&showtopic=950105&view=getnewpost
+Xiaomi Redmi 6A - Неофициальные прошивки https://4pda.ru/forum/index.php?showtopic=944463&view=getnewpost
+Xiaomi Redmi 8A - Прошивки MIUI https://4pda.ru/forum/index.php?showtopic=976547&view=getnewpost
+Xiaomi Redmi 9A - Прошивки MIUI https://4pda.ru/forum/index.php?showtopic=1005664&view=getnewpost
+
 Муки выбора ПК, ноутбука https://4pda.ru/forum/index.php?showtopic=252563
 Windows XP - Обсуждение | [windowsos] https://4pda.ru/forum/index.php?showtopic=200978 Windows 78110 - там же
 Windows XP - FAQ | [windowsos] https://4pda.ru/forum/index.php?showtopic=200982
@@ -144,12 +152,13 @@ Android - эмуляторы https://4pda.ru/forum/index.php?showforum=529
 Новости игрового мира Android https://4pda.ru/forum/index.php?showtopic=189413
 Обзоры игр для Android https://4pda.ru/forum/index.php?showtopic=337923
 Клубы по интересам https://4pda.ru/forum/index.php?showforum=219
-Клуб Mod APK | Здесь делаем заказы на мод апк, учимся их создавать https://4pda.ru/forum/index.php?showtopic=461675&st=0#entry21945584
 Клуб ЧИТЕРОВ | Тут собираются читеры форума, собираем полезную информацию https://4pda.ru/forum/index.php?showtopic=375352&st=0#entry15462703
+Клуб Mod APK | Здесь делаем заказы на мод апк, учимся их создавать https://4pda.ru/forum/index.php?showtopic=461675&st=0#entry21945584
 Клуб любителей Астрономии https://4pda.ru/forum/index.php?showtopic=821117
 Клуб любителей КИНО https://4pda.ru/forum/index.php?showtopic=112823 (поиск фильма по содержанию)
 Клуб Перлы Нашего Форума https://4pda.ru/forum/index.php?showtopic=108532
 Создание игр под Android https://4pda.ru/forum/index.php?showforum=550
+
 NetGuard https://4pda.ru/forum/index.php?showtopic=700336
 AFWall+ https://4pda.ru/forum/index.php?showtopic=392249
 Migrate https://4pda.ru/forum/index.php?showtopic=927915
@@ -2751,10 +2760,9 @@ https://sourceforge.net/projects/komodos-rom/files/cereus/
 Сборники прошивок. Прошивки прямиком из Индонезия. Индусы просто клепают порты.
 non-GSI @nrudesu
 ShapeShiftOS_Blaziken-1.2.1-10.0 Q. EvolutionX_4.7-10.0 Q. AEX-v7.3-20200821 Q. Bliss-v12.10 Q. PE+-10.0 Q. PE-10.0 Q. NitrogenOS-10 Q. RROS-Q-8.5.7 Q. AncientOS-weeaboify-v3.9 Q. AncientOS-CIVILIZATION-v3.9 Q. Xtended-XQ-v12.0 Q. Corvus_v8.0-Tsushima Q. ZenX-OS-v1.8 Q. Havoc-OS-v3.7 Q. potato-10-croquette.v3.2.1+17 Q. crDroidAndroid-10.0-v6.9 Q. RevengeOS-3.2 Q. 
+certus https://www.pling.com/u/nrudesu/
 cereus https://sourceforge.net/projects/nrudesu-rom/files/cereus/
 cactus https://sourceforge.net/projects/nrudesu-rom/files/cactus/
-certus 
-https://www.pling.com/u/nrudesu/
 non-GSI @kokofriud
 RROS-Q-8.6.5 Q. LOSX-10.0-v1.1 Q. Fluid-0.6-Quenol Q. MalluOS_Flavour-1.3-@Chicken Official Q LOS-based Made in Kerala. Gzosp-10.Stable.2.0 Q. Hornbill-1.0-Jackfruit-10.0 Q. AIM-System-V4.1-Lucid Q. DotOS-P-v666 A9. MokeeOS-100.0 Q. Arrow-v10.0 Q. 
 cereus https://sourceforge.net/projects/godongteloprojects/files/cereus/
@@ -3291,6 +3299,9 @@ GSI фиксы основных проблем (R8) https://4pda.ru/forum/index.
 Патч для перевода прошивки A10 в RW ?
 https://forum.xda-developers.com/t/script-android-10-universal-mount-system-read-write-r-w.4247311/
 
+Скрипт для монтирования разделов A10 в RW в twrp (как обычный zip) (R9C-NFC)
+MountScript by kzubec https://4pda.to/forum/index.php?showtopic=1012866&view=findpost&p=105478111
+
 Патч для отключения защиты от записи во все разделы (R6A)
 https://4pda.ru/forum/index.php?showtopic=912972&view=findpost&p=103619115
 В раздел /proinfo в определённое место 350-357 (или 0000015E-00000165) записать "31232700" (без кавычек, atm_key)
@@ -3777,8 +3788,9 @@ ViLTE Video over LTE
 Смски не приходят от вотсаппа и Сбера и пр.?
 установить гаппс, уведомления не работают без сервисов гугла, лучше всего BitGAPPS, в них только самое основное.
 
-
-
+Переразбивка GPT разметки через TWRP при помощи gdisk (Для всех процессоров)
+https://4pda.to/forum/index.php?showtopic=544998&view=findpost&p=99255157
+Через Mi Flash с заменой файлов gpt, partition всё прошивается и изменятся без проблем в рекавери.
 
 
 
@@ -3927,7 +3939,8 @@ lk.img = lk. sspm.img = sspm_1. tee.img = tee1. scp.img = scp1.
 
   
 
-
+Команды
+df -h # общая инфа, свободное место в разделах
 
 
 
@@ -3963,7 +3976,7 @@ adb shell su -c "dd if=/dev/block/mmcblk0p12 of=/sdcard/persist.img bs=4096"
 adb pull /sdcard/persist.img persist.img
 @pause
 
-adb shell - командная оболочка шелл
+adb shell - командная оболочка, шелл
 su -c - рут
 dd - команда побайтовое копирование
 bs=4096 - размер буфера 4Kb. Размер куска данных в байтах, записываемых/читаемых за раз
