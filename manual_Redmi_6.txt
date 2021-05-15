@@ -50,6 +50,8 @@ Notepad++ https://github.com/notepad-plus-plus/notepad-plus-plus | https://notep
 [без title](https://URL)
 [ссылка с title](https://URL "title ссылки") подсказка
 
+==== Блокировка 4pda.ru https://4pda.to/forum/index.php?showtopic=1024777
+ru.fourpda.client https://4pda.to/forum/index.php?showtopic=673755
 Муки выбора ПК, ноутбука https://4pda.ru/forum/index.php?showtopic=252563
 Windows XP - Обсуждение | [windowsos] https://4pda.ru/forum/index.php?showtopic=200978 Windows 78110 - там же
 Windows XP - FAQ | [windowsos] https://4pda.ru/forum/index.php?showtopic=200982
