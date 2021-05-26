@@ -247,7 +247,7 @@ XXXX = PID
 
 
 
-сузить рут права сетевые потоки?
+сузить рут права сетевые потоки ?
 ? /system/etc/init/netd.rc 0644
 ? /vendor/etc/init/rild.rc 0644
 
@@ -260,7 +260,6 @@ XXXX = PID
 
 
 bootanimation.zip
-/system/media/bootanimation.zip так вроде
 /system_root/system/media/bootanimation.zip
 
 
@@ -543,6 +542,7 @@ chmod 660 /data/data/com.android.providers.contacts/databases/calllog.db-wal
 chown u0_a13:u0_a13 /data/data/com.android.providers.contacts/databases/calllog.db
 chown u0_a13:u0_a13 /data/data/com.android.providers.contacts/databases/calllog.db-shm
 chown u0_a13:u0_a13 /data/data/com.android.providers.contacts/databases/calllog.db-wal
+
 
 MAT My Android Tools
 управлять приложениями при автоматической загрузке, если нет встроенной функции в прошивке
