@@ -4,8 +4,8 @@
 
 
 
-подготовлено участниками форума 4pda.ru
-https://4pda.ru/forum/index.php?showtopic=921645&view=findpost&p=77962469
+подготовлено участниками форума 4pda
+https://4pda.to/forum/index.php?showtopic=921645&view=findpost&p=77962469
 
 
 
@@ -42,16 +42,16 @@ https://4pda.ru/forum/index.php?showtopic=921645&view=findpost&p=77962469
 
 
 вирус проверить
-https://4pda.ru/forum/index.php?showtopic=819998&view=findpost&p=65472414
+https://4pda.to/forum/index.php?showtopic=819998&view=findpost&p=65472414
 Launcher3 - com.android.launcher3 - наш стоковый лаунчер. Распространяет вирус.
 
 перевод настроек: настройки недопереведены
-https://4pda.ru/forum/index.php?showtopic=892755&view=findpost&p=94859642
+https://4pda.to/forum/index.php?showtopic=892755&view=findpost&p=94859642
 закинуть /system_root/system/product/priv-app/settings/Settings.apk 
 закинуть /system_root/system/framework/framework-res.apk
 
 Отключение предустановленных приложений, с помощью активити лаунчера Activity Launcher
-https://4pda.ru/forum/index.php?showtopic=1010463&view=findpost&p=103493501
+https://4pda.to/forum/index.php?showtopic=1010463&view=findpost&p=103493501
 https://play.google.com/store/apps/details?id=de.szalkowski.activitylauncher
 
 Redmi 6 AEX A9
@@ -215,7 +215,7 @@ x.com.android.keychain - KeyChain Брелок. Отвечает за безоп
 http://dadaviz.ru/key-chain-na-chto-eto-takoe/
 В целом, как мне кажется, удалять можно, особенно если телефоном пользуется человек без всяких учёток. Если кто-то знает более подробно про это приложение, буду рад информации.
 ?com.android.launcher3 - Launcher3 (com.android.launcher3) - стоковый лаунчер. Распространяет вирус. Немного не ясно, что нужно делать для лечения - или полностью удалять или достаточно избавиться от папки \system\priv-app\Launcher3\oat. Я бы удалил и поставил более настраиваемый. И да - ни в коем случае не удалять без предварительно установленного другого лаунчера.
-https://4pda.ru/forum/index.php?showforum=509
+https://4pda.to/forum/index.php?showforum=509
 ?.x.com.android.location.fused - Геоданные из нескольких источников - необходим для работы GPS. Один из компонентов геолокации. Бутлуп и невозможность сделать сброс, вам гарантированно светят.
 Сервис, который собирает данные о местоположении со всех возможных источников (сотовая сеть, IP-адрес, барометр, GPS, компас) и на их основании вычисляет точное положение смартфона на карте. Приложения типа навигаторов будут работать и без него, но с меньшей точностью.
 x.com.android.managedprovisioning - Настройка рабочего профиля - Администратор устройства. Очень важная вещь.
@@ -347,7 +347,7 @@ projekt.substratum.signature
 MIUI:
 com.miui.videoplayer - Mi Видео - Стоковый miui видеоплеер. Избавляться не советую, в первую очередь тем, кто транслирует фильмы на телек. Это чуть ли не единственный плеер, позволяющий отправить видео на телек, позволяя при этом, продолжить использовать телефон. Даже тем, кто смотрит фильмы через приложения по типу HD Videobox или HD Кино. Этот же плеер, может выручить, когда какой-то фильм упорно тупит в MX video player (кто им пользуется, поняли о чём я, а кто только думает, просто поверьте, пригодится).
 com.duokan.phone.remotecontroller - Mi Пульт - Пульт управления техникой, через инфракрасный передатчик. Но как по мне, то лучше удалить и использовать Universal Remote for HTC one. Тут больше шансов найти пульт и поможет в этом, автопоиск.
-https://4pda.ru/forum/index.php?showtopic=657493
+https://4pda.to/forum/index.php?showtopic=657493
 com.mi.webkit.core - MiWebView
 com.xiaomi.xmsf - Xiaomi Service Framework
 com.svox.pico - Pico TTS 

@@ -4,7 +4,7 @@ Notepad++ https://github.com/notepad-plus-plus/notepad-plus-plus | https://notep
 .\plugins\DSpellCheck\ https://github.com/Predelnik/DSpellCheck/releases/
 .\plugins\Config\Hunspell\ru_RU.aff, ru_RU.dic https://github.com/LibreOffice/dictionaries/ru_RU/
 кодировка UTF-8, синтаксис YAML или MD (markdown) для удобочитаемости
-подготовлено участниками форума 4pda.ru
+подготовлено участниками форума 4pda
 
 ! ВСЁ НИЖЕ ОПИСАННОЕ ОТНОСИТСЯ ТОЛЬКО ДЛЯ ТЕЛА REDMI 6
 
@@ -50,138 +50,138 @@ Notepad++ https://github.com/notepad-plus-plus/notepad-plus-plus | https://notep
 [без title](https://URL)
 [ссылка с title](https://URL "title ссылки") подсказка
 
-==== Блокировка 4pda.ru https://4pda.to/forum/index.php?showtopic=1024777
+==== Блокировка 4pda.to https://4pda.to/forum/index.php?showtopic=1024777
 ru.fourpda.client https://4pda.to/forum/index.php?showtopic=673755&view=getnewpost
 
 Специальная тема для тренировки (загрузка файлов, изображений, создание спойлеров) https://4pda.to/forum/index.php?showtopic=93526
-Каталог тем раздела Android - Прошивки > Xiaomi https://4pda.ru/forum/index.php?showtopic=612335
-Клуб владельцев Xiaomi Redmi 6/6A https://4pda.ru/forum/index.php?showtopic=934470&st=68780&view=getnewpost
-Xiaomi Redmi 6  - Неофициальные прошивки https://4pda.ru/forum/index.php?s=&showtopic=950105&view=getnewpost
-Xiaomi Redmi 6A - Неофициальные прошивки https://4pda.ru/forum/index.php?showtopic=944463&view=getnewpost
-Xiaomi Redmi 8A - Прошивки MIUI https://4pda.ru/forum/index.php?showtopic=976547&view=getnewpost
+Каталог тем раздела Android - Прошивки > Xiaomi https://4pda.to/forum/index.php?showtopic=612335
+Клуб владельцев Xiaomi Redmi 6/6A https://4pda.to/forum/index.php?showtopic=934470&st=68780&view=getnewpost
+Xiaomi Redmi 6  - Неофициальные прошивки https://4pda.to/forum/index.php?s=&showtopic=950105&view=getnewpost
+Xiaomi Redmi 6A - Неофициальные прошивки https://4pda.to/forum/index.php?showtopic=944463&view=getnewpost
+Xiaomi Redmi 8A - Прошивки MIUI https://4pda.to/forum/index.php?showtopic=976547&view=getnewpost
 Xiaomi Redmi 8A - Неофициальные прошивки https://4pda.to/forum/index.php?showtopic=1020524&view=getnewpost создана новая тема
-Xiaomi Redmi 9A - Прошивки MIUI https://4pda.ru/forum/index.php?showtopic=1005664&view=getnewpost
+Xiaomi Redmi 9A - Прошивки MIUI https://4pda.to/forum/index.php?showtopic=1005664&view=getnewpost
 
-Муки выбора ПК, ноутбука https://4pda.ru/forum/index.php?showtopic=252563
-Windows XP - Обсуждение | [windowsos] https://4pda.ru/forum/index.php?showtopic=200978 Windows 78110 - там же
-Windows XP - FAQ | [windowsos] https://4pda.ru/forum/index.php?showtopic=200982
+Муки выбора ПК, ноутбука https://4pda.to/forum/index.php?showtopic=252563
+Windows XP - Обсуждение | [windowsos] https://4pda.to/forum/index.php?showtopic=200978 Windows 78110 - там же
+Windows XP - FAQ | [windowsos] https://4pda.to/forum/index.php?showtopic=200982
 Настройка Windows XP на старом железе для современного интернета https://habr.com/ru/post/373803
-Муки выбора телефона https://4pda.ru/forum/index.php?showtopic=86855
-Подбор устройства БД https://4pda.ru/devdb/phones/select
-Проблемы с ПК https://4pda.ru/forum/index.php?showtopic=119976
-Акустика для ПК | Обсуждение, выбор, решение проблем https://4pda.ru/forum/index.php?showtopic=129433
-Помогите починить устройство | [service][help] самостоятельный ремонт и диагностика https://4pda.ru/forum/index.php?showtopic=156520
-Восстановление данных из внутренней памяти https://4pda.ru/forum/index.php?showtopic=475400
-Извлекаем личные данные с повреждённого/разбитого аппарата https://4pda.ru/forum/index.php?showtopic=591994
-Решение проблем с файлами на карте памяти https://4pda.ru/forum/index.php?showtopic=309190
-Замена оперативной памяти на чип большего объема https://4pda.ru/forum/index.php?showtopic=129567 <- на современных версиях Android невозможно
-Украденные/потерянные устройства https://4pda.ru/forum/index.php?showtopic=163510
-Способы обхода заблокированного доступа к интернет-ресурсам https://4pda.ru/forum/index.php?showtopic=824716
-Полезные ссылки на имеющиеся темы форума https://4pda.ru/forum/index.php?showtopic=147272&view=findpost&p=4847640&anchor=Spoil-4847640-1
-Вопросы новичка https://4pda.ru/forum/index.php?showtopic=147272
-Инструкция по GitHub | В помощь нубу! https://4pda.ru/forum/index.php?showtopic=879904
-Мини-F.A.Q. https://4pda.ru/forum/index.php?s=&showtopic=949619&view=findpost&p=84581191
-Полезная информация https://4pda.ru/forum/index.php?showtopic=732822&view=findpost&p=47994033
-FAQ общих инструкций и рекомендаций для устройств Xiaomi https://4pda.ru/forum/index.php?showtopic=949619
-Каталог тем раздела Android - Прошивки > Xiaomi https://4pda.ru/forum/index.php?showtopic=612335
-Разблокировка загрузчиков XIAOMI | Для всех смартфонов и планшетов XIAOMI (MediaTek Qualcomm) https://4pda.ru/forum/index.php?showtopic=721838
-Mi Аккаунт - Обсуждаем все, что связано с аккаунтом https://4pda.ru/forum/index.php?showtopic=792504
-Набор Must Have https://4pda.ru/forum/index.php?showtopic=151739
-Помощь в поиске программ для Android OS | ИЩЕМ программы https://4pda.ru/forum/index.php?showtopic=112900
-Наиболее популярные приложения https://4pda.ru/forum/index.php?showtopic=112900&view=findpost&p=68110134
+Муки выбора телефона https://4pda.to/forum/index.php?showtopic=86855
+Подбор устройства БД https://4pda.to/devdb/phones/select
+Проблемы с ПК https://4pda.to/forum/index.php?showtopic=119976
+Акустика для ПК | Обсуждение, выбор, решение проблем https://4pda.to/forum/index.php?showtopic=129433
+Помогите починить устройство | [service][help] самостоятельный ремонт и диагностика https://4pda.to/forum/index.php?showtopic=156520
+Восстановление данных из внутренней памяти https://4pda.to/forum/index.php?showtopic=475400
+Извлекаем личные данные с повреждённого/разбитого аппарата https://4pda.to/forum/index.php?showtopic=591994
+Решение проблем с файлами на карте памяти https://4pda.to/forum/index.php?showtopic=309190
+Замена оперативной памяти на чип большего объема https://4pda.to/forum/index.php?showtopic=129567 <- на современных версиях Android невозможно
+Украденные/потерянные устройства https://4pda.to/forum/index.php?showtopic=163510
+Способы обхода заблокированного доступа к интернет-ресурсам https://4pda.to/forum/index.php?showtopic=824716
+Полезные ссылки на имеющиеся темы форума https://4pda.to/forum/index.php?showtopic=147272&view=findpost&p=4847640&anchor=Spoil-4847640-1
+Вопросы новичка https://4pda.to/forum/index.php?showtopic=147272
+Инструкция по GitHub | В помощь нубу! https://4pda.to/forum/index.php?showtopic=879904
+Мини-F.A.Q. https://4pda.to/forum/index.php?s=&showtopic=949619&view=findpost&p=84581191
+Полезная информация https://4pda.to/forum/index.php?showtopic=732822&view=findpost&p=47994033
+FAQ общих инструкций и рекомендаций для устройств Xiaomi https://4pda.to/forum/index.php?showtopic=949619
+Каталог тем раздела Android - Прошивки > Xiaomi https://4pda.to/forum/index.php?showtopic=612335
+Разблокировка загрузчиков XIAOMI | Для всех смартфонов и планшетов XIAOMI (MediaTek Qualcomm) https://4pda.to/forum/index.php?showtopic=721838
+Mi Аккаунт - Обсуждаем все, что связано с аккаунтом https://4pda.to/forum/index.php?showtopic=792504
+Набор Must Have https://4pda.to/forum/index.php?showtopic=151739
+Помощь в поиске программ для Android OS | ИЩЕМ программы https://4pda.to/forum/index.php?showtopic=112900
+Наиболее популярные приложения https://4pda.to/forum/index.php?showtopic=112900&view=findpost&p=68110134
 ADB | fastboot - их использование | Работа со вспомогательными Android утилитами
-https://4pda.ru/forum/index.php?showtopic=383300
-Переназначение функций кнопок на Android устройствах https://4pda.ru/forum/index.php?showtopic=411431
-Проблемы подключения по USB | Решение вопросов подключения девайсов к ПК https://4pda.ru/forum/index.php?showtopic=269288
+https://4pda.to/forum/index.php?showtopic=383300
+Переназначение функций кнопок на Android устройствах https://4pda.to/forum/index.php?showtopic=411431
+Проблемы подключения по USB | Решение вопросов подключения девайсов к ПК https://4pda.to/forum/index.php?showtopic=269288
 Очень подробная инструкция про все аспекты прошивки в картинках и не только (1-3 стр.)
-Xiaomi Redmi Note 6 Pro - Прошивки MIUI https://4pda.ru/forum/index.php?showtopic=927964
-Удаление системных приложений Android | Облегчаем систему https://4pda.ru/forum/index.php?showtopic=236256
+Xiaomi Redmi Note 6 Pro - Прошивки MIUI https://4pda.to/forum/index.php?showtopic=927964
+Удаление системных приложений Android | Облегчаем систему https://4pda.to/forum/index.php?showtopic=236256
 Очень подробная инструкция про Список приложений MIUI которые можно удалить/заморозить
-Энергопотребление (автономность) Xiaomi Redmi Note 6 Pro https://4pda.ru/forum/index.php?showtopic=921645&view=findpost&p=77962469
+Энергопотребление (автономность) Xiaomi Redmi Note 6 Pro https://4pda.to/forum/index.php?showtopic=921645&view=findpost&p=77962469
 Списки отключенных сервисов/ресиверов/активити/провайдеров для разных приложений
-https://4pda.ru/forum/index.php?showtopic=907729
-https://4pda.ru/forum/index.php?showtopic=777336&view=findpost&p=55340718
+https://4pda.to/forum/index.php?showtopic=907729
+https://4pda.to/forum/index.php?showtopic=777336&view=findpost&p=55340718
 https://reports.exodus-privacy.eu.org/
-Советы по улучшению энергосбережения устройств на Android OS https://4pda.ru/forum/index.php?showtopic=144999
-Magisk - The Universal Systemless Interface https://4pda.ru/forum/index.php?showtopic=774072
-Каталог модулей для Magisk https://4pda.ru/forum/index.php?showtopic=915158
-Обсуждение модулей для Magisk. Обсуждение работы модулей для Magisk https://4pda.ru/forum/index.php?showtopic=946260
-Xposed | моддинг прошивок без декомпиляции apk файлов и прошивки через CWM https://4pda.ru/forum/index.php?showtopic=425052
-edXposed https://4pda.ru/forum/index.php?showtopic=425052&view=findpost&p=81226127
-Инструкции по Xposed | Выбор версии, способы установки, решение проблем https://4pda.ru/forum/index.php?showtopic=571274
-Инструкции по функционалу модулей Xposed | Самые популярные и актуальные вопросы https://4pda.ru/forum/index.php?showtopic=324724
-Каталог модулей для Xposed framework | Каталог готовых модулей https://4pda.ru/forum/index.php?showtopic=603033
-FAQ по TWRP | Recovery для Android устройств https://4pda.ru/forum/index.php?showtopic=523117
-Стол заказов кастомного рекавери TWRP CWM | Все платформы https://4pda.ru/forum/index.php?showtopic=789936
-Сборка ядра Android для процессоров MTK https://4pda.ru/forum/index.php?showtopic=583114
-SP Flash Tool https://4pda.ru/forum/index.php?showtopic=469340
-Nova Launcher | Оригинальный и настраиваемый лаунчер для современного Android https://4pda.ru/forum/index.php?showtopic=297970
+Советы по улучшению энергосбережения устройств на Android OS https://4pda.to/forum/index.php?showtopic=144999
+Magisk - The Universal Systemless Interface https://4pda.to/forum/index.php?showtopic=774072
+Каталог модулей для Magisk https://4pda.to/forum/index.php?showtopic=915158
+Обсуждение модулей для Magisk. Обсуждение работы модулей для Magisk https://4pda.to/forum/index.php?showtopic=946260
+Xposed | моддинг прошивок без декомпиляции apk файлов и прошивки через CWM https://4pda.to/forum/index.php?showtopic=425052
+edXposed https://4pda.to/forum/index.php?showtopic=425052&view=findpost&p=81226127
+Инструкции по Xposed | Выбор версии, способы установки, решение проблем https://4pda.to/forum/index.php?showtopic=571274
+Инструкции по функционалу модулей Xposed | Самые популярные и актуальные вопросы https://4pda.to/forum/index.php?showtopic=324724
+Каталог модулей для Xposed framework | Каталог готовых модулей https://4pda.to/forum/index.php?showtopic=603033
+FAQ по TWRP | Recovery для Android устройств https://4pda.to/forum/index.php?showtopic=523117
+Стол заказов кастомного рекавери TWRP CWM | Все платформы https://4pda.to/forum/index.php?showtopic=789936
+Сборка ядра Android для процессоров MTK https://4pda.to/forum/index.php?showtopic=583114
+SP Flash Tool https://4pda.to/forum/index.php?showtopic=469340
+Nova Launcher | Оригинальный и настраиваемый лаунчер для современного Android https://4pda.to/forum/index.php?showtopic=297970
 Темы для лаунчеров: GO EX, Apex, Nova, Holo
-https://4pda.ru/forum/index.php?showtopic=239158&view=findpost&p=95392951
-https://4pda.ru/forum/index.php?showtopic=239158&view=findpost&p=95474703
-Темы для CyanogenMod12/13, Каталог тем для CyanogenMod12/13 и их обсуждение https://4pda.ru/forum/index.php?showtopic=636805&view=findpost&p=37054932
+https://4pda.to/forum/index.php?showtopic=239158&view=findpost&p=95392951
+https://4pda.to/forum/index.php?showtopic=239158&view=findpost&p=95474703
+Темы для CyanogenMod12/13, Каталог тем для CyanogenMod12/13 и их обсуждение https://4pda.to/forum/index.php?showtopic=636805&view=findpost&p=37054932
 Подробное описание CPU Говерноров, планировщиков I/O и алгоритмов TCP <- плацебо
-http://4pda.ru/forum/index.php?showtopic=737235&view=findpost&p=54831160
-Разработка и портирование GSI-прошивок - 4PDA https://4pda.ru/forum/index.php?showtopic=892755
-Обработка (распаковка, сборка) прошивок и образов (.img, .bin) под Windows, утилиты https://4pda.ru/forum/index.php?showtopic=496786
-Средство для разборки/сборки прошивок и отдельных образов https://4pda.ru/forum/index.php?showtopic=459926
-microG Services Core | Альтернатива сервисам Google Play https://4pda.ru/forum/index.php?showtopic=724118
-Инструкции по редактированию системных ресурсов | Каталог инструкций (мануалов) по редактированию системных ресурсов https://4pda.ru/forum/index.php?showtopic=540887
+http://4pda.to/forum/index.php?showtopic=737235&view=findpost&p=54831160
+Разработка и портирование GSI-прошивок - 4PDA https://4pda.to/forum/index.php?showtopic=892755
+Обработка (распаковка, сборка) прошивок и образов (.img, .bin) под Windows, утилиты https://4pda.to/forum/index.php?showtopic=496786
+Средство для разборки/сборки прошивок и отдельных образов https://4pda.to/forum/index.php?showtopic=459926
+microG Services Core | Альтернатива сервисам Google Play https://4pda.to/forum/index.php?showtopic=724118
+Инструкции по редактированию системных ресурсов | Каталог инструкций (мануалов) по редактированию системных ресурсов https://4pda.to/forum/index.php?showtopic=540887
 Проверка подписи и целостности https://4pda.to/forum/index.php?showtopic=540887&view=findpost&p=5747125
-Скрипты на shell под Android | Обсуждаем резиденты и прочие в быту полезные команды https://4pda.ru/forum/index.php?showtopic=508427
-Создание патча update.zip для прошивки через рекавери https://4pda.ru/forum/index.php?showtopic=205817&st=0#Spoil-27695720-32
+Скрипты на shell под Android | Обсуждаем резиденты и прочие в быту полезные команды https://4pda.to/forum/index.php?showtopic=508427
+Создание патча update.zip для прошивки через рекавери https://4pda.to/forum/index.php?showtopic=205817&st=0#Spoil-27695720-32
 Вопросы по безопасности, приватности и анонимности в сети и под андроидом | [technoblabla] общие вопросы безопасности, приватности и анонимности
-https://4pda.ru/forum/index.php?showtopic=717365&view=findpost&p=68304580
+https://4pda.to/forum/index.php?showtopic=717365&view=findpost&p=68304580
 Android: проверка и анализ исполняемых файлов и прочие мысли по этому поводу | Проверка, анализ и другие исследования APK, DEX, ODEX, JAR итп
-https://4pda.ru/forum/index.php?showtopic=899691
+https://4pda.to/forum/index.php?showtopic=899691
 Безопасность в андроиде. Приватность и анонимность в интернете. Обсуждение реалий и будущего темы. | Векторы развития, недостатки, возможные изменения и другие организационные вопросы основной темы
-https://4pda.ru/forum/index.php?showtopic=943940
+https://4pda.to/forum/index.php?showtopic=943940
 Тестовый набор для Android-устройств | Набор приложений и методов для тестирования Android устройств
-https://4pda.ru/forum/index.php?showtopic=240901
-Каталог Книг Книгохранилище https://4pda.ru/forum/index.php?showforum=218
+https://4pda.to/forum/index.php?showtopic=240901
+Каталог Книг Книгохранилище https://4pda.to/forum/index.php?showforum=218
 Аудиокниги на 4PDA https://4pda.to/forum/index.php?act=findpost&pid=93421656&anchor=Spoil-93421656-5
-Каталог программ для Windows Каталогизаторы https://4pda.ru/forum/index.php?showtopic=281814&view=findpost&p=10128697
-Каталог программ для Android устройств https://4pda.ru/forum/index.php?showtopic=112220
-Каталог программ для Android TV Box медиаприставок https://4pda.ru/forum/index.php?showtopic=740069
-Как сделать клон apk https://4pda.ru/forum/index.php?showtopic=355487
-Беспроводные пульты ДУ https://4pda.ru/forum/index.php?showtopic=400717&view=findpost&p=64301870
-Librem 5 | смартфон FOSS за 700$ https://4pda.ru/forum/index.php?showtopic=884412
-Поиск программ для Android https://4pda.ru/forum/index.php?showtopic=112900
-Поиск тем оформления, виджетов, обоев, иконок для Android https://4pda.ru/forum/index.php?showtopic=208182
-Поиск игр для Android https://4pda.ru/forum/index.php?showtopic=172737
-Игры портированные с других платформ для Android https://4pda.ru/forum/index.php?showtopic=753092
-Поиск эмуляторов https://4pda.ru/forum/index.php?showtopic=322070
-Android - эмуляторы https://4pda.ru/forum/index.php?showforum=529
-Новости игрового мира Android https://4pda.ru/forum/index.php?showtopic=189413
-Обзоры игр для Android https://4pda.ru/forum/index.php?showtopic=337923
+Каталог программ для Windows Каталогизаторы https://4pda.to/forum/index.php?showtopic=281814&view=findpost&p=10128697
+Каталог программ для Android устройств https://4pda.to/forum/index.php?showtopic=112220
+Каталог программ для Android TV Box медиаприставок https://4pda.to/forum/index.php?showtopic=740069
+Как сделать клон apk https://4pda.to/forum/index.php?showtopic=355487
+Беспроводные пульты ДУ https://4pda.to/forum/index.php?showtopic=400717&view=findpost&p=64301870
+Librem 5 | смартфон FOSS за 700$ https://4pda.to/forum/index.php?showtopic=884412
+Поиск программ для Android https://4pda.to/forum/index.php?showtopic=112900
+Поиск тем оформления, виджетов, обоев, иконок для Android https://4pda.to/forum/index.php?showtopic=208182
+Поиск игр для Android https://4pda.to/forum/index.php?showtopic=172737
+Игры портированные с других платформ для Android https://4pda.to/forum/index.php?showtopic=753092
+Поиск эмуляторов https://4pda.to/forum/index.php?showtopic=322070
+Android - эмуляторы https://4pda.to/forum/index.php?showforum=529
+Новости игрового мира Android https://4pda.to/forum/index.php?showtopic=189413
+Обзоры игр для Android https://4pda.to/forum/index.php?showtopic=337923
 Краткий гид по выбору офлайн навигации для мобильных устройств
-https://4pda.ru/forum/index.php?showtopic=88414&view=findpost&p=28379951
+https://4pda.to/forum/index.php?showtopic=88414&view=findpost&p=28379951
 https://4pda.to/forum/index.php?act=findpost&pid=11168446&anchor=Spoil-11168446-4
 https://4pda.to/forum/index.php?showtopic=172943
 https://travelgps.com.ua
 карты https://4pda.to/forum/index.php?showtopic=552
-Клубы по интересам https://4pda.ru/forum/index.php?showforum=219
-Клуб ЧИТЕРОВ | Тут собираются читеры форума, собираем полезную информацию https://4pda.ru/forum/index.php?showtopic=375352&view=getnewpost
-Клуб Mod APK | Здесь делаем заказы на мод апк, учимся их создавать https://4pda.ru/forum/index.php?showtopic=461675&view=getnewpost
-Клуб любителей Астрономии https://4pda.ru/forum/index.php?showtopic=821117
-Клуб любителей КИНО https://4pda.ru/forum/index.php?showtopic=112823 (поиск фильма по содержанию)
-Клуб Перлы Нашего Форума https://4pda.ru/forum/index.php?showtopic=108532
-Создание игр под Android https://4pda.ru/forum/index.php?showforum=550
+Клубы по интересам https://4pda.to/forum/index.php?showforum=219
+Клуб ЧИТЕРОВ | Тут собираются читеры форума, собираем полезную информацию https://4pda.to/forum/index.php?showtopic=375352&view=getnewpost
+Клуб Mod APK | Здесь делаем заказы на мод апк, учимся их создавать https://4pda.to/forum/index.php?showtopic=461675&view=getnewpost
+Клуб любителей Астрономии https://4pda.to/forum/index.php?showtopic=821117
+Клуб любителей КИНО https://4pda.to/forum/index.php?showtopic=112823 (поиск фильма по содержанию)
+Клуб Перлы Нашего Форума https://4pda.to/forum/index.php?showtopic=108532
+Создание игр под Android https://4pda.to/forum/index.php?showforum=550
 
-NetGuard https://4pda.ru/forum/index.php?showtopic=700336
-AFWall+ https://4pda.ru/forum/index.php?showtopic=392249
-Migrate https://4pda.ru/forum/index.php?showtopic=927915
-Переводчик Google (Google Translate) https://4pda.ru/forum/index.php?showtopic=151200
-GameGuardian https://4pda.ru/forum/index.php?showtopic=259340
-Скрипты GameGuardian https://4pda.ru/forum/index.php?showtopic=961867
-MacroDroid, Автоматизация Android https://4pda.ru/forum/index.php?showtopic=374521&view=findpost&p=55832020
-Stop Log | Отключаем logcat https://4pda.ru/forum/index.php?showtopic=602538
-FeraDroid Engine | Мощный оптимизатор устройств Андроид из разряда - всё в одном https://4pda.ru/forum/index.php?showtopic=716174
-ViPER4Android V4A Описание эффектов https://4pda.ru/forum/index.php?showtopic=405989&st=11020#entry52819652
-Activity Launcher https://4pda.ru/forum/index.php?showtopic=808337
-Dev Tools Утилита для разработчиков приложений на Android https://4pda.ru/forum/index.php?showtopic=958291
+NetGuard https://4pda.to/forum/index.php?showtopic=700336
+AFWall+ https://4pda.to/forum/index.php?showtopic=392249
+Migrate https://4pda.to/forum/index.php?showtopic=927915
+Переводчик Google (Google Translate) https://4pda.to/forum/index.php?showtopic=151200
+GameGuardian https://4pda.to/forum/index.php?showtopic=259340
+Скрипты GameGuardian https://4pda.to/forum/index.php?showtopic=961867
+MacroDroid, Автоматизация Android https://4pda.to/forum/index.php?showtopic=374521&view=findpost&p=55832020
+Stop Log | Отключаем logcat https://4pda.to/forum/index.php?showtopic=602538
+FeraDroid Engine | Мощный оптимизатор устройств Андроид из разряда - всё в одном https://4pda.to/forum/index.php?showtopic=716174
+ViPER4Android V4A Описание эффектов https://4pda.to/forum/index.php?showtopic=405989&st=11020#entry52819652
+Activity Launcher https://4pda.to/forum/index.php?showtopic=808337
+Dev Tools Утилита для разработчиков приложений на Android https://4pda.to/forum/index.php?showtopic=958291
 Полный тест качества кодирования звука YouTube https://www.audiophilesoft.ru/publ/my/youtube_audio_quality/11-1-0-285
-Tinymix Manager | Изменение значений аудиокарты https://4pda.ru/forum/index.php?showtopic=984324
+Tinymix Manager | Изменение значений аудиокарты https://4pda.to/forum/index.php?showtopic=984324
 
 Статья про информационную безопасность для рядовых пользователей https://habr.com/ru/post/452610
 Про установку и использование LineageOS 16 F-Droid https://habr.com/ru/post/465945
@@ -322,7 +322,7 @@ https://youtu.be/iVh3-WLJ2Bw
 
 Краткий, но не исчерпывающий список того, что не нужно делать с данными аппаратами, дабы не получить кирпич, верно как для Redmi 6/6A:
 Рекомендации по действиям с телефонами Redmi 6/6A:
-https://4pda.ru/forum/index.php?showtopic=912972&view=findpost&p=94468022
+https://4pda.to/forum/index.php?showtopic=912972&view=findpost&p=94468022
 Что НАДО делать:
 - Попродать, поменять, подарить, потерять, потопить, побить - не связываться с MTK, данной моделью телефона
 - При покупке телефона, не спешить обновлять до последней MIUI "по воздуху" (через три точки), сразу разблокировать загрузчик
@@ -345,7 +345,7 @@ https://4pda.ru/forum/index.php?showtopic=912972&view=findpost&p=94468022
 - Прошивать несовместимые программы (к примеру прошив magisk и gcam, телефон стал виброкирпичём (без fastboot без рекавери) читал в этой теме.
 
 Таблица некоторых комплектующих Redmi 6
-https://4pda.ru/forum/index.php?showtopic=895128&view=findpost&p=83783824
+https://4pda.to/forum/index.php?showtopic=895128&view=findpost&p=83783824
 Вывод: производитель использует комплектующие "те что есть под рукой", никакой спецификации, унификации, стандартизации. После приобретения тела, проверить производительность памяти, часто битая Skyrocket Charger Test_v0.9.
 Можно сделать тест памяти в SPFT (все данные сотрутся), если пойдут ошибки - проблема с памятью.
 
@@ -785,19 +785,19 @@ mini USB - мобильный телефон, плеер, цифровой фо�
 A-type - ПК
 B-type - принтер, сканер
 C-type micro USB - мобильный телефон, новое поколение Type-C (перевернуть разъём USB-C кабеля. Некоторые экземпляры работают на передачу данных только в определённом положении. "симметричный, но не совсем")
-https://4pda.ru/forum/index.php?showtopic=383300
+https://4pda.to/forum/index.php?showtopic=383300
 - Скачать Google platform-tools (adb/fastboot/systrace) и распаковать содержимое в папку, портабельно: c:\adb\ : adb.exe, AdbWinApi.dll, AdbWinUsbApi.dll, fastboot.exe - минимальный комплект для работы adb и fastboot под учёткой Админ
 platform-tools.Windows требует установленную актуальную версию .NET Framework?
 platform-tools_28.0.2+ требует актуальные версии Microsoft Visual C++ для ОС Windows?
 для работы adb и fastboot в минимальной конфигурации больше ничего не надо
-https://4pda.ru/forum/index.php?s=&showtopic=907017&view=findpost&p=87853533
+https://4pda.to/forum/index.php?s=&showtopic=907017&view=findpost&p=87853533
 https://developer.android.com/studio/releases/platform-tools
-https://4pda.ru/forum/index.php?act=findpost&pid=84549504&anchor=Spoil-84549504-3 или со своей темы прошивки
+https://4pda.to/forum/index.php?act=findpost&pid=84549504&anchor=Spoil-84549504-3 или со своей темы прошивки
 Platform-tools (adb/fastboot) r.23.1.0 last WXP
 Platform-tools (adb/fastboot) r.30.0.1 W7+
 - Скачать Google adb драйвера и распаковать содержимое в папку, портабельно: c:\adb_driver\ : android_winusb.inf, WdfCoInstaller01009.dll, winusbcoinstaller2.dll, WUDFUpdate_01009.dll - минимальный комплект драйверов для установки вручную для работы adb под учёткой Админ
 Устанавливаем драйвера при подключённом телефоне. Устанавливаю драйвера на тело в ручном режиме через файл android_winusb.inf.
-https://4pda.ru/forum/index.php?act=findpost&pid=84549504&anchor=Spoil-84549504-2 или со своей темы прошивки
+https://4pda.to/forum/index.php?act=findpost&pid=84549504&anchor=Spoil-84549504-2 или со своей темы прошивки
 - В данном ПО MiFlashUnlock есть драйвера ADB для устройств (WXP, W7, W10)
 - В данном ПО MiFlash есть драйвера ADB для устройств (WXP, W7, W10)
 - Отключить проверку цифровой подписи драйверов под учёткой Админ (W7, W10)
@@ -822,7 +822,7 @@ gpedit.msc
 Во время загрузки системы, нажимаем F8 и попадаем в меню выбора параметров загрузки. Здесь выбираем "Отключение обязательной проверки подписи драйверов" и жмём Enter. Это действие загрузит W7 в специальном режиме без проверки подписи драйверов, вы можете установить любые драйвера. После перезапуска защита снова включится, установленные драйвера будут работать, новые неподписанные драйвера устанавливаться не будут.
 ==== На W8/8.1/10:
 Win+I и зажимая клавишу Shift, выбираем Выключение - Перезагрузка - страница параметров выключения - Диагностика - Дополнительные параметры - Параметры загрузки (Настройка параметров загрузки Windows) - Перезагрузить - страница параметров загрузки - Отключить обязательную проверку подписи драйверов F7 - установить драйвера - Перезагрузка
-https://4pda.ru/forum/index.php?showtopic=927964&view=findpost&p=78537129 # или со своей темы прошивки
+https://4pda.to/forum/index.php?showtopic=927964&view=findpost&p=78537129 # или со своей темы прошивки
 https://androidp1.ru/otklyuchenie-proverki-tsifrovoy-podpisi-drayverov-windows-10-8-1-8-7/ # или со своей темы прошивки
 ==== На W7/W8/8.1/10:
 - Переменные среды. Панель управления - Система - Дополнительные параметры системы - Переменные среды.
@@ -944,8 +944,8 @@ SD карта внешняя:
 работает на стоке и на кастомах. В принципе делать не надо.
 Для вендоров MIUI 10.4.4.0+
 - Скачать TWRP с поддержкой F2FS
-Redmi 6A https://4pda.ru/forum/index.php?s=&showtopic=912972&view=findpost&p=93246875
-Redmi 6  https://4pda.ru/forum/index.php?s=&showtopic=907017&view=findpost&p=93280492
+Redmi 6A https://4pda.to/forum/index.php?s=&showtopic=912972&view=findpost&p=93246875
+Redmi 6  https://4pda.to/forum/index.php?s=&showtopic=907017&view=findpost&p=93280492
 - Установить. Загрузить TWRP
 - Установить архив (нужно прошивать снова при прошивке вендора) f2fs-vendor.zip
 - Wipe-Advanced Wipe-Data-Change File System-F2FS (Стирает данные)
@@ -973,7 +973,7 @@ Redmi 6  https://4pda.ru/forum/index.php?s=&showtopic=907017&view=findpost&p=932
 Стоковые прошивки ставятся:
 заблокированный загрузчик
 - OTA через .zip (лучше полная версия)
-- XiaoMiTool V2 https://4pda.ru/forum/index.php?showtopic=949619&view=findpost&p=86902456
+- XiaoMiTool V2 https://4pda.to/forum/index.php?showtopic=949619&view=findpost&p=86902456
 разблокированный загрузчик
 - twrp через архив .zip (лучше полная версия)
 - fastboot через MiFlash и распакованную 2 раза прошивку с образами .img
@@ -1389,8 +1389,8 @@ userdata - раздел пользовательского хранилища д
 ** PROJECT TREBLE + VNDK vendor native developer kit
 поддерживается с А8+ (но не всеми девайсами). Чтобы прошить GSI тело д. поддерживать и Treble и VNDK.
 проверить поддержку Treble + VNDK: Treble Check (только Treble), Treble Info (Treble + VNDK)
-https://4pda.ru/forum/index.php?showtopic=892755
-https://4pda.ru/forum/index.php?showtopic=892755&view=findpost&p=66127195
+https://4pda.to/forum/index.php?showtopic=892755
+https://4pda.to/forum/index.php?showtopic=892755&view=findpost&p=66127195
 ARMv6, v7, v8, v9 семейство специальных 32-64-битных мобильных процессоров фирмы Acorn ARM Limited: Advanced RISC Machine усовершенствованная RISC-машина, иногда Acorn RISC Machine, производится по лицензии другими фирмами.
 
 Treble = GSI - обособленная кастомная прошивка, которая предназначена ДЛЯ ВСЕХ девайсов с поддержкой Project Treble (А8+).
@@ -1462,9 +1462,9 @@ A8.1 SDK API 27 Oreo
 > На A8.1 только MIUI стабильная. А на вендоре от A9 все non-GSI A9 стабильные.
 > GSI A8.1 очень не стабильно работают. Нормальных кастомов нет. Плохо работают (есть фиксы).
 > Redmi 6A: arm-a 10.3.6+deodex, 10.3.8+deodex (имеет свои баги?), 
-https://4pda.ru/forum/index.php?showtopic=912972&view=findpost&p=92282005
-https://4pda.ru/forum/index.php?showtopic=912972&view=findpost&p=102968542
-https://4pda.ru/forum/index.php?showtopic=912972&view=findpost&p=91551458
+https://4pda.to/forum/index.php?showtopic=912972&view=findpost&p=92282005
+https://4pda.to/forum/index.php?showtopic=912972&view=findpost&p=102968542
+https://4pda.to/forum/index.php?showtopic=912972&view=findpost&p=91551458
 
 A9.0 SDK API 28 Pie
 > Redmi 6: a64-ab 10.4.4 (имеет свои баги?), 11.0.4, 
@@ -1566,7 +1566,7 @@ persist - содержит параметры различного оборуд�
 > Очистить далвик-кеш весь или только кеш удалённых приложений.
 
 ** Сменить IMEI
-https://4pda.ru/forum/index.php?act=findpost&pid=35587929&anchor=Spoil-35587929-1
+https://4pda.to/forum/index.php?act=findpost&pid=35587929&anchor=Spoil-35587929-1
 Забекапить EFS imei.
 Нет подтверждённого случая смены imei, только восстановление imei из своего бекапа.
 Использовать файлы из одного бекапа, не смешивать с разных бекапов.
@@ -1582,21 +1582,21 @@ https://4pda.ru/forum/index.php?act=findpost&pid=35587929&anchor=Spoil-35587929-
 Без imei (imei 0) будет работать только yota.
 
 Как вариант
-https://4pda.ru/forum/index.php?showtopic=907017&view=findpost&p=104155753
+https://4pda.to/forum/index.php?showtopic=907017&view=findpost&p=104155753
 - мануал Восстанавливаем NVRAM и IMEI с помощью программы Maui Meta 3G
-https://4pda.ru/forum/index.php?showtopic=798932&view=findpost&p=80647115
+https://4pda.to/forum/index.php?showtopic=798932&view=findpost&p=80647115
 - прошить сервисную прошивку
-https://4pda.ru/forum/index.php?showtopic=907017&view=findpost&p=103617692
-- по этому методу https://4pda.ru/forum/index.php?showtopic=907017&view=findpost&p=103559971
+https://4pda.to/forum/index.php?showtopic=907017&view=findpost&p=103617692
+- по этому методу https://4pda.to/forum/index.php?showtopic=907017&view=findpost&p=103559971
 - восстановить только второй imei https://youtu.be/B7gnEwXbWQA (9:10)
 (Способ проверен - рабочий)
 
-MauiMETA https://4pda.ru/forum/index.php?showtopic=678449
-инструкции по MauiMETA https://4pda.ru/forum/index.php?showtopic=678449&view=findpost&p=41671213&anchor=Spoil-41671213-3
+MauiMETA https://4pda.to/forum/index.php?showtopic=678449
+инструкции по MauiMETA https://4pda.to/forum/index.php?showtopic=678449&view=findpost&p=41671213&anchor=Spoil-41671213-3
 
-WwR MTK https://4pda.ru/forum/index.php?showtopic=813767
+WwR MTK https://4pda.to/forum/index.php?showtopic=813767
 
-qualcomm_IMEI_Write_tool+.zip https://4pda.ru/forum/index.php?showtopic=927964&view=findpost&p=80067991
+qualcomm_IMEI_Write_tool+.zip https://4pda.to/forum/index.php?showtopic=927964&view=findpost&p=80067991
 
 
 
@@ -1622,7 +1622,7 @@ python main.py
 
 
 ** Комплект программ на ПК для прошивки MTK R6/6A:
-https://4pda.ru/forum/index.php?showtopic=912972&view=findpost&p=78832921
+https://4pda.to/forum/index.php?showtopic=912972&view=findpost&p=78832921
 xiaomi-mt6765 платформа устройства Redmi 6/6A
 - ADB: SDK Platform Tools | r23.1 (WXP+) | r29.0.6 (W7+) | 
 r29.0.6 2020 support A11
@@ -1630,7 +1630,7 @@ r30.0.5 2020 support A11
 r31.0.1 2021 support A11
 - Драйвер ADB: ADB Driver Lite v1.17 (WXP+)
 - Драйвер MTK:
-https://4pda.ru/forum/index.php?act=findpost&pid=22556656&anchor=Spoil-22556656-3
+https://4pda.to/forum/index.php?act=findpost&pid=22556656&anchor=Spoil-22556656-3
 MTK_USB_All_v1.0.8.zip\Driver_Auto_Installer_.1632\Driver_Auto_Installer_EXE_v5.1632.00.zip (W7)
 Windows+10_MTK+VCOM+USB+Preloader+Drivers.zip (совместимость с W7)
 Добавит следующие драйверы в ОС
@@ -1641,33 +1641,33 @@ Windows+10_MTK+VCOM+USB+Preloader+Drivers.zip (совместимость с W7)
 + MTK USB port – для переноса Preloader на устройство (и восстановления в случае плохой или поврежденной микропрограммы)
 Теперь, когда вы подключите выключенное MTK устройство к ПК по USB, устройство будет опознано MediaTek Preloader USB VCOM Port или MTK USB port, если устройство - кирпич или имеет плохую/поврежденную микропрограмму. SP Flash Tool будет иметь возможность загрузить прошивку на ваше устройство через эти интерфейсы.
 Подключайте устройство только после нажатия на кнопку Download в SPFT, поскольку коммуникационный интерфейс будет активен в течение всего 2 секунд, если данные не будут посланы.
-https://4pda.ru/forum/index.php?s=&showtopic=469340&view=findpost&p=46439587
+https://4pda.to/forum/index.php?s=&showtopic=469340&view=findpost&p=46439587
 - MiFlash: (WXP?, WVT?, W7+) | 2018.05.28 | 2018.05.18 | 2017.04.25 | 2016.08.30 | 2015.10.28
 MiFlash последних версий работает не корректно (R9A)
 MiFlash представляет fastboot GUI для скрипта flash_all.bat
 В свойствах MiFlash выставляем совместимость с W7, Админ
 Перед прошивкой. Проверить что шьём Clean all или Save user data, а не Flash & lock
 https://www.xiaomiflash.com/download
-2017.4.25 https://4pda.ru/forum/index.php?act=findpost&pid=79330855&anchor=Spoil-79330855-7
+2017.4.25 https://4pda.to/forum/index.php?act=findpost&pid=79330855&anchor=Spoil-79330855-7
 - MiFlash Pro: (WXP?, WVT?, W7+) | 
 Добавлено много не нужных дополнительных наворотов. Скачивание официальной прошивки.
-https://4pda.ru/forum/index.php?showtopic=889822
+https://4pda.to/forum/index.php?showtopic=889822
 Альтернативный метод прошивки через fastboot и adb без ПК
-https://4pda.ru/forum/index.php?showtopic=838678&view=findpost&p=72982671
+https://4pda.to/forum/index.php?showtopic=838678&view=findpost&p=72982671
 - SPFT: SP Flash Tool: (WXP?, WVT?, W7+) | 5.1444.00.000 (WXP+) | 5.1604.00 (W7x64) (проверенная многократно использованная версия) | 5.1844.00.000 (WXP+) | 5.1812.00.000 (W7) (проверенная на R6/6A, для прошивки специальная версия)
-https://4pda.ru/forum/index.php?showtopic=469340
+https://4pda.to/forum/index.php?showtopic=469340
 - Mi Unlock: ru-3.3.525.23 (WXP+) | en-3.5.1108.44 (WXP+)
 http://en.miui.com/unlock
 - Распаковать .img ImgExtractor v1.3.7 <Created by And_PDA (Based on sources ext4_unpacker)>
 Extractor for images in EXT2\EXT3\EXT4\YAFFS2\CRAMFS filesystem formats
 support SPARSE\SIN\MOTO structure formats
 Extraction+system+vendor.zip (не все) {WXP+}
-https://4pda.ru/forum/index.php?showtopic=927964&view=findpost&p=80149665
+https://4pda.to/forum/index.php?showtopic=927964&view=findpost&p=80149665
 system_unpack.bat system.new.dat.br # + system.transfer.list лежит рядом
 vendor_unpack.bat vendor.new.dat.br # + vendor.transfer.list лежит рядом
 - Распаковать .img Android Image Kitchen - UnpackImg Script by osm0sis @ xda-developers
 desembalar-reembalar+boot+recovery.zip (не все) {WXP+}
-https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=96530493
+https://4pda.to/forum/index.php?showtopic=976547&view=findpost&p=96530493
 desembalar.bat boot.img OR recovery.img # распаковать
 reembalar.bat # собрать new_boot new_recovery
 Limpar.bat # почистить
@@ -1689,9 +1689,9 @@ EDL режим emergency download mode аварийный порт восста�
 EDL на Redmi 6 (МТК) его нет и не было никогда, здесь Bootrom (аналог EDL), альтернатива это зажатая кн. Громкость+.
 SmartPhone Flash Tool (SPFT):
 Восстановить тело можно через EDL режим, нужен СЦ с сервисным аккаунтом, платно.
-https://4pda.ru/forum/index.php?showtopic=469340
-https://4pda.ru/forum/index.php?showtopic=907017&view=findpost&p=92190034
-https://4pda.ru/forum/index.php?showtopic=907017&view=findpost&p=88313262
+https://4pda.to/forum/index.php?showtopic=469340
+https://4pda.to/forum/index.php?showtopic=907017&view=findpost&p=92190034
+https://4pda.to/forum/index.php?showtopic=907017&view=findpost&p=88313262
 http://www.uo5oq.com/index.php?do=usercp&go=nck&select=request&productid=336
 SPFT железно выручает при окирпичивании аппаратов, но не смотря на это - ни прошить, ни забекапить тело программой не получиться. Это возможно только с использованием сервисного аккаунта Xiaomi. При подключении аппарата к ПК и ожидающему SPFT, ничего не происходит - SPFT его не видит. Но если подключать с зажатой кн. Громкость+, SPFT тут же обнаруживает тело и требует ввести данные сервисного аккаунта.
 
@@ -1720,8 +1720,8 @@ bootloop и soft brick не являются чем-то страшным и м�
 
 ** софт-брик (софт-кирпич)
 The system has been destroyed
-https://4pda.ru/forum/index.php?showtopic=912972&view=findpost&p=77849575
-https://4pda.ru/forum/index.php?showtopic=907017&view=findpost&p=77874528
+https://4pda.to/forum/index.php?showtopic=912972&view=findpost&p=77849575
+https://4pda.to/forum/index.php?showtopic=907017&view=findpost&p=77874528
 При загрузке появляется сообщение на MIUI, стоковое recovery
 Восстановить софт-брик, попробовать:
 - скачиваем последнюю! версию прошивки для recovery.
@@ -1739,14 +1739,14 @@ https://4pda.ru/forum/index.php?showtopic=907017&view=findpost&p=77874528
 Официальный способ поднятия виброкирпичей для жителей России
 ==== Отнести в СЦ по гарантии (в СЦ где есть сервисный аккаунт), если есть гарантия на тело
 ==== Отнести в АСЦ DNS (~800руб)
-https://4pda.ru/forum/index.php?showtopic=907017&view=findpost&p=99881293
+https://4pda.to/forum/index.php?showtopic=907017&view=findpost&p=99881293
 Что говорить: пришло обновление на телефон, обновил, телефон перезагрузился и теперь не включается (не говорить ни-ни ни про twrp, ни про рут итп). Узнать что было с телом не смогут при перепрошивке всё сотрётся, что будет с загрузчиком - ?.
 СЦ: https://mobile.mi.com/ru/service/repair/
 ==== Удалённый сервисный аккаунт (через интернет)
 - контакты на форуме
 - контакты в интернете
 ==== Инструкция по прошивке с помощью программы SPFT в картинках (пример)
-https://4pda.ru/forum/index.php?showtopic=599456&view=findpost&p=65695187
+https://4pda.to/forum/index.php?showtopic=599456&view=findpost&p=65695187
 Проверка подключения тела в режиме Bootrom перед прошивкой тела
 - Установить Драйвера DriverInstaller_(COM-Port).
 - Подключить тело в выключенном состоянии к ПК (Админ) в порт от материнки через оригинальный USB кабель. Держать кн. Гр+.
@@ -1776,8 +1776,8 @@ https://4pda.ru/forum/index.php?showtopic=599456&view=findpost&p=65695187
 - Прошить стоковую прошивку для фастбут или
 - Прошить twrp A8.1, A9 A10, от прошивки которая стояла. Прошить boot (на всякий случай). потом Прошить Бекап в twrp.
 ==== Прошивка MTK без сервисного аккаунта через SPFT
-https://4pda.ru/forum/index.php?showtopic=907017&view=findpost&p=103559971 by Megafon929 (оригинал)
-https://4pda.ru/forum/index.php?showtopic=912972&view=findpost&p=104634322 by wa2not (пример с картинками)
+https://4pda.to/forum/index.php?showtopic=907017&view=findpost&p=103559971 by Megafon929 (оригинал)
+https://4pda.to/forum/index.php?showtopic=912972&view=findpost&p=104634322 by wa2not (пример с картинками)
 
 Qualcomm с замыканием контактов Тест Поинт: (также)
 - Отсоединить шлейф АКБ от платы.
@@ -1796,12 +1796,12 @@ Qualcomm с замыканием контактов Тест Поинт: (так
 ! -> не работает на Redmi 6
 FireHose
 прошивка через EDL без авторизованного сервисного аккаунта
-https://4pda.ru/forum/index.php?showtopic=949619&view=findpost&p=97266451
-Redmi 8A https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=103186922
+https://4pda.to/forum/index.php?showtopic=949619&view=findpost&p=97266451
+Redmi 8A https://4pda.to/forum/index.php?showtopic=976547&view=findpost&p=103186922
 , там патченый preloader нужен
 вариант восстановления кирпича с заблокированным загрузчиком и без необходимости в спец. аккаунте для прошивки через тестпоинт
 Xiaomi Mi Pad 4/Plus
-https://4pda.ru/forum/index.php?showtopic=911266&view=findpost&p=79768757
+https://4pda.to/forum/index.php?showtopic=911266&view=findpost&p=79768757
 Процесс прошивки начинается с файла prog_emmc_firehose_Sdm660_ddr.elf после него идёт запрос на авторизацию в спец Ми аккаунте с разрешением для прошивки через тестпоинт.
 На вьетнамке этот запрос игнорируется и продолжается процесс прошивки.
 Но при заблокированном загрузчике вьетнамка работать не будет, поэтому берём файл prog_emmc_firehose_Sdm660_ddr.elf от вьетнамки, забрасываем в папку images распакованной глобалки и шьём такую глобалку через тестпоинт.
@@ -1911,8 +1911,8 @@ SmaliPatcher-0.0.6.7-fOmey@XDA.zip создать уникальный патч 
 
 
 ! -> не работает на Redmi 6 + Cherry Kernel - бутлуп на бутанимации
-https://4pda.ru/forum/index.php?showtopic=774072&view=findpost&p=91068157
-https://4pda.ru/forum/index.php?showtopic=932147&view=findpost&p=82184908
+https://4pda.to/forum/index.php?showtopic=774072&view=findpost&p=91068157
+https://4pda.to/forum/index.php?showtopic=932147&view=findpost&p=82184908
 На A9 узнать битность boot.img или recovery.img
 открыть в WinHex в самом начале
 boot.emmc.Backup.win WinHex поиск build
@@ -1971,7 +1971,7 @@ https://github.com/Magisk-Modules-Repo/
 - удалить модуль, просто папку модуля TWRP /data/adb/modules/ удалить (бывает по-разному)
 
 Magisk Manager for Recovery Mode mm
-https://4pda.ru/forum/index.php?showtopic=915158&st=0#entry76265618
+https://4pda.to/forum/index.php?showtopic=915158&st=0#entry76265618
 https://github.com/Magisk-Modules-Repo/mm
 Установить через Magisk Manager или TWRP как обычный модуль Magisk
 - отключить/включить/удалить модуль, даже при бутлупе
@@ -1991,7 +1991,7 @@ uninstall.sh # удаление mm
 Magisk Manager Recovery Tool как AromaFM
 https://github.com/amarullz/AROMA-Installer
 https://github.com/Pzqqt/Magisk_Manager_Recovery_Tool
-https://4pda.ru/forum/index.php?showtopic=915158&st=20#entry81113962
+https://4pda.to/forum/index.php?showtopic=915158&st=20#entry81113962
 Установить прошить zip в twrp
 Удобный инструмент аналог mm для настройки Magisk в TWRP
 - отключить/включить/удалить модуль, даже при бутлупе
@@ -2004,10 +2004,10 @@ https://4pda.ru/forum/index.php?showtopic=915158&st=20#entry81113962
 
 MagiskHide Props Config - Edit device fingerprint
 Battery Charge Limit
-https://4pda.ru/forum/index.php?showtopic=980639&view=findpost&p=101822481
+https://4pda.to/forum/index.php?showtopic=980639&view=findpost&p=101822481
 Модуль для Magisk, чтобы ставить лимит зарядки на процентах.
 Audio Compatibility Patch
-https://4pda.ru/forum/index.php?showtopic=915158&view=findpost&p=100787161
+https://4pda.to/forum/index.php?showtopic=915158&view=findpost&p=100787161
 Модуль исправляет музыкальные и потоковые приложения (Spotify, Pandora и т. Д.), которые не обрабатывают звуковые эффекты для различных приложений эквалайзера, путем изменения политики звука. Теперь с исправлением usb_policy и средством удаления notification_helper.
 Nuked позволяет пачкой отключить аналитику, трекеры и прочий мусор. Работает через терминал su -c NUKED
 ExSDCard Access Enabler - доступ к карте памяти. Работает на A10.
@@ -2016,7 +2016,7 @@ T-Engine Thermal V5 - не модуль но что то похожее
 Известные проблемы:
 Высокая задержка у DualShock 4 с Bluetooth (похоже проблема в самом контроллере).
 Не работает на устройствах с MIUI 10.
-https://4pda.ru/forum/index.php?showtopic=915158&view=findpost&p=97806628
+https://4pda.to/forum/index.php?showtopic=915158&view=findpost&p=97806628
 YouTube Vanced - Magisk Repo - YouTube [Ad]Vanced a modded version YouTube
 Wifi Bonding (Qcom) - Doubles your wifi bandwith by modifying WCNSS_qcom_cfg.ini
 Viper4Android FX - audio enhancing
@@ -2037,7 +2037,7 @@ JThermod - Thermal Mod for Lavneder - посмотреть что это
 1. Call Recorder - SKVALEX, платная 10$.
 Запись звонков с линии A9, A10.
 https://github.com/Magisk-Modules-Repo/callrecorder-skvalex
-https://4pda.ru/forum/index.php?showtopic=915158&view=findpost&p=94862475
+https://4pda.to/forum/index.php?showtopic=915158&view=findpost&p=94862475
 https://skvalex.org/help/best-practices?hl=ru&source=ps&style=dark
 Xiaomi MIUI:
 - Включите уведомление в Настройках > Интерфейс и внешний вид. Приложения без уведомления считаются системой Android как не важные, поэтому Call Recorder может быть остановлен.
@@ -2053,12 +2053,12 @@ Call_Recorder_-_SKVALEX-2.1.0_(3.4.2).zip. Приложение интегрир
 3. True Phone: True Phone.apk приложение. hbdialer-magisk-1.zip модуль. Работает.
 
 Tweakbox by Camerado Magisk20.4 MIUI A8.1-11
-https://4pda.ru/forum/index.php?showtopic=915158&view=findpost&p=97091564
+https://4pda.to/forum/index.php?showtopic=915158&view=findpost&p=97091564
 Небольшой кастомизируемый под собственные нужды модуль, изменять параметры можно прям внутри архива, сохраняя оригинальную кодировку файлов customize.sh и system.prop.
 
 Busybox for Android NDK 1.31.1 Static busybox binary for all Android architectures built with NDK
 https://github.com/Magisk-Modules-Repo/busybox-ndk
-https://4pda.ru/forum/index.php?showtopic=915158&view=findpost&p=96296145
+https://4pda.to/forum/index.php?showtopic=915158&view=findpost&p=96296145
 
 CPL модулей Magisk для увеличения жизни батареи LKT и Universal GMS Doze
 
@@ -2125,16 +2125,16 @@ odex, deodex - не требуется.
 На некоторых устройствах SandHook вызывает bootloop, а Yahfa при этом нормально работает.
 
 Установка EdXposed + LP (работает на A9, A10, A11)
-https://4pda.ru/forum/index.php?showtopic=950105&view=findpost&p=95413621
-https://4pda.ru/forum/index.php?showtopic=425052&view=findpost&p=81226127
-R6A https://4pda.ru/forum/index.php?showtopic=927600&view=findpost&p=86740292
-MiN10Lite full https://4pda.ru/forum/index.php?showtopic=994728&view=findpost&p=97945446
-Установка EdXposed https://4pda.ru/forum/index.php?showtopic=826244&view=findpost&p=91692827
+https://4pda.to/forum/index.php?showtopic=950105&view=findpost&p=95413621
+https://4pda.to/forum/index.php?showtopic=425052&view=findpost&p=81226127
+R6A https://4pda.to/forum/index.php?showtopic=927600&view=findpost&p=86740292
+MiN10Lite full https://4pda.to/forum/index.php?showtopic=994728&view=findpost&p=97945446
+Установка EdXposed https://4pda.to/forum/index.php?showtopic=826244&view=findpost&p=91692827
 - Скачать актуальные версии Magisk, Magisk Manager Recovery Tool (mm), EdXposedManager, Riru Core 19+ (v21.3), Riru-EdXposed
 - Сделать нандроид-бэкап
 - Установить Magisk
 - Установить Magisk Manager Recovery Tool (mm) (модуль Magisk), для отключения Xposed в случае бутлупа
-- Установить Riru Core v19+ и первую версию EdXposed в twrp (лучше) или в Magisk Мanager (хуже или если не устанавливается первая версия, или если бутлуп - то вторую версию)
+- Установить Riru Core v19+ и первую версию EdXposed-SandHook в twrp (лучше) или в Magisk Мanager (хуже или если не устанавливается первая версия, или если бутлуп - то вторую версию EdXposed-YAHFA)
 - Перезагрузить в систему
 - Установить EdXposed Manager (юзать его вместо инсталлера от dvAndroid и прочих)
 - Перезагрузить в twrp
@@ -2176,89 +2176,11 @@ GP обновился до последней версии: удалить об�
 
 
 ** LSPosed
-наследник EdXposed. Magisk 23+. Riru 25+.
+наследник EdXposed. Magisk 22+. Riru 25+.
 модуль CorePatch (ставит первые два патча LP), но сам LP не работает.
 
 
 
-
-
-Magisk v19.4 Sep 19, 2019
-- New System-as-root Implementation
-- Android 10 Support
-- /Product Support
-- A-Only System-as-root Android 9.0 Support
-Magisk v20.0 Oct 11, 2019
-- mostly same as v19.4
-Magisk v20.4 Mar 23, 2020
-- redesigned Magisk Manager
-- BusyBox Standalone Mode
-Magisk v21.0 Oct 3, 2020
-- Android 11 support
-- redesigned Magisk Manager
-- Safe Mode detection
-Magisk v21.4 Jan 17, 2021
-- regression hot fixes
-Magisk v22.0 Feb 23, 2021
-- Magisk Manager renamed Magisk app. Magisk app = Magisk.apk = Magisk.zip = uninstall.zip
-- devices lower than Android 9.0 can now also use the advanced app hiding technique to hide the Magisk app
-Magisk v22.1 Apr 9, 2021 ** last **
-- Magisk v22 is the last major version to support Jellybean and Kitkat. Magisk v23 will only support Android 5.0 and higher.
-- fixing regressions and bugs
-https://topjohnwu.github.io/Magisk/install.html
-https://github.com/topjohnwu/Magisk/releases/download/v22.1/Magisk-v22.1.apk
-v19.7 Feb 5, 2020
- - Support Samsung Q with "usap" enabled (this should happens only on custom ROMs?)
-v19.8 Apr 4, 2020 ** last **
-- Fix install script issue (#91)
-- Allow uid 1000 to access /data/misc/riru
-v20.1 Apr 21, 2020
-- Works on Android R
-v21.0 Apr 24, 2020
-- Works on Android R DP3
-v21.2 May 8, 2020
-- Works on Android R DP4
-v21.3 Jul 1, 2020 ** last **
-v22.0 Nov 10, 2020
-- new hide mechanism which makes detection "not that easy".
-- all modules must change.
-- Riru's API change has stabilized from 2020-10-11, it's long enough.
-- For Magisk < v21.1, you will have to manually reboot the device twice.
-v22.4 Nov 26, 2020
-- Magisk's sepolicy.rule does not work on some devices and no one report to Magisk. Versions from 22.1 to 22.4 attempt to workaround it.
-- For Magisk < v21.1, reboot twice is no longer required.
-v23.1 Dec 18, 2020
-- Hide should work for pre-Android-10
-v23.7 Mar 3, 2021
-- Prepare for changes ... (these changes may come in Android 12 DP2 or later)
-v23.9 Mar 5, 2021
-- last stable version v23.9
-v24.0.0 Mar 11, 2021
-- Unify Riru API version and Riru version, now the API version is 24.
-v25.3.2 Mar 22, 2021
-- Important changes from the last stable version (v23.9)
-v25.3.4 Mar 29, 2021 Latest release
-https://github.com/RikkaApps/Riru/releases/download/v21.3/magisk-riru-v21.3.zip
-v0.4.6.2 Apr 2, 2020
-- Xposed API 91: Multi-user support
-- Need EdXposedManager-v4.5.6.45600+
-v0.4.6.4 Nov 8, 2020 ** last **
-v0.5.1.3 Dec 21, 2020
-- Android 11 support
-- Riru v23+ support
-- Xposed API 93: New implemention
-https://github.com/ElderDrivers/EdXposed/releases/download/v0.4.6.2/EdXposed-SandHook-v0.4.6.2.4529.-release.zip
-https://github.com/ElderDrivers/EdXposed/releases/download/v0.4.6.2/EdXposed-YAHFA-v0.4.6.2.4529.-release.zip
-https://github.com/ElderDrivers/EdXposed/releases/download/v0.4.6.4/EdXposed-SandHook-v0.4.6.4.4563.-release.zip
-https://github.com/ElderDrivers/EdXposed/releases/download/v0.4.6.4/EdXposed-YAHFA-v0.4.6.4.4563.-release.zip
-EdXposedManager-v4.5.7 Apr 3, 2020 ** last **
-EdXposedManager-v4.6.0 Feb 3, 2021
-- Support Android R
-EdXposedManager-v4.6.1 Feb 5, 2021
-- The enhancement mode was temporarily removed due to a persistent bug.
-- Edxposed v0.5.2.1 or higher is required and is not compatible with previous versions.
-- Since 46100, Modules fragment ID has changed from 4 to 3.
-https://github.com/ElderDrivers/EdXposedManager/releases/download/v4.5.7.0.0/EdXposedManager-4.5.7-45700-org.meowcat.edxposed.manager-release.apk
 
 
 MODULES Xposed
@@ -2458,7 +2380,7 @@ c:\miflash_unlock_en_3.5\miflash_unlock.exe - рабочая версия про
 
 ** Заблокировать потерянный телефон
 Заблокировать Стереть данные через ПК на потерянном телефоне.
-https://4pda.ru/forum/index.php?showtopic=895128&view=findpost&p=104760784
+https://4pda.to/forum/index.php?showtopic=895128&view=findpost&p=104760784
 - Телефон привязан к Mi аккаунту, стоит MIUI прошивка с не вырезанными сервисами
 - Зайти в Mi аккаунт i.mi.com
 - Найти устройство
@@ -2647,6 +2569,7 @@ vendor (libs) https://github.com/xiaomi-mt6765/proprietary_vendor_xiaomi
 kernel_O https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/whyred-o-oss
 kernel_P https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/olive-p-oss olive + olivelite
 kernel_Q https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/olive-q-oss olive + olivelite
+platform https://github.com/mi-msm8937/ msm8937-common + kernel android_device_xiaomi_sdm439-common olivelite
 kernel_Q https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/dandelion-q-oss
 kernel_R https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/venus-r-oss
 
@@ -2681,7 +2604,7 @@ MIUI_10.0.6.0 сток глобальная стабильная
 TWRP-3.3.0-0423-REDMI6-CN-wzsx150.img 22.4MB MD5: 10BA92031265BF7F2522FD750772F7B6
 отключено шифрование /data
 MTP не работает, использовать альтернативу adb pull/push
-http://4pda.ru/forum/index.php?showtopic=907017&view=findpost&p=85045517
+http://4pda.to/forum/index.php?showtopic=907017&view=findpost&p=85045517
 https://forum.xda-developers.com/redmi-6/development/share-3-3-0-twrp-redmi-6-custom-recovery-t3926225
 Magisk-v18.0(18000).zip Stable 3.9MB MD5: A5F6FEBCE9A8D47BF8E76C9C1D043CED
 
@@ -2696,7 +2619,7 @@ Redmi 6 Global Stable MIUI 10.4.4.0 PCGMIXM A9 recovery 2019-09-30 1.3GB MD5: 99
 https://bigota.d.miui.com/V10.4.4.0.PCGMIXM/miui_HM6Global_V10.4.4.0.PCGMIXM_99304098f7_9.0.zip
 
 boot_10.4.4.0_R6_mgsk_193.img 8.9MB MD5: 32E40383C3323E6667461E1E391C7A91
-https://4pda.ru/forum/index.php?showtopic=907017&view=findpost&p=87853533
+https://4pda.to/forum/index.php?showtopic=907017&view=findpost&p=87853533
 Magisk-v20.4.zip Stable 5.6MB MD5: 9503FC692E03D60CB8897FF2753C193F
 Magisk-v19.3.zip Stable 5MB MD5: FD988114F753A4C530839A2B28F052C1
 https://github.com/topjohnwu/Magisk/releases/
@@ -2706,19 +2629,19 @@ https://github.com/topjohnwu/Magisk/releases/
 поддержка F2FS
 поддержка динамических разделов, fastbootd и прочее для устройств вышедших на A10 "из коробки"
 пароль на TWRP /sdcard/TWRP/theme/ui.zip
-https://4pda.ru/forum/index.php?showtopic=907017&view=findpost&p=89194178
+https://4pda.to/forum/index.php?showtopic=907017&view=findpost&p=89194178
 установка через fastboot
 fastboot erase recovery # забивает нулями весь раздел, после загрузки в пустое рекавери ничего не происходит
 fastboot flash recovery recovery.img
 fastboot oem reboot-recovery
 https://dl.twrp.me/cereus/
 https://twrp.me/xiaomi/xiaomiredmi6.html
-https://4pda.ru/forum/index.php?showtopic=907017&view=findpost&p=98095856
+https://4pda.to/forum/index.php?showtopic=907017&view=findpost&p=98095856
 https://twrp.me/site/update/2020/12/31/twrp-3.5.0-released.html
 https://twrp.me/site/update/2021/03/17/twrp-3.5.1-released.html
 TWRP-3.3.1 F2FS Mod
 модификация TWRP 3.3.1 для работы с F2FS
-https://4pda.ru/forum/index.php?showtopic=907017&view=findpost&p=93280492
+https://4pda.to/forum/index.php?showtopic=907017&view=findpost&p=93280492
 TWRP-3.3.1-0602-REDMI6-CN-wzsx150.img 64MB MD5: BC4C312401318EF2A3D98B08FAD5A953
 лучшая версия twrp 
 порт TWRP A8.1
@@ -2729,16 +2652,16 @@ TWRP-3.3.1-0602-REDMI6-CN-wzsx150.img 64MB MD5: BC4C312401318EF2A3D98B08FAD5A953
 MTP должно работать
 не дешифрует /data на китайских телефонах (China ROM)
 В MIUI 11 (11.0.1.0+) изменили алгоритмы шифрования, поэтому нужно расшифровывать /data
-https://4pda.ru/forum/index.php?showtopic=950105&view=findpost&p=91616740
-https://4pda.ru/forum/dl/post/18137561/recovery-TWRP-3.3.1-0602-REDMI6-CN-wzsx150.img
+https://4pda.to/forum/index.php?showtopic=950105&view=findpost&p=91616740
+https://4pda.to/forum/dl/post/18137561/recovery-TWRP-3.3.1-0602-REDMI6-CN-wzsx150.img
 ==== OFRP OrangeFox Recovery
 OF OrangeFox Unofficial новое 07.12.2020 стабильный релиз на базе TWRP 3.4.0
-https://4pda.ru/forum/index.php?showtopic=907017&view=findpost&p=102330816
+https://4pda.to/forum/index.php?showtopic=907017&view=findpost&p=102330816
 ==== PBRP 3.0.0 Official PitchBlack Recovery Project на базе TWRP 3.4
 https://pitchblackrecovery.com/cereus/
 https://github.com/PitchBlackRecoveryProject/android_device_xiaomi_cereus-pbrp/releases/
 https://sourceforge.net/projects/pbrp/files/cereus/
-https://4pda.ru/forum/index.php?showtopic=907017&view=findpost&p=101216664
+https://4pda.to/forum/index.php?showtopic=907017&view=findpost&p=101216664
 ==== SHRP SkyHawk Recovery Project 3.0
 https://github.com/recovery-xiaomi-mt6765/device_xiaomi_cereus/releases/download/SHRP-3.0/SHRP_v3.0_stable-Unofficial_cereus-123514032021.zip
 Red Wolf Recovery -
@@ -2774,8 +2697,8 @@ https://sourceforge.net/projects/opengapps/files/arm/20191123/open_gapps-arm-9.0
 BiTGApps (есть аддоны) ARM-9 оптимизированный пакет gapps, оптимизированные версии, оптимизация расхода аккумулятора, низкое энергопотребление, минимальный размер 70-80-90MB
 имеет все минимальные приложения Google, чтобы обеспечить полную функциональность сервисов Google
 https://bitgapps.github.io
-https://4pda.ru/forum/index.php?showtopic=950105&view=findpost&p=94888275
-https://4pda.ru/forum/index.php?showtopic=970791
+https://4pda.to/forum/index.php?showtopic=950105&view=findpost&p=94888275
+https://4pda.to/forum/index.php?showtopic=970791
 BiTGApps-arm-10.0.0-R4_signed.zip
 BiTGApps-arm-9.0.0-R4_signed.zip
 BiTGApps-arm-9.0.0-v0.2_signed.zip
@@ -2842,7 +2765,7 @@ release - релизная версия прошивки, не бета
 
 ** Описание GSI, non-GSI прошивок:
 GSI, non-GSI смотреть в mR6.txt там подробнее
-https://4pda.ru/forum/index.php?showtopic=892755
+https://4pda.to/forum/index.php?showtopic=892755
 Всё упирается в совместимость GSI и конкретного вендора - нет никакой 100% гарантии. Даже кастомные прошивки non-GSI, заточенные вроде бы под конкретный девайс, порой намного глючнее GSI. Даже сам phh писал, что его AOSP спонтанно ребутается на некоторых Samsung-ах с exynos.
 В любом случае, тестировать надо сначала без магиска (если без него стартует), и без сильных изменений системы. Так выше вероятность выявить причины сбоев, даже если они не решаются в виду проблем с вендором. Плюс не стоит забывать про баги в самом коде прошивки. Иногда включение какой-то кастомной опции в прошивке приводит к проблеме, и будет достаточно отключить её.
 
@@ -2851,12 +2774,12 @@ https://github.com/phhusson/treble_experimentations/wiki/How-to-create-an-overla
 Официалы сидят тут:
 AOSP. BlissROMs. CAOS. DescendantX. GoogleGSI. HavocOS.
 https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-(GSI)-list
-https://4pda.ru/forum/index.php?showtopic=892755&st=0#entry71222655
+https://4pda.to/forum/index.php?showtopic=892755&st=0#entry71222655
 GSI @phhusson AOSP A8.1 v25 v32. AOSP A9 v101 v123. AOSP A10 Q v200 v222 v224->revert_to_v222. AOSP A11 R v300. 
 https://github.com/phhusson/treble_experimentations/releases/
-GSI @4pda.ru LOS LineageOS 17.1 A10 через fastboot без Magisk
-https://4pda.ru/forum/index.php?showtopic=950105&st=1840#entry94329780
-https://4pda.ru/forum/index.php?showtopic=912972&st=20380#entry93251112
+GSI @4pda.to LOS LineageOS 17.1 A10 через fastboot без Magisk
+https://4pda.to/forum/index.php?showtopic=950105&st=1840#entry94329780
+https://4pda.to/forum/index.php?showtopic=912972&st=20380#entry93251112
 GSI @skulshady HavocOS Official HavocOS-v2.6 v2.9-a64-aonly-Final A9. HavocOS-v3.4 v3.8 v3.12-Final Q. HavocOS-v4.1 v300.m R.
 https://sourceforge.net/projects/havoc-os/files/a64-ab/
 https://www.pling.com/u/shady27/
@@ -2926,8 +2849,8 @@ LOS-v16.0-20200210 A9 400MB. LOS-v17.1-20200703 Q 438MB.
 https://samarv-121.github.io/lineageos-16.0-cactus-cereus/
 https://samarv-121.github.io/lineageos-17.1-cactus-cereus/
 https://github.com/SamarV-121/releases/
-cereus https://4pda.ru/forum/index.php?showtopic=950105&view=findpost&p=93804891
-cactus https://4pda.ru/forum/index.php?showtopic=944463&view=findpost&p=93804868
+cereus https://4pda.to/forum/index.php?showtopic=950105&view=findpost&p=93804891
+cactus https://4pda.to/forum/index.php?showtopic=944463&view=findpost&p=93804868
 https://github.com/xiaomi-mt6765/releases/
 non-GSI @Utkarsh AEX-v5.8 A8.1 352MB
 Баги: устарела. Не работает разговорный динамик и USSD. Переходите на A9.
@@ -2948,13 +2871,13 @@ https://github.com/wulan17/builds/releases/ странная ссылка на �
 https://wulan17.my.id
 non-GSI @MegaFon929
 Обновлённые прошивки by MegaFon929
-AICP 14.0 A9. ArrowOS ? A9. Bliss 11.10 A9. crDroid v5.11 A9 (v5.12 last). GZOSP ? A9. LOS 16.0 A9. PE ? A9. PE+ ? A9. ValidusOS-v5.12 A9.
+AICP 14.0 A9. ArrowOS ? A9. Bliss 11.10 Final A9. crDroid v5.11 A9 (v5.12 last). GZOSP ? A9. LOS 16.0 A9. PE ? A9. PE+ ? A9. ValidusOS-v5.12 A9.
 R6  https://4pda.to/forum/index.php?showtopic=950105&view=findpost&p=104505287
-R6A https://4pda.ru/forum/index.php?showtopic=944463&view=findpost&p=104502142
+R6A https://4pda.to/forum/index.php?showtopic=944463&view=findpost&p=104502142
 Сборник прошивок non-GSI Q
-R6  https://4pda.ru/forum/index.php?showtopic=950105&view=findpost&p=101220834
+R6  https://4pda.to/forum/index.php?showtopic=950105&view=findpost&p=101220834
 R6A https://4pda.to/forum/index.php?showtopic=944463&view=findpost&p=101221000
-certus https://4pda.ru/forum/index.php?showtopic=950105&view=findpost&p=104429147
+certus https://4pda.to/forum/index.php?showtopic=950105&view=findpost&p=104429147
 
 
 
@@ -3016,7 +2939,7 @@ https://sourceforge.net/projects/azfasa15-boleds/files/cereus/vendor-11.0.4.0-CN
 
 ** ИНСТРУКЦИЯ ПО УСТАНОВКЕ КАСТОМНОЙ ПРОШИВКИ LineageOS 16.0 A9 non-GApps для Redmi 6A полностью аналогична Redmi 6
 ** ИНСТРУКЦИЯ ПО УСТАНОВКЕ КАСТОМНОЙ ПРОШИВКИ LineageOS 16.0 A9 non-GApps для Redmi 6 (пользовательская, неофициальная)
-https://4pda.ru/forum/index.php?showtopic=950105&view=findpost&p=97457369 by MegaFon929
+https://4pda.to/forum/index.php?showtopic=950105&view=findpost&p=97457369 by MegaFon929
 > ? <- ВНИМАНИЕ! это проблемный момент сам не знаю конкретно!
 > ? проверить LinegeOS 16.0 A9 (Android 9) non-GApps A64_A/B non-GSI Unofficial-Treble Odex чистая операционная система без GApps на базе AOSP A9 с надстройкой в виде различных мелких улучшений и патчей. Автор: SamarV-121 + MegaFon929. Стабильная, проверенная. ROOT есть - Magisk. 
 > БАГИ:
@@ -3219,7 +3142,7 @@ fastboot -w # hard reset, очистка и формат DATA/CACHE
 fastboot reboot
 
 HavocOS 2.9 A9 ARM-A -> HavocOS 2.9 A9 A64-AB (R6A)
-https://4pda.ru/forum/index.php?showtopic=944463&view=findpost&p=89175815
+https://4pda.to/forum/index.php?showtopic=944463&view=findpost&p=89175815
 Понадобится: Прошивка A64-AB (подойдёт AOSP), Havoc A64-A, Magisk.
 Установка:
 Заходим в TWRP
@@ -3284,11 +3207,11 @@ EdXposed лезет в ? , /persist (не важно).
 Качество фото. Прошивка тут не при чём. Размер матрицы, а точнее одного пикселя определяет качество.
 Отключить "улучшалки". Попробовать моды камеры с отключённым шумодавом. Google Camera Go ночной режим?
 + тест Camera2API: Camera2+Probe.apk, Camera2API_test.apk
-+ MIUI-09-Camera-700.zip Magisk port Camera Mi A1 v7 https://4pda.ru/forum/index.php?showtopic=843632&view=findpost&p=83182146
++ MIUI-09-Camera-700.zip Magisk port Camera Mi A1 v7 https://4pda.to/forum/index.php?showtopic=843632&view=findpost&p=83182146
 R6  - не устанавливается, не работает
-+ MIUI-10-Camera-920.zip Magisk port Camera Mi A2 v9.3 https://4pda.ru/forum/index.php?showtopic=843632&view=findpost&p=83134850
++ MIUI-10-Camera-920.zip Magisk port Camera Mi A2 v9.3 https://4pda.to/forum/index.php?showtopic=843632&view=findpost&p=83134850
 R6  - не устанавливается, не работает
-+ MiuiCamera_universal_port_v0.03.apk https://4pda.ru/forum/index.php?showtopic=843632&view=findpost&p=79833518
++ MiuiCamera_universal_port_v0.03.apk https://4pda.to/forum/index.php?showtopic=843632&view=findpost&p=79833518
 R6  - 
 + Google Camera Go
 R6  - 
@@ -3297,25 +3220,25 @@ R6  -
 + порт с Mi A1 Magisk
 https://forum.xda-developers.com/apps/magisk/module-xiaomi-mi-a1-stock-camera-t3810432
 R6  - 
-+ Mi_A2_Camera_app_port-v3.zip https://4pda.ru/forum/index.php?showtopic=944463&view=findpost&p=85310704
++ Mi_A2_Camera_app_port-v3.zip https://4pda.to/forum/index.php?showtopic=944463&view=findpost&p=85310704
 R6  - 
 + MIUI_Camera_2.0 для кастомов A9, A10, A11 @Telegram
-https://4pda.ru/forum/index.php?showtopic=950105&view=findpost&p=104551871
+https://4pda.to/forum/index.php?showtopic=950105&view=findpost&p=104551871
 R6  - говорят работает вроде
 + ANXCameraUnity_180.ImpoliteMediumIberiannase.zip - последняя A9
 R6  - Camera2API нет.  не устанавливается. не работает.
 R6A - Camera2API нет.  не устанавливается. не работает.
 R8A - Camera2API есть. устанавливается. работает. HDR. AI. Фильтры. Панорама (ошибка создания файла). Снимки нормального качества.
 Какого-то супер качества по сравнению с другими камерами (на R8A) на кастоме не увидел, Footej Camera снимает так же, com.android.camera2 (встроенная) снимает так же.
-+ Footej Camera https://4pda.ru/forum/index.php?showtopic=747784
++ Footej Camera https://4pda.to/forum/index.php?showtopic=747784
 R6  - Camera1API. работает. Снимки плохого качества.
 R6A - Camera1API. работает. Снимки плохого качества.
 R8A - Camera2API. работает. Снимки нормального качества.
-+ Обзор фото-приложений Huawei Nova (разные приложения камер) https://4pda.ru/forum/index.php?showtopic=893278&view=findpost&p=76613821
++ Обзор фото-приложений Huawei Nova (разные приложения камер) https://4pda.to/forum/index.php?showtopic=893278&view=findpost&p=76613821
 - Запись экрана
 Footej Camera
 system/product/priv-app/OPScreenRecorder
-https://4pda.ru/forum/index.php?showtopic=968996&view=findpost&p=96018281
+https://4pda.to/forum/index.php?showtopic=968996&view=findpost&p=96018281
 - Поставить ViperFX
 Нет, после установки перестают работать важные функции смартфона (входящие звонки, смс итд). Исключение: сток MIUI
 - Поставить TWRP
@@ -3329,7 +3252,7 @@ https://4pda.ru/forum/index.php?showtopic=968996&view=findpost&p=96018281
 + стабильные на A9 AOSP, LOS, AEX, ArrowOS, 
 + стабильные на A10 ?
 + самые лёгкие @MegaFon929: A9 AICP 14.0, GZOSP, Validus, 
-+ громкость рингтонов тихая на A9 AEX, Bliss, CarbonRom, 
++ громкость тихие рингтоны на A9 AEX, Bliss, CarbonRom, 
 + на GSI R ставить прошивки vndk-lite, в обычных /system после установки не монтируется
 ++ если важно качественные снимки, кастомы не ставить. Снимки не плохого, а такого, среднего качества. cam1api. Ставить сток.
 ++ если важно полноценный рут, ковырять систему, патчить LP, кастом на A8.1. Присутствуют баги, смотреть в посте с прошивкой.
@@ -3351,7 +3274,7 @@ A9 MIUI 10.4.1.0 и выше. Версия после 10.4.1.0 не обязат
 - Какую установить прошивку GSI
 Рекомендуется ставить образы A9 A64-AB. Рекомендуется ставить Non-GSI прошивку.
 - Какую установить прошивку Non-GSI
-https://4pda.ru/forum/index.php?showtopic=950105&view=findpost&p=97457369
+https://4pda.to/forum/index.php?showtopic=950105&view=findpost&p=97457369
 Проблема с кодеками на Non-GSI A10.
 Драйвера GPU PowerVR закрыты, и Vulkan не будет. Переносить/портировать драйвера на тело никто не будет.
 https://www.imaginationtech.com/powervr-gpu/ge8320/
@@ -3367,13 +3290,13 @@ LTE - стандарт мобильной высокоскоростной пе�
 VoLTE - только звонки, которые работают в LTE (сервисы IMS). Оператор д. поддерживать услугу VoLTE (вкл. в личном кабинете), в теле д.б. включена функция.
 Скорость моб. интернета: LTE >2MB, 3G 1.3MB, 2G <
 - Внешний эквалайзер
-Установка Viper4Android сток (R6) https://4pda.ru/forum/index.php?showtopic=994598&view=findpost&p=97799420
+Установка Viper4Android сток (R6) https://4pda.to/forum/index.php?showtopic=994598&view=findpost&p=97799420
 AML-v3.5. + Viper4Android FX v2.7.1.6. 
-Установка ViperFX non-GSI (R6A) https://4pda.ru/forum/index.php?showtopic=944463&view=findpost&p=104011043
+Установка ViperFX non-GSI (R6A) https://4pda.to/forum/index.php?showtopic=944463&view=findpost&p=104011043
 A9 AML-v2.4. + ViPER4Android_FX_Legacy-v4.4(86). + vendor_overlay.zip
 профиль для каждого режима (динамик, наушники, bt) под Viper /sdcard/ViPER4Android/Profile/ie-300II.prf
 конвольвер импульс /sdcard/ViPER4Android/Kernel/cowon_MP_enh_&_2_3D_V2.irs
-https://4pda.ru/forum/index.php?showtopic=546371&view=findpost&p=30123707
+https://4pda.to/forum/index.php?showtopic=546371&view=findpost&p=30123707
 вайпер вероятно через модуль магиска ставится, но это порой не лучшее решение
 Dolby Atmos.
 Dolby Atmos там есть для всех андроидов, но нужно тестить.
@@ -3403,9 +3326,9 @@ James DSP!
 ** ПАТЧИ ** (подходят для кастомных прошивок (LOS))
 Для деактивации патчей типа шифрование/DT2W/громкость_звонка требуется переустановка /vendor (прошить бекап в twrp, прошить firmware, прошить MIUI прошивку соответствующей версии)
 
-фиксы для прошивок тут (R7A) https://4pda.ru/forum/index.php?showtopic=964578&view=findpost&p=93070476
-GSI вылетают тяжеловесные игры (R7A) https://4pda.ru/forum/index.php?showtopic=964578&view=findpost&p=97732964
-GSI фиксы основных проблем (R8) https://4pda.ru/forum/index.php?showtopic=978342&view=findpost&p=93224258
+фиксы для прошивок тут (R7A) https://4pda.to/forum/index.php?showtopic=964578&view=findpost&p=93070476
+GSI вылетают тяжеловесные игры (R7A) https://4pda.to/forum/index.php?showtopic=964578&view=findpost&p=97732964
+GSI фиксы основных проблем (R8) https://4pda.to/forum/index.php?showtopic=978342&view=findpost&p=93224258
 
 Фикс монтирования Magisk на A11 (R8, должен работать и на R8A)
 на A11 патчить бут не надо. Достаточно сделать это. На стоке MIUI Magisk патчит бут сам без патчей, достаточно установить его через TWRP.
@@ -3422,14 +3345,14 @@ https://forum.xda-developers.com/t/script-android-10-universal-mount-system-read
 MountScript by kzubec https://4pda.to/forum/index.php?showtopic=1012866&view=findpost&p=105478111
 
 Патч для отключения защиты от записи во все разделы (R6A)
-https://4pda.ru/forum/index.php?showtopic=912972&view=findpost&p=103619115
+https://4pda.to/forum/index.php?showtopic=912972&view=findpost&p=103619115
 В раздел /proinfo в определённое место 350-357 (или 0000015E-00000165) записать "31232700" (без кавычек, atm_key)
 - бекап /proinfo
 - прошить патч отключения DISABLE_WP_MTK.zip, патч включения ENABLE_WP_MTK.zip
 В теории, патч подходит для большинства устройств MTK, где есть защита от записи, т.к. используется стандартный ключ.
 
 Не работают проводные наушники (R9)
-https://4pda.ru/forum/index.php?showtopic=1009464&view=findpost&p=102016959
+https://4pda.to/forum/index.php?showtopic=1009464&view=findpost&p=102016959
 setprop persist.sys.overlay.devinputjack true
 
 Не работают проводные наушники (R7A)
@@ -3446,10 +3369,10 @@ setprop persist.sys.overlay.devinputjack true
 
 Фикс звука BT наушников на 64бит (R7A)
 Фикс выхода звука на внешний динамик при подключенных BT наушников. Нет звука рингтона.
-https://4pda.ru/forum/index.php?showtopic=964578&view=findpost&p=98984371
+https://4pda.to/forum/index.php?showtopic=964578&view=findpost&p=98984371
 
 ПРОПАТЧИТЬ ОБРАЗ ВРУЧНУЮ boot.img смотреть в mR6.txt там подробнее
-https://4pda.ru/forum/index.php?showtopic=907017&view=findpost&p=87853533
+https://4pda.to/forum/index.php?showtopic=907017&view=findpost&p=87853533
 автоматический патчер ядра, не привязан к версии Magisk
 ** онлайн1
 взять готовый на форуме в теме прошивок
@@ -3471,12 +3394,12 @@ fastboot flash vbmeta patched_vbmeta.img # это если надо
 ** офлайн2
 patcher_SAR_W7+_new.7z
 patcher.7z
-https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=104941306
+https://4pda.to/forum/index.php?showtopic=976547&view=findpost&p=104941306
 
 Фикс Громкости динамика, наушников. Увеличить громкость динамика, наушников. Ещё громче.
 Max_Volume_Speaker+Headset_Patch.zip
-https://4pda.ru/forum/index.php?showtopic=950105&view=findpost&p=94061923
-https://4pda.ru/forum/index.php?showtopic=950105&view=findpost&p=93394392
+https://4pda.to/forum/index.php?showtopic=950105&view=findpost&p=94061923
+https://4pda.to/forum/index.php?showtopic=950105&view=findpost&p=93394392
 Редактируем файл из архива PlaybackVolAna_AudioParam.xml по инструкции как на картинке:
 Перемещаем отредактированный файл обратно в архив. Прошиваем архив в TWRP.
 Вручную, то же самое:
@@ -3529,8 +3452,8 @@ https://4pda.ru/forum/index.php?showtopic=950105&view=findpost&p=93394392
 
 Фикс работы сканера отпечатка пальца. Отключить срабатывание сканера при ненужном нажатии
 Fingerprint_Scanner_Patch.zip
-https://4pda.ru/forum/index.php?showtopic=950105&view=findpost&p=93291766
-https://4pda.ru/forum/index.php?showtopic=950105&view=findpost&p=93342399
+https://4pda.to/forum/index.php?showtopic=950105&view=findpost&p=93291766
+https://4pda.to/forum/index.php?showtopic=950105&view=findpost&p=93342399
 Прошить прикреплённый архив в TWRP. Бекапит Generic.kl и удаляет проблемные строчки
 В зависимости от ревизии на Redmi 6 (6A) бывает два датчика, поэтому патч убирает две строки. На других девайсах он может не работать. При необходимости легко правится.
 Вручную:
@@ -3600,10 +3523,10 @@ Crypto_Key_Location: /dev/block/platform/bootdevice/by-name/metadata
 Вывод: на кастомах расшифровка не нужна. Если повторно шьёте кастом, расшифровка не нужна (в редких случаях нужна).
 
 Некоторые тонкости работы с зашифрованным /data
-https://4pda.ru/forum/index.php?showtopic=964578&view=findpost&p=92938104
+https://4pda.to/forum/index.php?showtopic=964578&view=findpost&p=92938104
 
 зашифрованная /data убирается переходом на F2FS. что такое F2FS
-https://4pda.ru/forum/index.php?showtopic=881423&view=findpost&p=93019725
+https://4pda.to/forum/index.php?showtopic=881423&view=findpost&p=93019725
 https://ru.m.wikipedia.org/wiki/F2FS
 
 Установить gapps Install gapps:
@@ -3632,8 +3555,8 @@ Change System - Изменить ФС. ext4, fat, exfat, f2fs
 при прошивке GSI меняется виртуально размер system в twrp
 +
 Восстановление размера раздела System (Resize System)
-https://4pda.ru/forum/index.php?showtopic=964578&view=findpost&p=91146801
-https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=92325883
+https://4pda.to/forum/index.php?showtopic=964578&view=findpost&p=91146801
+https://4pda.to/forum/index.php?showtopic=976547&view=findpost&p=92325883
 При установке прошивок GSI без gapps, с установкой отдельно gapps.
 Наш раздел System имеет изменённый размер раздела, поэтому при попытке установить gapps, в TWRP появляется ошибка. Как исправить эту ошибку и установить Сервисы?
 Wipe - advanced wipe - system - change - resize partition
@@ -3653,7 +3576,7 @@ chmod 644 /system/phh/secure
 ls -l /system/phh/secure
 +
 сертифицировать устройство на GSI
-https://4pda.ru/forum/index.php?showtopic=964578&view=findpost&p=88532309
+https://4pda.to/forum/index.php?showtopic=964578&view=findpost&p=88532309
 Если Вы на стадии первичной настройки - завершить. Если мешают уведомления о необходимости сертификации - отключить.
 нужно найти наш GSF Device-ID
 - качаем Device ID.apk https://androidfilehost.com/?fid=673956719939830832
@@ -3871,7 +3794,7 @@ MEID - mobile equipment identifier - идентификатор номер ра�
 
 Инженерное меню
 MTK инженерка EngineerMode.apk и кастомы HavocOS-v3.2
-инженерка работает на кастомах https://4pda.ru/forum/index.php?showtopic=932429&view=findpost&p=94319079
+инженерка работает на кастомах https://4pda.to/forum/index.php?showtopic=932429&view=findpost&p=94319079
 (R6/R6A) у нас не будет работать, так как необходимые файлы отсутствуют в прошивках
 +
 Подпрограммой меню поддерживается: изменение уровня громкости динамиков и чувствительности микрофона, настроек встроенной камеры, параметров аудио, модулей GPS, Bluetooth и Wi-Fi, отключение неиспользуемых частот для экономии заряда батареи. Также вы можете протестировать ключевые компоненты вашего устройства и внешнюю карту памяти, настроить операции ввода-вывода, определить точную температуру процессора и аккумулятора, уровень вредного электромагнитного излучения.
@@ -4044,25 +3967,6 @@ lk.img = lk. sspm.img = sspm_1. tee.img = tee1. scp.img = scp1.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-Команды
-df -h # общая инфа, свободное место в разделах
-
-
-
 Дамп блоков
 Пример скрипта block.sh
 > положить block.sh в /system/bin/block.sh
@@ -4120,8 +4024,10 @@ adb push persist.img /sdcard/persist.img
 adb shell su -c "dd if=/sdcard/persist.img of=/dev/block/mmcblk0p12 bs=4096"
 @pause
 
-Какие есть блоки
-adb shell cat /proc/partitions
+Команды
+df -h # общая инфа, свободное место в разделах
+
+adb shell cat /proc/partitions # какие есть блоки
 
 проверить
 adb nodaemon server # 1 окно консоли
@@ -4149,12 +4055,108 @@ adb push NvRam.img /sdcard/NvRam.img # во 2 окне консоли уже в�
 
 
 
+Magisk v19.4 Sep 19, 2019
+- New System-as-root Implementation
+- Android 10 Support
+- /Product Support
+- A-Only System-as-root Android 9.0 Support
+Magisk v20.0 Oct 11, 2019
+- mostly same as v19.4
+Magisk v20.4 Mar 23, 2020
+- redesigned Magisk Manager
+- BusyBox Standalone Mode
+Magisk v21.0 Oct 3, 2020
+- Android 11 support
+- redesigned Magisk Manager
+- Safe Mode detection
+Magisk v21.4 Jan 17, 2021
+- regression hot fixes
+Magisk v22.0 Feb 23, 2021
+- Magisk Manager renamed Magisk app. Magisk app = Magisk.apk = Magisk.zip = uninstall.zip
+- devices lower than Android 9.0 can now also use the advanced app hiding technique to hide the Magisk app
+Magisk v22.1 Apr 9, 2021 ** last **
+- Magisk v22 is the last major version to support Jellybean and Kitkat. Magisk v23 will only support Android 5.0 and higher.
+- fixing regressions and bugs
+https://topjohnwu.github.io/Magisk/install.html
+https://github.com/topjohnwu/Magisk/releases/download/v22.1/Magisk-v22.1.apk
+
+Riru - Core
+v19.7 Feb 5, 2020
+ - Support Samsung Q with "usap" enabled (this should happens only on custom ROMs?)
+v19.8 Apr 4, 2020 ** last **
+- Fix install script issue (#91)
+- Allow uid 1000 to access /data/misc/riru
+v20.1 Apr 21, 2020
+- Works on Android R
+v21.0 Apr 24, 2020
+- Works on Android R DP3
+v21.2 May 8, 2020
+- Works on Android R DP4
+v21.3 Jul 1, 2020 ** last **
+https://github.com/RikkaApps/Riru/releases/download/v21.3/magisk-riru-v21.3.zip
+v22.0 Nov 10, 2020
+- new hide mechanism which makes detection "not that easy".
+- all modules must change.
+- Riru's API change has stabilized from 2020-10-11, it's long enough.
+- For Magisk < v21.1, you will have to manually reboot the device twice.
+v22.4 Nov 26, 2020
+- Magisk's sepolicy.rule does not work on some devices and no one report to Magisk. Versions from 22.1 to 22.4 attempt to workaround it.
+- For Magisk < v21.1, reboot twice is no longer required.
+v23.1 Dec 18, 2020
+- Hide should work for pre-Android-10
+v23.7 Mar 3, 2021
+- Prepare for changes ... (these changes may come in Android 12 DP2 or later)
+v23.9 Mar 5, 2021
+- last stable version v23.9
+v24.0.0 Mar 11, 2021
+- Unify Riru API version and Riru version, now the API version is 24.
+v25.3.2 Mar 22, 2021
+- Important changes from the last stable version (v23.9)
+v25.4.4 May 7, 2021
+- Fix issue crash etc
+
+
+
+Riru - EdXposed
+v0.4.6.2 Apr 2, 2020
+- Xposed API 91: Multi-user support
+- Need EdXposedManager-v4.5.6.45600+
+v0.4.6.4 Nov 8, 2020 ** last **
+https://github.com/ElderDrivers/EdXposed/releases/download/v0.4.6.2/EdXposed-SandHook-v0.4.6.2.4529.-release.zip
+https://github.com/ElderDrivers/EdXposed/releases/download/v0.4.6.2/EdXposed-YAHFA-v0.4.6.2.4529.-release.zip
+https://github.com/ElderDrivers/EdXposed/releases/download/v0.4.6.4/EdXposed-SandHook-v0.4.6.4.4563.-release.zip
+https://github.com/ElderDrivers/EdXposed/releases/download/v0.4.6.4/EdXposed-YAHFA-v0.4.6.4.4563.-release.zip
+v0.5.1.3 Dec 21, 2020
+- Android 11 support
+- Riru v23+ support
+- Xposed API 93: New implemention
+v0.5.2.0 Jan 31, 2021
+- Merge SandHook and YAHFA into one zip, you can switch backend in EdXposed Manager Preview Settings
+v0.5.2.2 Feb 15, 2021
+- Downgrade YAHFA to fix random soft reboot
+- Fix resources hook in Android 11
+- Edxposed Manager v4.6.0+ 
+
+EdXposed Manager
+EdXposedManager-v4.5.7 Apr 3, 2020 ** last **
+https://github.com/ElderDrivers/EdXposedManager/releases/download/v4.5.7.0.0/EdXposedManager-4.5.7-45700-org.meowcat.edxposed.manager-release.apk
+EdXposedManager-v4.6.0 Feb 3, 2021
+- Support Android R
+EdXposedManager-v4.6.1 Feb 5, 2021
+- The enhancement mode was temporarily removed due to a persistent bug.
+- Edxposed v0.5.2.1+ not compatible with previous versions.
+v4.6.2 Feb 5, 2021
+- The enhancement mode was temporarily removed due to a persistent bug.
+- Edxposed v0.5.2.1+ not compatible with previous versions.
 
 
 
 
 
-
+https://github.com/topjohnwu/Magisk/releases
+https://github.com/RikkaApps/Riru/releases
+https://github.com/ElderDrivers/EdXposed/releases
+https://github.com/ElderDrivers/EdXposedManager/releases
 
 
 

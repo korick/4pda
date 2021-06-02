@@ -4,8 +4,8 @@
 
 
 
-подготовлено участниками форума 4pda.ru
-https://4pda.ru/forum/index.php?showuser=8377644
+подготовлено участниками форума 4pda
+https://4pda.to/forum/index.php?showuser=8377644
 
 
 
@@ -226,7 +226,7 @@ exit
 Настройки - О телефоне - Хранилище - Данные кеша - Очистить - Подтвердить - Перезагрузка
 PowerShell (PS) можно прописать cmd в PS - это и будет обычный command prompt
 : Удалить системное приложение
-https://4pda.ru/forum/index.php?showtopic=965857&view=findpost&p=92284708
+https://4pda.to/forum/index.php?showtopic=965857&view=findpost&p=92284708
 
 Шаблон .bat файла:
 @echo off
@@ -652,7 +652,7 @@ FAQ Общие вопросы 2
 
 
 Решение проблемы низкой скорости 2,4 ГГц-овой Wi-Fi сети при использовании Bluetooth наушников
-http://4pda.ru/forum/index.php?showtopic=895128&view=findpost&p=92414584
+http://4pda.to/forum/index.php?showtopic=895128&view=findpost&p=92414584
 WiFi (в нашем случае) и Bluetooth работают на одной и той же частоте: 2,4 ГГц, тем самым, перебивая и мешая друг другу, что и вызывает снижение скорости интернета, либо сбои в связи Bluetooth.
 Как решить проблему?
 - покупка роутера с поддержкой 5 ГГц сетей, но для этого нужно чтобы ваши устройства тоже поддерживали данный стандарт.

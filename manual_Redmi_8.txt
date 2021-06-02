@@ -4,7 +4,7 @@ Notepad++ https://github.com/notepad-plus-plus/notepad-plus-plus | https://notep
 .\plugins\DSpellCheck\ https://github.com/Predelnik/DSpellCheck/releases/
 .\plugins\Config\Hunspell\ru_RU.aff, ru_RU.dic https://github.com/LibreOffice/dictionaries/ru_RU/
 кодировка UTF-8, синтаксис YAML или MD (markdown) для удобочитаемости
-подготовлено участниками форума 4pda.ru
+подготовлено участниками форума 4pda
 
 ! ВСЁ НИЖЕ ОПИСАННОЕ ОТНОСИТСЯ ТОЛЬКО ДЛЯ ТЕЛА REDMI 8
 
@@ -71,7 +71,7 @@ https://dl.twrp.me/olive
 
 
 
-https://4pda.ru/forum/index.php?showtopic=978342&st=0#entry92516916
+https://4pda.to/forum/index.php?showtopic=978342&st=0#entry92516916
 После установки фикса No+Verity+Treble+4.0.zip нужно сделать Format data -> yes. При этом данные в памяти телефона будут утеряны!
 
 

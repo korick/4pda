@@ -4,7 +4,7 @@ Notepad++ https://github.com/notepad-plus-plus/notepad-plus-plus | https://notep
 .\plugins\DSpellCheck\ https://github.com/Predelnik/DSpellCheck/releases/
 .\plugins\Config\Hunspell\ru_RU.aff, ru_RU.dic https://github.com/LibreOffice/dictionaries/ru_RU/
 кодировка UTF-8, синтаксис YAML или MD (markdown) для удобочитаемости
-подготовлено участниками форума 4pda.ru
+подготовлено участниками форума 4pda
 
 ! ВСЁ НИЖЕ ОПИСАННОЕ ОТНОСИТСЯ ТОЛЬКО ДЛЯ ТЕЛА REDMI 6A
 
@@ -34,13 +34,13 @@ Notepad++ https://github.com/notepad-plus-plus/notepad-plus-plus | https://notep
 
 A8.1 сток глобальная стабильная
 TWRP-3.3.0-0423-OMFG-mod_b6.img 22.8MB MD5: 18949E5995CEBA73558632BD55578048
-https://4pda.ru/forum/index.php?showtopic=912972&view=findpost&p=84751156
+https://4pda.to/forum/index.php?showtopic=912972&view=findpost&p=84751156
 Magisk-v18.0(18000).zip Stable
 
 A9 MIUI_10.4.4.0 сток глобальная стабильная.
 Последние версии прошивок, последнее TWRP, последнее ядро и всё остальное - брать с шапки темы
 boot_10.4.4.0_R6a_mgsk_193.img 8.9MB MD5: 78BCE4BC92FBD8729A8FF84B33B570BC
-https://4pda.ru/forum/index.php?showtopic=912972&view=findpost&p=87840619
+https://4pda.to/forum/index.php?showtopic=912972&view=findpost&p=87840619
 Magisk-v20.4.zip Stable
 Magisk-v19.3.zip Stable
 https://github.com/topjohnwu/Magisk/releases/
@@ -53,10 +53,10 @@ fastboot erase recovery
 fastboot flash recovery recovery.img
 fastboot oem reboot-recovery
 https://dl.twrp.me/cactus/
-https://4pda.ru/forum/index.php?showtopic=912972&view=findpost&p=98095821
+https://4pda.to/forum/index.php?showtopic=912972&view=findpost&p=98095821
 TWRP-3.3.1-0602-OMFG-mod_b1.img 25.2MB MD5: B23855391E5557198C80C6B4B311FC36
 лучшая версия twrp
-https://4pda.ru/forum/index.php?showtopic=912972&view=findpost&p=87843152
+https://4pda.to/forum/index.php?showtopic=912972&view=findpost&p=87843152
 
 Cherry Kernel vendor A9 10.4.4.0+ A64-AB-only
 CherryKernel-Ionized-cactus.zip 11MB MD5: 5e2a566015835a5b23bcf8872f7d6c07
@@ -67,7 +67,7 @@ GApps смотреть в mR6.txt там подробнее
 то же что и для Redmi 6
 OpenGApps
 BiTGApps
-https://4pda.ru/forum/index.php?showtopic=950105&view=findpost&p=94888275
+https://4pda.to/forum/index.php?showtopic=950105&view=findpost&p=94888275
 
 Описание GSI, non-GSI прошивок:
 GSI, non-GSI смотреть в mR6.txt там подробнее
@@ -93,7 +93,7 @@ V10.4.4.0.PCBCNXM 1.7 GB 2019-08-29 вендор китай, всё также �
 
 
 R6A если соберётесь ставить миуи 9 могли бы сообщить мне, работает ли у вас на ми9 автоповорот и компас, буду вам при очень благодарен))
-https://4pda.ru/forum/index.php?showtopic=912972&view=findpost&p=102118886
+https://4pda.to/forum/index.php?showtopic=912972&view=findpost&p=102118886
 
 
 
@@ -102,12 +102,12 @@ https://4pda.ru/forum/index.php?showtopic=912972&view=findpost&p=102118886
 
 ПАТЧИ
 Улучшение качества звука на кастомных прошивках non-gsi (R6A)
-https://4pda.ru/forum/index.php?showtopic=927600&view=findpost&p=99317161
+https://4pda.to/forum/index.php?showtopic=927600&view=findpost&p=99317161
 
 
 
 Советую прописать следующие строки:
-https://4pda.ru/forum/index.php?act=findpost&pid=99643902&anchor=Spoil-99643902-4
+https://4pda.to/forum/index.php?act=findpost&pid=99643902&anchor=Spoil-99643902-4
 (spoiler)
 /system/build.prop
 # Memory optimization

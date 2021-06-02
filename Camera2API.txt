@@ -4,7 +4,7 @@
 
 
 
-подготовлено участниками форума 4pda.ru
+подготовлено участниками форума 4pda
 
 
 
@@ -96,7 +96,7 @@ Cam2Api изначально доступна на большинстве уст
 Если в списке нет камеры, проверенной на вашем устройстве, просто попробуйте версию от смартфона с аналогичным железом.
 
 Активация Camera2API на некоторых платформах Qualcomm
-https://4pda.ru/forum/index.php?showtopic=740544&view=findpost&p=51262340
+https://4pda.to/forum/index.php?showtopic=740544&view=findpost&p=51262340
 тест Camera2API: поддерживает ли смарт Camera2API
 Manual Camera Compatibility https://play.google.com/store/apps/details?id=pl.vipek.camera2_compatibility_test (начиная с Android 5.0)
 Camera2+Probe.apk, Camera2API_test.apk
@@ -152,36 +152,36 @@ https://forum.xda-developers.com/apps/magisk/module-xiaomi-mi-a1-stock-camera-t3
 - R6  - 
 порт с Mi2 Lite Magisk
 - R6  - 
-Mi_A2_Camera_app_port-v3.zip https://4pda.ru/forum/index.php?showtopic=944463&view=findpost&p=85310704
+Mi_A2_Camera_app_port-v3.zip https://4pda.to/forum/index.php?showtopic=944463&view=findpost&p=85310704
 - R6  - 
-MIUI-09-Camera-700.zip Magisk port Camera Mi A1 v7 https://4pda.ru/forum/index.php?showtopic=843632&view=findpost&p=83182146
+MIUI-09-Camera-700.zip Magisk port Camera Mi A1 v7 https://4pda.to/forum/index.php?showtopic=843632&view=findpost&p=83182146
 - R6  - не устанавливается, не работает
-MIUI-10-Camera-920.zip Magisk port Camera Mi A2 v9.3 https://4pda.ru/forum/index.php?showtopic=843632&view=findpost&p=83134850
+MIUI-10-Camera-920.zip Magisk port Camera Mi A2 v9.3 https://4pda.to/forum/index.php?showtopic=843632&view=findpost&p=83134850
 - R6  - не устанавливается, не работает
-MiuiCamera_universal_port_v0.03.apk https://4pda.ru/forum/index.php?showtopic=843632&view=findpost&p=79833518
+MiuiCamera_universal_port_v0.03.apk https://4pda.to/forum/index.php?showtopic=843632&view=findpost&p=79833518
 - R6  - 
-Google Camera https://4pda.ru/forum/index.php?showtopic=564748
+Google Camera https://4pda.to/forum/index.php?showtopic=564748
 - R6  - 
 Google Camera Go 
 - R6  - 
-MIUI_Camera_2.0 для кастомов A9, A10, A11 @Telegram https://4pda.ru/forum/index.php?showtopic=950105&view=findpost&p=104551871
+MIUI_Camera_2.0 для кастомов A9, A10, A11 @Telegram https://4pda.to/forum/index.php?showtopic=950105&view=findpost&p=104551871
 - R6  - говорят работает вроде
-Footej Camera https://4pda.ru/forum/index.php?showtopic=747784
+Footej Camera https://4pda.to/forum/index.php?showtopic=747784
 - R6  - Camera1API. работает. Снимки плохого качества.
 - R6A - Camera1API. работает. Снимки плохого качества.
 - R8A - Camera2API. работает. Снимки нормального качества.
-Обзор фото-приложений Huawei Nova (разные приложения камер) https://4pda.ru/forum/index.php?showtopic=893278&view=findpost&p=76613821
+Обзор фото-приложений Huawei Nova (разные приложения камер) https://4pda.to/forum/index.php?showtopic=893278&view=findpost&p=76613821
 +
 trCamera 
-Snap Camera HDR https://4pda.ru/forum/index.php?showtopic=410643 без cam2api работает. Только не все функции будут доступны.
-https://4pda.ru/forum/index.php?showtopic=921167&view=findpost&p=84783266
-Manual Camera https://4pda.ru/forum/index.php?showtopic=636264
-Camera FV-5 RAW https://4pda.ru/forum/index.php?showtopic=321250
+Snap Camera HDR https://4pda.to/forum/index.php?showtopic=410643 без cam2api работает. Только не все функции будут доступны.
+https://4pda.to/forum/index.php?showtopic=921167&view=findpost&p=84783266
+Manual Camera https://4pda.to/forum/index.php?showtopic=636264
+Camera FV-5 RAW https://4pda.to/forum/index.php?showtopic=321250
 Open Camera 
-HedgeCam https://4pda.ru/forum/index.php?showtopic=781597
+HedgeCam https://4pda.to/forum/index.php?showtopic=781597
 GCam 
 https://www.miui.net.in/best-google-camera-for-redmi-note-6-pro/ откуда ни качай, изначально тут celsoazevedo.com
-https://4pda.ru/forum/dl/post/16206986/MGC_6.1.021_BSG_Arnova-TlnNeun_Urnyx05-v4.3.apk
+https://4pda.to/forum/dl/post/16206986/MGC_6.1.021_BSG_Arnova-TlnNeun_Urnyx05-v4.3.apk
 поставьте 6ю версию и включите слежение за объектом. Всё прекрасно фокусируется. Он находит обьект даже после полной потери его из кадра!
 +
 ANXCamera @Zackptg5
@@ -198,7 +198,7 @@ ANXCamera - порт MIUI Camera для устройств Xiaomi, исполь�
 https://camera.aeonax.com/#instructions
 https://camera.aeonax.com/#postdownloads
 https://sourceforge.net/projects/anxcamera/
-https://4pda.ru/forum/index.php?showtopic=843632&view=findpost&p=95772018
+https://4pda.to/forum/index.php?showtopic=843632&view=findpost&p=95772018
 Для установки скачать .zip и установить через Magisk, после проверить необходимость установки аддонов, перезагрузиться и пользоваться.
 Для удаления удалить через magisk manager или установить тот же .zip через magisk, перезагрузиться.
 Changelog:
@@ -279,9 +279,9 @@ Redmi 7          Qualcomm 2019 A9.0 2(3)/16(32) Adreno 506
 Redmi 6 Pro      Qualcomm
 Redmi 6          2018 A8.1, A9.0 MediaTek Helio P22 3(4)/32(64) PowerVR GE8320 IPS 60Гц 720x1440 Динамик моно  12+5  5 нет ЦАП
 Redmi 6A         2018 A8.1, A9.0 MediaTek Helio A22 2/16(32)    PowerVR GE8320 IPS 60Гц 720x1440 Динамик моно  13  5 нет ЦАП
-Redmi 5 Plus     Qualcomm Обсуждение камеры Xiaomi Redmi 5 Plus Qualcomm https://4pda.ru/forum/index.php?showtopic=880325
+Redmi 5 Plus     Qualcomm Обсуждение камеры Xiaomi Redmi 5 Plus Qualcomm https://4pda.to/forum/index.php?showtopic=880325
 Redmi 5A         Qualcomm
-Redmi 5          Qualcomm Обсуждение камеры Xiaomi Redmi 5 Qualcomm https://4pda.ru/forum/index.php?showtopic=890521
+Redmi 5          Qualcomm Обсуждение камеры Xiaomi Redmi 5 Qualcomm https://4pda.to/forum/index.php?showtopic=890521
 Redmi 4A         Qualcomm
 Redmi 4X         Qualcomm
 Redmi 4          Qualcomm

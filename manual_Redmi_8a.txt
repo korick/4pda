@@ -4,7 +4,7 @@ Notepad++ https://github.com/notepad-plus-plus/notepad-plus-plus | https://notep
 .\plugins\DSpellCheck\ https://github.com/Predelnik/DSpellCheck/releases/
 .\plugins\Config\Hunspell\ru_RU.aff, ru_RU.dic https://github.com/LibreOffice/dictionaries/ru_RU/
 кодировка UTF-8, синтаксис YAML или MD (markdown) для удобочитаемости
-подготовлено участниками форума 4pda.ru
+подготовлено участниками форума 4pda
 
 ! ВСЁ НИЖЕ ОПИСАННОЕ ОТНОСИТСЯ ТОЛЬКО ДЛЯ ТЕЛА REDMI 8A
 
@@ -56,8 +56,8 @@ https://bigota.d.miui.com/V11.0.3.0.PCPMIXM/olivelite_global_images_V11.0.3.0.PC
 MIUI_11.0.3.0_del.zip recovery 1.7GB MD5: 10559e608a8891731e0c4613c9176854
 boot_orig_11.0.3.0 global_images_V11.0.3.0.PCPMIXM.7z 10.2MB MD5: AAD0580B391767241EFE2E6E2EAD9FBE
 boot_patch_11.0.3.0.img 15.8Mb MD5: 95158FBD87164EEACEFF2D6F4D213569
-https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=92099075
-https://4pda.ru/forum/dl/post/18425077/global_images_V11.0.3.0.PCPMIXM.7z
+https://4pda.to/forum/index.php?showtopic=976547&view=findpost&p=92099075
+https://4pda.to/forum/dl/post/18425077/global_images_V11.0.3.0.PCPMIXM.7z
 Magisk-v20.4.zip Stable 5.6MB MD5: 9503FC692E03D60CB8897FF2753C193F
 Magisk-uninstaller-20200323.zip 2MB
 MagiskManager-v7.5.1.apk 2MB уже встроен в Magisk-v20.4.zip для twrp
@@ -71,42 +71,42 @@ twrp 3.4.0.0-20200914 r8a_3_4_0_0.img 64MB MD5: A2DB8CAB5C69D32E61668946163EC6C7
 работает поддерживает шифрование на A9 A10
 отключена проверка compatibility.zip на офф. прошивках
 отключено ограничение яркости
-https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=99830988
+https://4pda.to/forum/index.php?showtopic=976547&view=findpost&p=99830988
 OrangeFox Recovery Project Official для Redmi 8a
 официальное
 есть разделы для бекапа, сделать бекап через OrangeFox
 Прошивать строго через официальное TWRP и Официальный OrangeFox, если не через официальное - бутлуп
-https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=93815380
+https://4pda.to/forum/index.php?showtopic=976547&view=findpost&p=93815380
 OrangeFox-R10.1_1-Stable-olivelite.zip 42.7MB MD5: 
-https://4pda.ru/forum/dl/post/19133076/OrangeFox-R10.1_1-Stable-olivelite.zip
+https://4pda.to/forum/dl/post/19133076/OrangeFox-R10.1_1-Stable-olivelite.zip
 TWRP 3.3.1-altsec_4PDA_9.0_v1.1.img 27.9MB MD5: EA3A47CB7777259AB250527384B7C802
 подходит для A9 A10
 нет разделов для бекапа, делать бекап через ADB
-https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=91923893
-https://4pda.ru/forum/dl/post/18227337/recovery.img
+https://4pda.to/forum/index.php?showtopic=976547&view=findpost&p=91923893
+https://4pda.to/forum/dl/post/18227337/recovery.img
 
 
 
 
 Havoc-OS v3.0
 Havoc-OS @ OpenGL ES 3.2 V@331.0
-https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=92086953
-https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=92329648
+https://4pda.to/forum/index.php?showtopic=976547&view=findpost&p=92086953
+https://4pda.to/forum/index.php?showtopic=976547&view=findpost&p=92329648
 Обновлено от 26.12.2019
 Havoc-OS-v3.0-20191226-A64AB-Unofficial.img 1.03GB MD5: D08DD90877D24A5C020C2A573013BCDA
 https://sourceforge.net/projects/expressluke-gsis/files/HavocOS/Ten/A64/AB/Havoc-OS-v3.0-20191226-A64AB-Unofficial.img.xz
 (фикс) Permissiver_v4.zip 1MB MD5: DD37905E9404328723F892C06852A677
-https://4pda.ru/forum/dl/post/18348565/Permissiver_v4.zip
+https://4pda.to/forum/dl/post/18348565/Permissiver_v4.zip
 (фикс) Disable_Dm-Verity_ForceEncrypt_10.20.2019.zip 2.7MB MD5: 361D8877940E7DCD8C717F352959695C
-https://4pda.ru/forum/dl/post/18348567/Disable_Dm-Verity_ForceEncrypt_10.20.2019.zip
+https://4pda.to/forum/dl/post/18348567/Disable_Dm-Verity_ForceEncrypt_10.20.2019.zip
 (фикс) Havoc_RU_26.12.zip 54.4MB MD5: 78028968bfb80756470164c95cc75663
-https://4pda.ru/forum/dl/post/18365603/Havoc_RU_26.12.zip
+https://4pda.to/forum/dl/post/18365603/Havoc_RU_26.12.zip
 (фикс) Dialer.zip 6.6MB MD5: 200d382ade9ebe8c389849eee4eaeabd
-https://4pda.ru/forum/dl/post/18462230/Dialer.zip
+https://4pda.to/forum/dl/post/18462230/Dialer.zip
 
 GApps ARM32-10-PICO сервисы Google GMS
 (фикс) Certification+Patch.zip 1MB MD5: 376852C0B773ECDF7BF6139560D9BE20
-https://4pda.ru/forum/dl/post/18348566/Certification%2BPatch.zip
+https://4pda.to/forum/dl/post/18348566/Certification%2BPatch.zip
 open_gapps-10.0-pico-20191114-BETA
 
 
@@ -114,9 +114,9 @@ open_gapps-10.0-pico-20191114-BETA
 @xda-developers
 https://forum.xda-developers.com/f/xiaomi-redmi-8a-roms-kernels-recoveries-other.9631/
 GSI official смотреть в mR6.txt там подробнее
-https://4pda.ru/forum/index.php?showtopic=892755&st=0#entry71222655
+https://4pda.to/forum/index.php?showtopic=892755&st=0#entry71222655
 HavocOS 3.12 Remastered
-https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=105241797
+https://4pda.to/forum/index.php?showtopic=976547&view=findpost&p=105241797
 
 
 
@@ -130,7 +130,7 @@ https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=105241797
 вендор V10.3.3.0.PCPMIXM A9 глобал норм
 
 ; ИНСТРУКЦИЯ ПО УСТАНОВКЕ КАСТОМНОЙ ПРОШИВКИ GSI Havoc-OS v3.0 A10 non-GApps для Redmi 8A
-https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=92086953
+https://4pda.to/forum/index.php?showtopic=976547&view=findpost&p=92086953
 ; ? <- ВНИМАНИЕ! это проблемный момент сам не знаю конкретно!
 ; ? проверить Havoc-OS v3.0 Android 10 (A10 Q) non-GApps A64_A/B non-GSI Unofficial-Treble Odex операционная система без GApps на базе AOSP. Дата сборки: 7.12.2019. Автор: ExpressLuke. Стабильная, ROOT есть
 ; Прошивка классная, очень много настроек кастомизации (раз настроил и забыл, хотя смысла в таком количестве разных настроек как бы и нет)
@@ -288,17 +288,17 @@ adb shell settings put global device_provisioned 1
 ; (фикс) twrp /system_root/system/product/media/bootanimation.zip - удалил/заменил, раздражает бутанимация из Havoc-v2.9. Перезагрузить из twrp в system. Проверить изменения
 ; (фикс) twrp распаковать и заменить Dialer.zip /system/product/priv-app/Dialer/Dialer.apk. (не удалять dialer.odex, dialer.vdex). Перезагрузить из twrp в system. Проверить изменения
 ; кастомного ядра нормального пока нет
-https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=100070599
+https://4pda.to/forum/index.php?showtopic=976547&view=findpost&p=100070599
 ; lolz ядро не совсем оптимизрованно под наше устройство, поэтому ставьте минимале minimale v2 (с v3 баги UI, падает Лаунчер, не работает шторка, тестить)
-https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=97345180
+https://4pda.to/forum/index.php?showtopic=976547&view=findpost&p=97345180
 ; Dragonfire-Kernel-olivelite-20201220-2010.zip A9-A11 (MIUI/GSI) @AstonishingBoy357 Версия: 4.9.248
-; https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=102591180
-; https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=102706413
-; https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=102967576
+; https://4pda.to/forum/index.php?showtopic=976547&view=findpost&p=102591180
+; https://4pda.to/forum/index.php?showtopic=976547&view=findpost&p=102706413
+; https://4pda.to/forum/index.php?showtopic=976547&view=findpost&p=102967576
 ;
 ; ИНСТРУКЦИЯ ПО УСТАНОВКЕ КАСТОМНОЙ ПРОШИВКИ GSI Havoc-OS v3.8 A10 non-GApps для REDMI 8A
 HavocOS-v3.11-Final A10
-https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=98988031
+https://4pda.to/forum/index.php?showtopic=976547&view=findpost&p=98988031
 ; Баги: VoLTE
 ; всё так же ставится по инструкции
 ; (фикс) Certification+Patch.zip - ставить
@@ -312,34 +312,34 @@ https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=98988031
 Как восстановить кирпич?
 Поможет авторизованный сервисный аккаунт. Другого способа прошить в EDL нет. Платно.
 В следующий раз не забыть разблокировать загрузчик, т.к. если будут такие же проблемы, то их можно будет решать без проблем и бесплатно. А сейчас только через EDL. Платно.
-https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=104330037
+https://4pda.to/forum/index.php?showtopic=976547&view=findpost&p=104330037
 
 R8A Не ставится тврп
-https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=102351632
+https://4pda.to/forum/index.php?showtopic=976547&view=findpost&p=102351632
 Бут патчить не надо само все сделает, должно по крайней мере.
 
 R8A Просто если он рабочий, его в скрипт добавить, чтоб он забирал Бут в процессе, патчил и возвращал обратно.
-https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=91752312
+https://4pda.to/forum/index.php?showtopic=976547&view=findpost&p=91752312
 
 R8A Ищу тестеров для нового ядра на основе исходников, что выложили вчера.
-https://4pda.ru/forum/index.php?showtopic=976547&view=findpost&p=104140955
+https://4pda.to/forum/index.php?showtopic=976547&view=findpost&p=104140955
 
 R8A патченый Бут MIUI 12.0.1
-https://4pda.ru/forum/index.php?showtopic=956662&view=findpost&p=104284370
+https://4pda.to/forum/index.php?showtopic=956662&view=findpost&p=104284370
 
 GCam
 https://www.celsoazevedo.com/files/android/google-camera/
 LGCam-v4.2_x32_mod.apk
-https://4pda.ru/forum/index.php?showtopic=965857&view=findpost&p=98344464
+https://4pda.to/forum/index.php?showtopic=965857&view=findpost&p=98344464
 GC3.1_NightShot_by_Expace.apk
 Как по мне мод 3.1 – лучшее решение для 32х прошивок R8А
 менять профиль и модель на Нексус 6p
-https://4pda.ru/forum/index.php?showtopic=1004090&view=findpost&p=101246632
-https://4pda.ru/forum/index.php?showtopic=1004090&view=findpost&p=101249269
+https://4pda.to/forum/index.php?showtopic=1004090&view=findpost&p=101246632
+https://4pda.to/forum/index.php?showtopic=1004090&view=findpost&p=101249269
 GCamera (R9A)
 Работает хорошо, Фото, Видео, Переводчик прикольный.
 GCamGo_Redmi_9a_GreatnessNS2.apk
-https://4pda.ru/forum/index.php?showtopic=997713&view=findpost&p=102024589
+https://4pda.to/forum/index.php?showtopic=997713&view=findpost&p=102024589
 GCamGo в разы быстрее работает, качество даже в Go версии несравнимо со стоком,
 на 64 бит работают прекрасно GCam_RN8, 4 минуты выдержка астрофото работает, запустил GCam8, лучше использовать быструю GCamGo
 Camera_iOS_mod_1_0_3.apk (R9A на сток прошивке)
@@ -349,10 +349,10 @@ Camera_iOS_mod_1_0_3.apk (R9A на сток прошивке)
 - Зажать кнопку затвора, до сигнала автофокуса или прицел станет зелёным.
 - После срабатывания автофокуса, отпустить кнопку затвора, произойдет захват кадра.
 - лёгкая и быстрая камера.
-https://4pda.ru/forum/index.php?showtopic=997713&view=findpost&p=102030346
+https://4pda.to/forum/index.php?showtopic=997713&view=findpost&p=102030346
 порт One s10 (R9A)
 One_S10_Camera_v3.8_P2.apk
-https://4pda.ru/forum/index.php?showtopic=997713&view=findpost&p=102067384
+https://4pda.to/forum/index.php?showtopic=997713&view=findpost&p=102067384
 
 
 Чтобы тело не лагало, для игр
@@ -387,7 +387,7 @@ pm enable me.phh.treble.app/.TopLevelSettingsActivity # включить
 Телефон перезагрузится и системный рут пропадёт.
 
 Вылеты GCam:
-https://4pda.ru/forum/index.php?showtopic=957513&view=findpost&p=92881814
+https://4pda.to/forum/index.php?showtopic=957513&view=findpost&p=92881814
 Настройки-Phh Treble Settings-Misc features-Force Enable Camera2API HAL3
 
 Включить 1080p на фронтальной камере:
@@ -405,8 +405,8 @@ https://4pda.ru/forum/index.php?showtopic=957513&view=findpost&p=92881814
 Настройки-Phh Treble Settings-Misc features-Use linear screen brightness slider-Reboot.
 
 отсутствует индикатор уведомлений: программно
-Missed Notifications Reminder (F-Droid) запись тишины. вибро. https://4pda.ru/forum/index.php?showtopic=704129
-Recurrent Notification Manager https://4pda.ru/forum/index.php?showtopic=786043
+Missed Notifications Reminder (F-Droid) запись тишины. вибро. https://4pda.to/forum/index.php?showtopic=704129
+Recurrent Notification Manager https://4pda.to/forum/index.php?showtopic=786043
 
 откатился с 11.0.8 на 11.0.3 т.к. жрёт оперативу
 
