@@ -7,12 +7,12 @@
 подготовлено участниками форума 4pda
 
 рут  Magisk-v20.4.zip
-фаервол  AFWall++(Donate)-v3.3.1_build_19411.apk
+фаервол  AFWall++(Donate)-v3.3.1_build_19411.apk, AFWall++(Donate)-v3.4.0_build_19450.apk
 фаервол  NetGuard_v2.295_Pro_Balatan_Numberone.apk
 мониторинг сети test  Network_Connections_v1.5.0(23)_mod_Kirlif_A10.apk
 мониторинг сети test  com.eolwral.osmonitor_90_fdroid.apk
 безопасность  com.oF2pks.classyshark3xodus_26_fdroid.apk проверяет 1 apk
-безопасность  org.eu.exodus_privacy.exodusprivacy_10_fdroid.apk смотрит все, использует classyshark3xodus БД
+безопасность  org.eu.exodus_privacy.exodusprivacy_10_fdroid.apk смотрит все, использует БД classyshark3xodus
 SRAP  MyAndroidTools+Pro+1.6.0+Mod+ALEX6301.apk
 об устройстве  DeviceInfoHW5.1.2_ANDR7E.apk
 об устройстве  DevInfoOverlay1.0_ANDR7E.apk
@@ -43,15 +43,20 @@ SRAP  MyAndroidTools+Pro+1.6.0+Mod+ALEX6301.apk
 очистка  SD_Maid-Pro-v4.15.14-Dark-Venom-Lite-armeabi-v7a.apk
 терминал  com.termux_101_fdroid.apk
 менеджер файлов  tcandroid320-armeabi-v7a.apk Total Commander
-TotalCmd-FTP (Передача файлов) tcandroidftp242.apk
-TotalCmd-LAN (Общий доступ Windows) tcandroidlan320.apk
-TotalCmd-SFTP tcandroidsftp24.apk
-TotalCmd-WebDAV (web-папки) tcandroidwebdav300.apk
-TotalCmd-WiFi-обмен tcandroidwifi34.apk
-копирование некопируемого текста (не работает OCR)  Universal_Copy_3.1.2_UmodDark_derrin_notworkocr.apk, Universal+Copy+v3.2+Unlocked_notworkocr.apk, camelcorp.universalcopy-5.3.2_Alex.Strannik.apk
-оффлайн OCR  EverTranslator+Screen+translate_v2.4.4_apkpure.com.apk
+TotalCmd-FTP  (Передача файлов) tcandroidftp242.apk
+TotalCmd-LAN  (Общий доступ Windows) tcandroidlan320.apk
+TotalCmd-SFTP  (Передача файлов) tcandroidsftp24.apk
+TotalCmd-WebDAV  (web-папки) tcandroidwebdav300.apk
+TotalCmd-WiFi-обмен  (Передача файлов) tcandroidwifi34.apk
+копирование некопируемого текста  (не работает OCR)
+Universal_Copy_3.1.2_UmodDark_derrin_notworkocr.apk, 
+Universal+Copy+v3.2+Unlocked_notworkocr.apk, 
+camelcorp.universalcopy-5.3.2_Alex.Strannik.apk
+копирование некопируемого текста  (OCR)
+EverTranslator+Screen+translate_v2.4.4_apkpure.com.apk
+InstaLate online наэкранный
 мессенджер  Viber_v11.8.1.1_1_mod_Blue_cat.apk
-Snapseed ?
+Snapseed  ?
 
 
 

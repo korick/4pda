@@ -51,21 +51,22 @@ Notepad++ https://github.com/notepad-plus-plus/notepad-plus-plus | https://notep
 [ссылка с title](https://URL "title ссылки") подсказка
 
 ==== Блокировка 4pda.to https://4pda.to/forum/index.php?showtopic=1024777
-ru.fourpda.client https://4pda.to/forum/index.php?showtopic=673755&view=getnewpost
+ru.fourpda.client https://4pda.to/forum/index.php?showtopic=673755&view=getlastpost
 
 Специальная тема для тренировки (загрузка файлов, изображений, создание спойлеров) https://4pda.to/forum/index.php?showtopic=93526
-Каталог тем раздела Android - Прошивки > Xiaomi https://4pda.to/forum/index.php?showtopic=612335
-Клуб владельцев Xiaomi Redmi 6/6A https://4pda.to/forum/index.php?showtopic=934470&st=68780&view=getnewpost
-Xiaomi Redmi 6  - Неофициальные прошивки https://4pda.to/forum/index.php?s=&showtopic=950105&view=getnewpost
-Xiaomi Redmi 6A - Неофициальные прошивки https://4pda.to/forum/index.php?showtopic=944463&view=getnewpost
-Xiaomi Redmi 8A - Прошивки MIUI https://4pda.to/forum/index.php?showtopic=976547&view=getnewpost
-Xiaomi Redmi 8A - Неофициальные прошивки https://4pda.to/forum/index.php?showtopic=1020524&view=getnewpost создана новая тема
-Xiaomi Redmi 9A - Прошивки MIUI https://4pda.to/forum/index.php?showtopic=1005664&view=getnewpost
+Каталог тем раздела Android - Прошивки > Xiaomi https://4pda.to/forum/index.php?showtopic=612335&view=getlastpost
+Клуб владельцев Xiaomi Redmi 6/6A https://4pda.to/forum/index.php?showtopic=934470&st=68780&view=getlastpost
+Xiaomi Redmi 6  - Неофициальные прошивки https://4pda.to/forum/index.php?s=&showtopic=950105&view=getlastpost
+Xiaomi Redmi 6A - Неофициальные прошивки https://4pda.to/forum/index.php?showtopic=944463&view=getlastpost
+Xiaomi Redmi 8A - Прошивки MIUI https://4pda.to/forum/index.php?showtopic=976547&view=getlastpost
+Xiaomi Redmi 8A - Неофициальные прошивки https://4pda.to/forum/index.php?showtopic=1020524&view=getlastpost
+Xiaomi Redmi 9A - Прошивки MIUI https://4pda.to/forum/index.php?showtopic=1005664&view=getlastpost
 
 Муки выбора ПК, ноутбука https://4pda.to/forum/index.php?showtopic=252563
-Windows XP - Обсуждение | [windowsos] https://4pda.to/forum/index.php?showtopic=200978 Windows 78110 - там же
+Windows XP - Обсуждение | [windowsos] https://4pda.to/forum/index.php?showtopic=200978
 Windows XP - FAQ | [windowsos] https://4pda.to/forum/index.php?showtopic=200982
 Настройка Windows XP на старом железе для современного интернета https://habr.com/ru/post/373803
+Windows 78110 рядом
 Муки выбора телефона https://4pda.to/forum/index.php?showtopic=86855
 Подбор устройства БД https://4pda.to/devdb/phones/select
 Проблемы с ПК https://4pda.to/forum/index.php?showtopic=119976
@@ -146,14 +147,17 @@ https://4pda.to/forum/index.php?showtopic=240901
 Как сделать клон apk https://4pda.to/forum/index.php?showtopic=355487
 Беспроводные пульты ДУ https://4pda.to/forum/index.php?showtopic=400717&view=findpost&p=64301870
 Librem 5 | смартфон FOSS за 700$ https://4pda.to/forum/index.php?showtopic=884412
-Поиск программ для Android https://4pda.to/forum/index.php?showtopic=112900
+Поиск программ для Android https://4pda.to/forum/index.php?showtopic=112900&view=getlastpost
 Поиск тем оформления, виджетов, обоев, иконок для Android https://4pda.to/forum/index.php?showtopic=208182
-Поиск игр для Android https://4pda.to/forum/index.php?showtopic=172737
-Игры портированные с других платформ для Android https://4pda.to/forum/index.php?showtopic=753092
-Поиск эмуляторов https://4pda.to/forum/index.php?showtopic=322070
+Поиск игр для Android https://4pda.to/forum/index.php?showtopic=172737&view=getlastpost
+Создание игр под Android https://4pda.to/forum/index.php?showforum=550
+Игры портированные с других платформ для Android https://4pda.to/forum/index.php?showtopic=753092&view=getlastpost
+Java J2ME Runner A5- или VMOS https://4pda.to/forum/index.php?showtopic=131859
+Каталог игр для Java J2ME Runner https://4pda.to/forum/index.php?showtopic=511463
+Поиск эмуляторов https://4pda.to/forum/index.php?showtopic=322070&view=getlastpost
 Android - эмуляторы https://4pda.to/forum/index.php?showforum=529
-Новости игрового мира Android https://4pda.to/forum/index.php?showtopic=189413
-Обзоры игр для Android https://4pda.to/forum/index.php?showtopic=337923
+Новости игрового мира Android https://4pda.to/forum/index.php?showtopic=189413&view=getlastpost
+Обзоры игр для Android https://4pda.to/forum/index.php?showtopic=337923&view=getlastpost
 Краткий гид по выбору офлайн навигации для мобильных устройств
 https://4pda.to/forum/index.php?showtopic=88414&view=findpost&p=28379951
 https://4pda.to/forum/index.php?act=findpost&pid=11168446&anchor=Spoil-11168446-4
@@ -161,18 +165,18 @@ https://4pda.to/forum/index.php?showtopic=172943
 https://travelgps.com.ua
 карты https://4pda.to/forum/index.php?showtopic=552
 Клубы по интересам https://4pda.to/forum/index.php?showforum=219
-Клуб ЧИТЕРОВ | Тут собираются читеры форума, собираем полезную информацию https://4pda.to/forum/index.php?showtopic=375352&view=getnewpost
-Клуб Mod APK | Здесь делаем заказы на мод апк, учимся их создавать https://4pda.to/forum/index.php?showtopic=461675&view=getnewpost
-Клуб любителей Астрономии https://4pda.to/forum/index.php?showtopic=821117
-Клуб любителей КИНО https://4pda.to/forum/index.php?showtopic=112823 (поиск фильма по содержанию)
-Клуб Перлы Нашего Форума https://4pda.to/forum/index.php?showtopic=108532
-Создание игр под Android https://4pda.to/forum/index.php?showforum=550
+Клуб ЧИТЕРОВ | Тут собираются читеры форума, собираем полезную информацию https://4pda.to/forum/index.php?showtopic=375352&view=getlastpost
+Клуб Mod APK | Здесь делаем заказы на мод апк, учимся их создавать https://4pda.to/forum/index.php?showtopic=461675&view=getlastpost
+Клуб любителей Астрономии https://4pda.to/forum/index.php?showtopic=821117&view=getlastpost
+Клуб любителей КИНО https://4pda.to/forum/index.php?showtopic=112823&view=getlastpost (поиск фильма по содержанию)
+Клуб Перлы Нашего Форума https://4pda.to/forum/index.php?showtopic=108532&view=getlastpost
 
-NetGuard https://4pda.to/forum/index.php?showtopic=700336
-AFWall+ https://4pda.to/forum/index.php?showtopic=392249
-Migrate https://4pda.to/forum/index.php?showtopic=927915
-Переводчик Google (Google Translate) https://4pda.to/forum/index.php?showtopic=151200
-GameGuardian https://4pda.to/forum/index.php?showtopic=259340
+
+NetGuard https://4pda.to/forum/index.php?showtopic=700336&view=getlastpost
+AFWall+ https://4pda.to/forum/index.php?showtopic=392249&view=getlastpost
+Migrate https://4pda.to/forum/index.php?showtopic=927915&view=getlastpost
+Переводчик Google (Google Translate) https://4pda.to/forum/index.php?showtopic=151200&view=getlastpost
+GameGuardian https://4pda.to/forum/index.php?showtopic=259340&view=getlastpost
 Скрипты GameGuardian https://4pda.to/forum/index.php?showtopic=961867
 MacroDroid, Автоматизация Android https://4pda.to/forum/index.php?showtopic=374521&view=findpost&p=55832020
 Stop Log | Отключаем logcat https://4pda.to/forum/index.php?showtopic=602538
@@ -186,9 +190,9 @@ Tinymix Manager | Изменение значений аудиокарты https
 Статья про информационную безопасность для рядовых пользователей https://habr.com/ru/post/452610
 Про установку и использование LineageOS 16 F-Droid https://habr.com/ru/post/465945
 (содержится описание Anti-Features сомнительный функционал антифункции F-Droid https://f-droid.org/docs/Anti-Features)
-Про телефоны Xiaomi и борьбу с ними. Updated https://habr.com/ru/post/320612
+Про телефоны Xiaomi и борьбу с ними https://habr.com/ru/post/320612
 Обзор свободного ПО для Android https://habr.com/ru/post/440280
-Дегуглификация LineageOS https://www.reddit.com/r/LineageOS/comments/cl5c90/degoogling_lineageos_instructions_august_2019
+Degoogling LineageOS https://www.reddit.com/r/LineageOS/comments/cl5c90/degoogling_lineageos_instructions_august_2019
 https://medium.com/russian/почему-мой-телефон-не-обновится-до-нового-андроеда-e4cd5fa3fa85
 https://ubuntulogia.blogspot.com/2008/06/blog-post.html
 
@@ -1570,7 +1574,7 @@ https://4pda.to/forum/index.php?act=findpost&pid=35587929&anchor=Spoil-35587929-
 Забекапить EFS imei.
 Нет подтверждённого случая смены imei, только восстановление imei из своего бекапа.
 Использовать файлы из одного бекапа, не смешивать с разных бекапов.
-При слёте, затирании, удалении, модифицировании - сеть не будет работать. Восстановить получиться только через сделанный бекап заранее.
+При слёте, затирании, удалении, модифицировании imei - сеть не будет работать. Восстановить получиться только через сделанный бекап заранее.
 Если получиться сменить imei кривой прошивкой, imei будут изменённые, а сети не будет.
 
 Начиная с Redmi Note 5 Qualcomm на Куалкомах не прописать оба чужие imei, можно сделать только первый imei ноль, второй нужный. Но симки будут работать обе.
@@ -1579,7 +1583,9 @@ https://4pda.to/forum/index.php?act=findpost&pid=35587929&anchor=Spoil-35587929-
 
 Если нет оригинальной security зоны, которая зашифрована, которая заранее сохранена, оба imei не восстановить, только второй, и телефон становится односимочным, исключение если оператор не проверяет imei, как в некоторых регионах, будет такая сим работать и в первом слоте.
 
-Без imei (imei 0) будет работать только yota.
+Без imei (imei=0) будет работать только yota, vodafone-ua.
+
+imei_1 привязана к прошивке к девайсу и сменить никак.
 
 Как вариант
 https://4pda.to/forum/index.php?showtopic=907017&view=findpost&p=104155753
@@ -1591,8 +1597,13 @@ https://4pda.to/forum/index.php?showtopic=907017&view=findpost&p=103617692
 - восстановить только второй imei https://youtu.be/B7gnEwXbWQA (9:10)
 (Способ проверен - рабочий)
 
+
+(R6A MTK) Востановление imei https://4pda.to/forum/index.php?showtopic=912972&view=findpost&p=104884093
+(R9 MTK) https://4pda.to/forum/index.php?showtopic=998845&view=findpost&p=103970161
+
 MauiMETA https://4pda.to/forum/index.php?showtopic=678449
 инструкции по MauiMETA https://4pda.to/forum/index.php?showtopic=678449&view=findpost&p=41671213&anchor=Spoil-41671213-3
+                       https://4pda.to/forum/index.php?showtopic=678449&view=findpost&p=76033265
 
 WwR MTK https://4pda.to/forum/index.php?showtopic=813767
 
@@ -3288,7 +3299,7 @@ VoLTE - технология передачи голоса по сети LTE, о
 - Какие отличия VoLTE и LTE
 LTE - стандарт мобильной высокоскоростной передачи данных. Высокоскоростной мобильный интернет, работает на нём.
 VoLTE - только звонки, которые работают в LTE (сервисы IMS). Оператор д. поддерживать услугу VoLTE (вкл. в личном кабинете), в теле д.б. включена функция.
-Скорость моб. интернета: LTE >2MB, 3G 1.3MB, 2G <
+Скорость моб. интернета: 5G 100MB/100MB, LTE >2MB, 3G 1.3MB, 2G <
 - Внешний эквалайзер
 Установка Viper4Android сток (R6) https://4pda.to/forum/index.php?showtopic=994598&view=findpost&p=97799420
 AML-v3.5. + Viper4Android FX v2.7.1.6. 
@@ -3329,6 +3340,10 @@ James DSP!
 фиксы для прошивок тут (R7A) https://4pda.to/forum/index.php?showtopic=964578&view=findpost&p=93070476
 GSI вылетают тяжеловесные игры (R7A) https://4pda.to/forum/index.php?showtopic=964578&view=findpost&p=97732964
 GSI фиксы основных проблем (R8) https://4pda.to/forum/index.php?showtopic=978342&view=findpost&p=93224258
+
+Фикс Если тормозит система GSI A11 (R9A)
+Фикс Если тормозят игры GSI A11    (R9A)
+https://4pda.to/forum/index.php?showtopic=1005664&view=findpost&p=107063620
 
 Фикс монтирования Magisk на A11 (R8, должен работать и на R8A)
 на A11 патчить бут не надо. Достаточно сделать это. На стоке MIUI Magisk патчит бут сам без патчей, достаточно установить его через TWRP.
