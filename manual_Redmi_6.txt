@@ -66,6 +66,7 @@ Xiaomi Redmi 9A - Прошивки MIUI https://4pda.to/forum/index.php?showtopi
 Windows XP - Обсуждение | [windowsos] https://4pda.to/forum/index.php?showtopic=200978
 Windows XP - FAQ | [windowsos] https://4pda.to/forum/index.php?showtopic=200982
 Настройка Windows XP на старом железе для современного интернета https://habr.com/ru/post/373803
+Настройка Windows 7  на старом железе для современного интернета https://habr.com/ru/post/424019
 Windows 78110 рядом
 Муки выбора телефона https://4pda.to/forum/index.php?showtopic=86855
 Подбор устройства БД https://4pda.to/devdb/phones/select
@@ -103,6 +104,7 @@ Xiaomi Redmi Note 6 Pro - Прошивки MIUI https://4pda.to/forum/index.php?
 https://4pda.to/forum/index.php?showtopic=907729
 https://4pda.to/forum/index.php?showtopic=777336&view=findpost&p=55340718
 https://reports.exodus-privacy.eu.org/
+Моя борьба с сообщением "Память телефона заполнена" https://4pda.to/forum/index.php?showtopic=283967
 Советы по улучшению энергосбережения устройств на Android OS https://4pda.to/forum/index.php?showtopic=144999
 Magisk - The Universal Systemless Interface https://4pda.to/forum/index.php?showtopic=774072
 Каталог модулей для Magisk https://4pda.to/forum/index.php?showtopic=915158
@@ -170,7 +172,6 @@ https://travelgps.com.ua
 Клуб любителей Астрономии https://4pda.to/forum/index.php?showtopic=821117&view=getlastpost
 Клуб любителей КИНО https://4pda.to/forum/index.php?showtopic=112823&view=getlastpost (поиск фильма по содержанию)
 Клуб Перлы Нашего Форума https://4pda.to/forum/index.php?showtopic=108532&view=getlastpost
-
 
 NetGuard https://4pda.to/forum/index.php?showtopic=700336&view=getlastpost
 AFWall+ https://4pda.to/forum/index.php?showtopic=392249&view=getlastpost
@@ -284,6 +285,7 @@ Xiaomi MIUI.
 Xiaomi Mi линейку разрабатывают сами и им её собирают на каком-то заводе, прям как Apple (поэтому и цена такая относительно высокая).
 Xiaomi Redmi линейку перекупают, только прошивку под железо пишут (поэтому дешевле).
 HONOR отдельно от HUAWEI.
+HONOR нет рут.
 HUAWEI EMUI. MagicUI (это и есть EMUI только переименованная)
 HUAWEI сами делают полностью, вроде.
 Meizu FlymeOS
@@ -301,7 +303,7 @@ Samsung имеет репутацию компании, которая не сл
 Samsung S серия флагманская линейка собирает сам Samsung.
 Samsung не S серия собирает кто-попало, тоже перекупают у кого-то.
 Кирины практически один в один с одноуровневыми Медиатеками, да ещё обычно по видеоускорителям хуже всех.
-сжав фото с топового смарта до 2MP в редакторе, оно не станет сильно хуже без зума, чего не скажешь про 48-64MP фото с дешёвого китайского смарта.
+Сжав фото с топового смарта до 2MP в редакторе, оно не станет сильно хуже без зума, чего не скажешь про 48-64MP фото с дешёвого китайского смарта.
 
 
 
@@ -1587,23 +1589,33 @@ https://4pda.to/forum/index.php?act=findpost&pid=35587929&anchor=Spoil-35587929-
 
 imei_1 привязана к прошивке к девайсу и сменить никак.
 
-Как вариант
+
+
+
+Прошивка MTK без сервисного аккаунта через SPFT
+by Megafon929 (оригинал)
+https://4pda.to/forum/index.php?showtopic=907017&view=findpost&p=103559971
+https://4pda.to/forum/index.php?showtopic=907017&view=findpost&p=107505449
+by wa2not (пример с картинками)
+https://4pda.to/forum/index.php?showtopic=912972&view=findpost&p=104634322
+
+(R6 MTK) Востановление imei Как вариант
 https://4pda.to/forum/index.php?showtopic=907017&view=findpost&p=104155753
-- мануал Восстанавливаем NVRAM и IMEI с помощью программы Maui Meta 3G
-https://4pda.to/forum/index.php?showtopic=798932&view=findpost&p=80647115
 - прошить сервисную прошивку
 https://4pda.to/forum/index.php?showtopic=907017&view=findpost&p=103617692
 - по этому методу https://4pda.to/forum/index.php?showtopic=907017&view=findpost&p=103559971
-- восстановить только второй imei https://youtu.be/B7gnEwXbWQA (9:10)
-(Способ проверен - рабочий)
-
+- восстановить только второй imei https://youtu.be/B7gnEwXbWQA (9:10) (Способ проверен - рабочий)
 
 (R6A MTK) Востановление imei https://4pda.to/forum/index.php?showtopic=912972&view=findpost&p=104884093
 (R9 MTK) https://4pda.to/forum/index.php?showtopic=998845&view=findpost&p=103970161
 
+Инструкции руководства ошибки SPFT
+https://4pda.to/forum/index.php?showtopic=469340&view=findpost&p=75632552
+
 MauiMETA https://4pda.to/forum/index.php?showtopic=678449
 инструкции по MauiMETA https://4pda.to/forum/index.php?showtopic=678449&view=findpost&p=41671213&anchor=Spoil-41671213-3
                        https://4pda.to/forum/index.php?showtopic=678449&view=findpost&p=76033265
+мануал Восстанавливаем NVRAM и IMEI с помощью программы Maui Meta 3G https://4pda.to/forum/index.php?showtopic=798932&view=findpost&p=80647115
 
 WwR MTK https://4pda.to/forum/index.php?showtopic=813767
 
@@ -1713,7 +1725,7 @@ SP_Flash_Tool_5.1844.00.000 поддерживает WXP.
 SPFT:
 - прошивка в специальном режиме EDL в выключенном состоянии.
 - на Redmi 6 бесполезен без авторизованного сервисного аккаунта.
-- SPFT не смотрит на статус загрузчика, можно шить с залоченым бутом, прошивая прошивку своего региона.
+- SPFT не смотрит на статус загрузчика, можно шить с заблокированным загрузчиком, прошивая прошивку своего региона.
 - не прошивайте в режиме "Format All + Download"! Этим вы сотрёте свой nvram который содержит кроме IMEI, MAC, BT-адреса, ещё с три десятка заводских калибровок.
 - не шейте файл preloader без крайней необходимости и НЕ включайте форматирование.
 - шить preloader и dsp_bl нужно только в случае подъёма кирпича! Во всех остальных штатных обновлениях и перепрошивках НИ В КОЕМ СЛУЧАЕ не ставьте во SP Flash Tool эти галочки и НЕ включайте форматирование (если preloader будет отличаться хоть на байт (не оригинальный), поломается загрузка, вот тогда его и нужно шить).
@@ -1786,9 +1798,7 @@ https://4pda.to/forum/index.php?showtopic=599456&view=findpost&p=65695187
 если зашло:
 - Прошить стоковую прошивку для фастбут или
 - Прошить twrp A8.1, A9 A10, от прошивки которая стояла. Прошить boot (на всякий случай). потом Прошить Бекап в twrp.
-==== Прошивка MTK без сервисного аккаунта через SPFT
-https://4pda.to/forum/index.php?showtopic=907017&view=findpost&p=103559971 by Megafon929 (оригинал)
-https://4pda.to/forum/index.php?showtopic=912972&view=findpost&p=104634322 by wa2not (пример с картинками)
+
 
 Qualcomm с замыканием контактов Тест Поинт: (также)
 - Отсоединить шлейф АКБ от платы.
@@ -1796,6 +1806,7 @@ Qualcomm с замыканием контактов Тест Поинт: (так
 - Держать контакты замкнутыми, вставить USB кабель в тело.
 Аппарат переводится в режим EDL, экран при этом остаётся выключенным.
 - На ПК открываем ДУ. В разделе "порты COM и LTP" должно появиться новое устройство, "Qualcomm HS-USB QDLoader 9008". Если определилось как 9008 порт, убираем руку с контактов.
+- Начало прошивки тела. Авторизация сервисного аккаунта (интернет).
 - Прошивка тела.
 - Дожидаемся успешного окончания прошивки.
 - Отключаем кабель от тела.
@@ -2189,7 +2200,7 @@ GP обновился до последней версии: удалить об�
 ** LSPosed
 наследник EdXposed. Magisk 22+. Riru 25+.
 модуль CorePatch (ставит первые два патча LP), но сам LP не работает.
-
+https://github.com/coderstory/CorePatch/tree/Q применён третий патч
 
 
 
@@ -2806,17 +2817,19 @@ certus https://www.pling.com/u/nrudesu/
 cereus https://sourceforge.net/projects/nrudesu-rom/files/cereus/
 cactus https://sourceforge.net/projects/nrudesu-rom/files/cactus/
 non-GSI @kokofriud
-RROS-Q-8.6.5 Q. LOSX-10.0-v1.1 Q. Fluid-0.6-Quenol Q. MalluOS_Flavour-1.3-@Chicken Official Q LOS-based Made in Kerala. Gzosp-10.Stable.2.0 Q. Hornbill-1.0-Jackfruit-10.0 Q. AIM-System-V4.1-Lucid Q. DotOS-P-v666 A9. MokeeOS-100.0 Q. Arrow-v10.0 Q. 
+crDroid-v6.17 Q. RROS-Q-8.6.5 Q. LOSX-10.0-v1.1 Q. Fluid-0.6-Quenol Q. MalluOS_Flavour-1.3-@Chicken Official Q LOS-based Made in Kerala. Gzosp-10.Stable.2.0 Q. Hornbill-1.0-Jackfruit-10.0 Q. AIM-System-V4.1-Lucid Q. DotOS-P-v666 A9. MokeeOS-100.0 Q. Arrow-v10.0 Q. 
 cereus https://sourceforge.net/projects/godongteloprojects/files/cereus/
 cactus https://sourceforge.net/projects/godongteloprojects/files/cactus/
+certus https://sourceforge.net/projects/godongteloprojects/files/certus/
 non-GSI @kokofriud+freinds
 ColtOS-v6.5Euphoria Q. BootleggersROM-Queue4cereus.5.2-Stable-Unshishufied Q. 
 https://sourceforge.net/projects/kokofriudnfreinds/files/
 non-GSI @azfasa15 device-brick
 StagOS-10.0.7-Pristine Q. PE+-9.0
 https://sourceforge.net/projects/azfasa15-boleds/files/
-
-
+non-GSI @olivesstuff
+R
+olives ROMS-Kernels https://sourceforge.net/projects/olivesstuff/files/
 
 GSI-unoff @andyyan by @Andy Yans LineageOS LOS 16 A9 UNOFFICIAL
 https://sourceforge.net/projects/andyyan-gsi/files/lineage-16.x/lineage-16.0-20191017-UNOFFICIAL-treble_a64_bvN.img.xz 1Gb(распак).
@@ -2853,6 +2866,7 @@ https://sourceforge.net/projects/evolution-x/files/
 GSI @EnesSastim PE PE+ A8.1. PE PE+ A9 2019-08-24-last. 
 Баги: как и у AOSP A9. Обязательно патч сертификаций!
 https://github.com/EnesSastim/Downloads/releases
+
 
 non-GSI @SamarV-121, @MegaFon929
 LOS-v16.0-20200210 A9 400MB. LOS-v17.1-20200703 Q 438MB.
@@ -3635,11 +3649,16 @@ setprop persist.sys.qcom-brightness $(cat /sys/class/leds/lcd-backlight/max_brig
 
 ФИКС АВТОЯРКОСТИ (есть ещё и такое)
 
-
-
-
-
-
+сертификация устройства в Google play GP
+повторная сертификация устройства GP. приложение Device ID скопировать ID Google services framework.
+https://www.google.com/android/uncertified/ войти в аккаунт GP и вставить туда ID.
+очистить данные Google play store и Google services framework.
++
+/data/data/com.android.vending/shared_prefs/finsky.xml
+ищем ключ "device-google-certified" и меняем false на true
++
+приложение Preferences Manager тоже самое
+https://4pda.to/forum/index.php?showtopic=298302&view=findpost&p=99022872
 
 
 

@@ -51,8 +51,11 @@ Notepad++ https://notepad-plus-plus.org/downloads
 
 
 
-
-
+Удаление мусора GP
+rm -f -r /data/data/com.android.vending/cache/*
+rm -f -r /data/data/com.google.android.gms/cache/*
+rm -f -r /data/data/com.google.android.instantapps.supervisor/cache/*
+rm -f -r /data/tombstones
 
 Почему не поддерживается запись экрана с системным звуком?
 - железо вашего устройства не адаптировано под запись системного звука
