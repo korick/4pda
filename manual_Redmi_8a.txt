@@ -62,6 +62,8 @@ Magisk-v20.4.zip Stable 5.6MB MD5: 9503FC692E03D60CB8897FF2753C193F
 Magisk-uninstaller-20200323.zip 2MB
 MagiskManager-v7.5.1.apk 2MB уже встроен в Magisk-v20.4.zip для twrp
 https://github.com/topjohnwu/Magisk/releases/
+Twrp 3.5.1 64bit
+https://4pda.to/forum/index.php?showtopic=1020524&view=findpost&p=107851456
 TWRP 3.4.0-0 Official twrp-3.4.0-0-olivelite.img 64MB MD5: a7a9eb930537c49b0de368dc40fbafea
 приобрёл статус Official
 https://dl.twrp.me/olivelite
@@ -307,6 +309,25 @@ https://4pda.to/forum/index.php?showtopic=976547&view=findpost&p=98988031
 ; (фикс) Lag Fixer v2 - не ставить. Убирает микрофризы и подлагивания.
 ; (kernel) minimale v2 - тестить
 ;
+
+Установка кастомного TWRP
+https://4pda.to/forum/index.php?showtopic=1020524&view=findpost&p=107028672
+TWRP 64 бит
+https://4pda.to/forum/index.php?showtopic=1020524&view=findpost&p=107030879
+Установка кастомной прошивки 64 бит
+https://4pda.to/forum/index.php?showtopic=1020524&view=findpost&p=107028592
+non-GSI Official Crdroid @deadlylxrd
+https://crdroid.net/olives (R8/R8A/R8ADual)
+non-GSI @olivesstuff
+R
+olives ROMS-Kernels https://sourceforge.net/projects/olivesstuff/files/
+
+
+
+
+
+
+
 
 Как восстановить кирпич?
 Поможет авторизованный сервисный аккаунт. Другого способа прошить в EDL нет. Платно.

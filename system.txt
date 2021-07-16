@@ -587,7 +587,10 @@ MAT-меню-ресиверы-автозапуск-выполнение загр
 
 
 
-Google Yandex AppMeasurement AppManagement Campaign Firebase FirebaseInit Notification RevocationBound ComponentDiscovery Widget Sms Mms Sync BackupAndSync Cloud Update Debug Advertising Ad AdFloat Ads Marketing VK Twitter Facebook Fb Instagram Social Crash Crashlytics Analytics Error Report AppBoy AppBrain Feedback SilentFeedback Telemetry Metrica ACRA 
+Google. Yandex. AppMeasurement. AppManagement. Campaign. Firebase. FirebaseInit Notification. RevocationBound. ComponentDiscovery. Widget. Sms. Mms. Sync. BackupAndSync. Cloud. Update. Debug. Advertising. Ad. AdFloat. Ads. Marketing. VK. Twitter. Facebook. Fb. Instagram. Social. Crash. Crashlytics. Analytics. Error. Report. AppBoy. AppBrain. Feedback. SilentFeedback. Telemetry. Metrica. ACRA. 
+
+GMS-v17-2x: https://4pda.to/forum/index.php?showtopic=587771&view=findpost&p=107484170
+Ads. Tracking. Analytics. Bugreport. Debug. Feedback. Googlehelp. ChimeraTest. FRP. Fitness. Family. Kids. EasyUnlock. Emergency. Admin. Autofill. icing (debug gms). Location reporting & driving mode. Wear. Nearby. Instant app. Trust agent. Contacts restore. People. 
 
 В Сервисах Google Play отключаем PlatformStatsCollectorService
 Ресивер INSTALL_REFERRER – отключаем сразу же

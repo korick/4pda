@@ -66,6 +66,7 @@ Xiaomi Redmi 9A - Прошивки MIUI https://4pda.to/forum/index.php?showtopi
 Windows XP - Обсуждение | [windowsos] https://4pda.to/forum/index.php?showtopic=200978
 Windows XP - FAQ | [windowsos] https://4pda.to/forum/index.php?showtopic=200982
 Настройка Windows XP на старом железе для современного интернета https://habr.com/ru/post/373803
+https://www.comss.ru/page.php?id=8828
 Настройка Windows 7  на старом железе для современного интернета https://habr.com/ru/post/424019
 Windows 78110 рядом
 Муки выбора телефона https://4pda.to/forum/index.php?showtopic=86855
@@ -134,6 +135,7 @@ microG Services Core | Альтернатива сервисам Google Play htt
 Скрипты на shell под Android | Обсуждаем резиденты и прочие в быту полезные команды https://4pda.to/forum/index.php?showtopic=508427
 Создание патча update.zip для прошивки через рекавери https://4pda.to/forum/index.php?showtopic=205817&st=0#Spoil-27695720-32
 Вопросы по безопасности, приватности и анонимности в сети и под андроидом | [technoblabla] общие вопросы безопасности, приватности и анонимности
+https://4pda.to/forum/index.php?showtopic=717365
 https://4pda.to/forum/index.php?showtopic=717365&view=findpost&p=68304580
 Android: проверка и анализ исполняемых файлов и прочие мысли по этому поводу | Проверка, анализ и другие исследования APK, DEX, ODEX, JAR итп
 https://4pda.to/forum/index.php?showtopic=899691
@@ -196,7 +198,7 @@ Tinymix Manager | Изменение значений аудиокарты https
 Degoogling LineageOS https://www.reddit.com/r/LineageOS/comments/cl5c90/degoogling_lineageos_instructions_august_2019
 https://medium.com/russian/почему-мой-телефон-не-обновится-до-нового-андроеда-e4cd5fa3fa85
 https://ubuntulogia.blogspot.com/2008/06/blog-post.html
-
+Развитие механизмов безопасности Android (от версии к версии) https://habr.com/ru/company/swordfish_security/blog/565092
 
 
 
@@ -496,6 +498,7 @@ GZOSP, Validus, AICP. Они все на базе GZOSP.
 https://aokp.co
 
 ** AOSiP
+https://get.aosip.dev/GSI
 OwlsNest - Кастомизация+.
 
 ** CAOS Custom AOSP
@@ -508,10 +511,10 @@ https://downloads.aospextended.com/devices
 https://github.com/aospextended-devices
 https://sourceforge.net/projects/aospextended-rom/files/
 Чистый AOSP. Лёгкий. Быстро. Надёжно. Удобно. Расширения. OTA. Встроенные темы. Локализация не полная. 
-Полностью похожа на LOS только некоторые пункты меню собраны по-другому, расположены в отдельном меню Расширения Extensions - есть нормальная кастомизация, всё что нужно, полный функционал LOS.
+Очень похожа на LOS, некоторые пункты меню собраны по-другому, расположены в отдельном меню Расширения Extensions - есть нормальная кастомизация, всё что нужно, полный функционал LOS.
 AOSP Extended - это прошивка на основе AOSP, которое предоставляет удобный интерфейс UI/UX с полезными настройками. Основана на AOSP, обеспечивает плавную работу. Мы добавили полезные настройки из других похожих проектов с открытым исходным кодом и постарались сделать ещё проще. Прошивка пользователя для пользователя. #BeExtended
 Substratum theme engine.
-Разработка прекращена или приостановлена на A9. Выпущена прошивка на A10 A11. 
+Разработка прекращена или приостановлена на A9. Выпущена прошивка на A10, A11. 
 
 ** PE PE+ Pixel Experience Pixel Experience+
 https://download.pixelexperience.org/devices
@@ -539,7 +542,7 @@ https://sourceforge.net/projects/havoc-os/
 официально поддерживаемых устройств: 
 Нормальная стабильная официальная GSI прошивка без багов.
 HavocOS основан на AOSP, вдохновлён Google Pixel.
-Получен Material Design 2 UI от @SKULSHADY. Столько настроек вы не найдете ни в одной прошивке. Все что вам нужно, и всё о чём вы мечтали. Прошейте и наслаждайтесь. Одни положительные отзывы.
+Получен Material Design 2 UI от @SKULSHADY. Столько настроек вы не найдёте ни в одной прошивке. Все что вам нужно, и всё о чём вы мечтали. Прошейте и наслаждайтесь. Одни положительные отзывы.
 Центр настроек - Кастомизация+. Расширенные настройки кастомизации, где собрано неимоверное количество всевозможных настроек. От такой кастомизации страдает энергоэффективность.
 
 ** Floko
@@ -725,7 +728,7 @@ Nusantara Wings - Кастомизация+. Анимированные субм
 Часть этих приложений (Gmail/Gmail-Go 75МБ/1МБ, Maps/Maps-Go 210МБ/1МБ) написана на HTML5/JS специально для WebView (ярлык приложения - ссылка для браузера и открывается в браузере) это существенно экономит место на флеш-накопителе, разгружает ОЗУ.
 
 ** MIUI "Me You I"
-Надстройка. Кастомизация. Постоянный редизайн Интерфейса. Mi (Mint) Launcher. Локализация частично полная. Реклама. 
+Надстройка. Кастомизация. Постоянный редизайн UI (интерфейса). Mi (Mint) Launcher. Локализация частично полная. Реклама. 
 официально поддерживаемых устройств: 286. Основа: CM, AOSP.
 Разрабатывается фирмой Xiaomi.
 MIUI 10, 11 для нормальной работы надо 3ГБ, как минимум.
@@ -1867,7 +1870,9 @@ Debug   Canary https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/d
 Redmi6  A8.1 Magisk 18.0 Stable
 Redmi6  A9   Magisk 19.3, 20.4 Stable. boot патченый для Magisk 19.3, на этот boot можно ставить Magisk 19.3 и 20.4. boot можно пропатчить самому
 Redmi6  A10  Magisk 20.4 Stable
+Не полноценный рут, слетает рут (перезагрузка помогает), слетают изменения сделанные в Андроиде после перезагрузки (не слетают в TWRP), проверенная и рабочая версия, выше не ставить.
 Redmi6  A11  Magisk 21.4 Stable или Canary или патченый Magisk под определённую версию прошивки
+ПРОПАТЧИТЬ ОБРАЗ ВРУЧНУЮ boot.img
 
 Redmi8A A11  Magisk 21.4 Stable + fix: MAGISK-MOUNT-FIX.zip, Fix+Magisk+Android+11+(GSI).zip
 
@@ -1877,11 +1882,7 @@ Redmi8A A11  Magisk 21.4 Stable + fix: MAGISK-MOUNT-FIX.zip, Fix+Magisk+Android+
     export PATH
      /sbin:/vendor/bin:/system/bin
 
-Magisk 22.0+ ставить начисто, не обновлять через менеджер.
-
-ПРОПАТЧИТЬ ОБРАЗ ВРУЧНУЮ boot.img
-
-Не полноценный рут, слетает рут (перезагрузка помогает), слетают изменения сделанные в Андроиде после перезагрузки (не слетают в TWRP), проверенная и рабочая версия, выше не ставить.
+             Magisk 22.0+ ставить начисто, не обновлять через менеджер.
 
 Чтобы применились изменения: ковырять system в twrp, использовать удобный файловый менеджер.
 На Redmi 6/6A рут не полноценный из-за нашей armv7-a архитектуры, с которой Magisk через пень колоду работает. Поэтому система и все разделы кроме data можно редактировать только из TWRP или модулями Magisk.
@@ -2679,6 +2680,7 @@ https://4pda.to/forum/dl/post/18137561/recovery-TWRP-3.3.1-0602-REDMI6-CN-wzsx15
 ==== OFRP OrangeFox Recovery
 OF OrangeFox Unofficial новое 07.12.2020 стабильный релиз на базе TWRP 3.4.0
 https://4pda.to/forum/index.php?showtopic=907017&view=findpost&p=102330816
+https://orangefox.download/ru-RU/release
 ==== PBRP 3.0.0 Official PitchBlack Recovery Project на базе TWRP 3.4
 https://pitchblackrecovery.com/cereus/
 https://github.com/PitchBlackRecoveryProject/android_device_xiaomi_cereus-pbrp/releases/
@@ -2827,9 +2829,7 @@ https://sourceforge.net/projects/kokofriudnfreinds/files/
 non-GSI @azfasa15 device-brick
 StagOS-10.0.7-Pristine Q. PE+-9.0
 https://sourceforge.net/projects/azfasa15-boleds/files/
-non-GSI @olivesstuff
-R
-olives ROMS-Kernels https://sourceforge.net/projects/olivesstuff/files/
+
 
 GSI-unoff @andyyan by @Andy Yans LineageOS LOS 16 A9 UNOFFICIAL
 https://sourceforge.net/projects/andyyan-gsi/files/lineage-16.x/lineage-16.0-20191017-UNOFFICIAL-treble_a64_bvN.img.xz 1Gb(распак).
@@ -3611,7 +3611,24 @@ https://4pda.to/forum/index.php?showtopic=964578&view=findpost&p=88532309
 - качаем Device ID.apk https://androidfilehost.com/?fid=673956719939830832
 - копируем Google Service Framework (GSF)
 - идем сюда https://www.google.com/android/uncertified/ , вставляем и жмём кнопку
-+ 
++
+сертификация устройства в Google play GP
+повторная сертификация устройства GP. приложение Device ID скопировать ID Google services framework.
+https://www.google.com/android/uncertified/ войти в аккаунт GP и вставить туда ID.
+очистить данные Google play store и Google services framework.
++
+/data/data/com.android.vending/shared_prefs/finsky.xml
+ищем ключ "device-google-certified" и меняем false на true
++
+приложение Preferences Manager тоже самое
+https://4pda.to/forum/index.php?showtopic=298302&view=findpost&p=99022872
++
+Проверка SafetyNet
+модуль Magisk CTS_Fix.zip.
+Перезагрузить.
+Включить MagiskHide.
+Проверить тест.
++
 Кто ставит с гаппсами или гаппсы поверху и не работают кнопки, др.:
 Отладка по USB ВКЛ. через ADB на ПК.
 adb shell settings put secure user_setup_complete 1
@@ -3621,6 +3638,37 @@ adb shell settings put global device_provisioned 1
 Не смотря на то что процессор нашего аппарата 64-х битный, ядро, binder и вендор - 32-х битные. Это означает, что полноценной поддержки 64 bit Xiaomi нам не завезла. В итоге мы имеем 32-х битную ОС, и все прошивки у нас - 32-х битные.
 На наш аппарат ставятся приложения arm (arm7a). Другие не пойдут.
 Так же и с Gapps - выбираем arm-9(10)-pico.
+
+Установить microG Services Core Install microG:
++
+Вставить в корень диска файл .nanodroid-setup. Настройки установки без маркета.
+Если нужен какой нибудь маркет, то отредактировать по инструкции:
+https://4pda.to/forum/index.php?showtopic=724118&view=findpost&p=99584715
+Прошить в twrp патч подмены подписи:
+https://downloads.nanolx.org/NanoDroid/Stable/NanoDroid-patcher-23.1.2.20210117.zip
+Устанавливается очень долго.
+Загрузиться в систему и после прошить в twrp сам microG:
+https://downloads.nanolx.org/NanoDroid/Stable/NanoDroid-microG-23.1.2.20210117.zip
+Загрузиться в систему, открыть настройки microG. В меню "Проверка работоспособности" установить все галки. Если какие то пункты не выбрать, в них должно быть описание, что нужно сделать. У меня были проблемы пока не разобрался с патчем подмены подписи. После его установки все галки смог выбрать без проблем.
+Если все галки установили, включить в настройках "Регистрацию устройства Google" и "Облачный обмен сообщениями" (пуши).
+Ставить на чистую систему, пока приложения не установлены, желательно. Они просто могут не появиться в списке приложений с пушами, если были установлены до microG.
+Главный нюанс, будет ли работать подмена подписи на не деодексированной прошивке. На деодексе проблем с этим не возникло.
++
+Если ставите на установленную прошивку:
+Удалить приложения Гугла: Сервисы, Маркет, Отчет, Google Service Framework, Google Partner Setup, GoogleOneTimeInitializer, Поиск Google (возможно не обязательно)
+Удалять не обязательно: всякие почты, диски, ост. приложения
+Если нужен Хром, д.б. системным, иначе не будет работать синхронизация.
+После удаления очистить cache и dalvik.
++
+Игры, которым надо гаппсы (GP) - не работают без гаппсов. С microg, такие игры будут работать, зависит от игры. Практически все приложения работают, за редким исключением, которые продолжают требовать гаппсы.
++
+Установить патч подмены подписи:
+https://4pda.to/forum/index.php?showtopic=724118&view=findpost&p=105907431
+Использовать этот автоматический установщик:
+https://4pda.to/forum/index.php?showtopic=724118&view=findpost&p=72468749
+Проставить галочки, "Push Notification Tester" будет показывать, что push уведомления не работают, но по факту они работать будут.
+Не подхватываются в уже установленных приложениях, вроде.
+Ставить при прошивке новой прошивки, в теме microg предлагают ряд решений этой проблемы.
 
 RIL фикс
 не определяются sim. нет сети.
@@ -3648,17 +3696,6 @@ setprop persist.sys.qcom-brightness $(cat /sys/class/leds/lcd-backlight/max_brig
 Результат можно увидеть сразу, без перезагрузки
 
 ФИКС АВТОЯРКОСТИ (есть ещё и такое)
-
-сертификация устройства в Google play GP
-повторная сертификация устройства GP. приложение Device ID скопировать ID Google services framework.
-https://www.google.com/android/uncertified/ войти в аккаунт GP и вставить туда ID.
-очистить данные Google play store и Google services framework.
-+
-/data/data/com.android.vending/shared_prefs/finsky.xml
-ищем ключ "device-google-certified" и меняем false на true
-+
-приложение Preferences Manager тоже самое
-https://4pda.to/forum/index.php?showtopic=298302&view=findpost&p=99022872
 
 
 
